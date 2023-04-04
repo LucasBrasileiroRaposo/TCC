@@ -8,7 +8,8 @@ with open('pdfs/2022_PV_digital_D1_CD1_ingles.pdf', 'rb') as arquivo_pdf:
 
     # Inicializar variável de texto
 
-    questoesHumanas = []
+    redacao = []
+    questoesHumanas = {}
     questoesLinguagens = {}
     identificador = 1
     contador = 0
@@ -25,16 +26,16 @@ with open('pdfs/2022_PV_digital_D1_CD1_ingles.pdf', 'rb') as arquivo_pdf:
                 contador += 1
             elif identificador > 45:
                 contador = 0
-                questoesHumanas.append([identificador,pagina.extract_text().split("Questão %2d - Ciências Humanas e suas Tecnologias", identificador)])
+                questoesHumanas[identificador] = pagina.extract_text().split("Questão %2d - Ciências Humanas e suas Tecnologias", identificador)[0]
                 identificador += 1
                 contador += 1
-        # else:
-        #     if identificador == 46:
-        #         redacao.append(pagina.extract_text())
-        #     elif  contador <= len(questoesLinguagens) and contador > 0 and identificador <= 45:
-        #         questoesLinguagens[contador-1][1].append(pagina.extract_text())
-        #     elif contador > 0 and contador <= len(questoesHumanas) and identificador > 45:
-        #         questoesHumanas[contador-1][1].append(pagina.extract_text())              
+        else:
+            if identificador == 46:
+                redacao.append(pagina.extract_text())
+            elif (identificador-1  in questoesLinguagens) and identificador <= 45:
+                questoesLinguagens[identificador-1] += pagina.extract_text()
+            elif (identificador-1 in questoesHumanas) and identificador > 45:
+                questoesHumanas[identificador-1]  += pagina.extract_text()              
 
 
         # Extrair o texto da página
@@ -42,5 +43,6 @@ with open('pdfs/2022_PV_digital_D1_CD1_ingles.pdf', 'rb') as arquivo_pdf:
 # Imprimir o texto extraído
 # print("{} \n {}".format(questoesHumanas,questoesLinguagens))
 # print(redacao)
-print(questoesLinguagens)
+print(questoesLinguagens[3])
+print(questoesHumanas[49])
 # print(questoesHumanas)
