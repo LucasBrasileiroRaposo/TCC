@@ -1,4 +1,6 @@
 import PyPDF2
+from main import db_connect 
+
 def convertDigitalEnem(nomeArquivo) :
 # Abrir o arquivo PDF em modo de leitura binária
     with open( "pdfs/provasDigitais/" + nomeArquivo, 'rb') as arquivo_pdf:
@@ -8,6 +10,8 @@ def convertDigitalEnem(nomeArquivo) :
 
         # Inicializar variável de texto
 
+        ano = int(nomeArquivo[:4])
+        area = ""
         redacao = []
         questoesHumanas = {}
         questoesLinguagens = {}
@@ -49,18 +53,31 @@ def convertDigitalEnem(nomeArquivo) :
                 elif (identificador-1 in questoesMatematica) and identificador > 135 and identificador <= 180:
                     questoesMatematica[identificador-1]  += pagina.extract_text()     
 
+            # depois fazer tabela apenas para redação
+
 
             # Extrair o texto da página
-    
+        
+        # for quest in questoesLinguagens.keys():
+        #     area = "Linguagens"
+        #     db_connect.save_question(quest, area, questoesLinguagens[quest], ano)
+        # for quest in questoesHumanas.keys():
+        #     area = "Humanas"
+        #     db_connect.save_question(label=quest, area=area, text=questoesHumanas[quest], year=ano)
+        # for quest in questoesNatureza.keys():
+        #     area = "Natureza"
+        #     db_connect.save_question(label=quest, area=area, text=questoesNatureza[quest], year=ano)
+        # for quest in questoesMatematica.keys():
+        #     area = "Matematica"
+        #     db_connect.save_question(label=quest, area=area, text=questoesMatematica[quest], year=ano)
 # Imprimir o texto extraído
 # print("{} \n {}".format(questoesHumanas,questoesLinguagens))
-        print("PROVA DIA 1")
-        print(redacao)
-        print(questoesLinguagens)
-# print(questoesHumanas[49])
-        print(questoesHumanas)
-        print('\n\n\n')
+        # print("PROVA DIA 1")
+        # print(redacao)
+        # print(questoesLinguagens)
+        # print(questoesHumanas)
+        # print('\n\n\n')
 
-        print("PROVA DIA 2")
-        print(questoesNatureza)
-        print(questoesMatematica)
+        # print("PROVA DIA 2")
+        # print(questoesNatureza)
+        # print(questoesMatematica)
