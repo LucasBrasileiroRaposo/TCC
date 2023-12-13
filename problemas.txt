@@ -1,0 +1,3 @@
+questões em sequência que são baseadas em um texto para que sejam respondidas (ex. 134 e 135)
+
+questões que na hora da conversão do pdf ficam com enunciado separado / contando como se o enunciado fosse um questão completa
