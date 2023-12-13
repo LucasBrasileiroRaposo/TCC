@@ -3,3 +3,5 @@ questões em sequência que são baseadas em um texto para que sejam respondidas
 questões que na hora da conversão do pdf ficam com enunciado separado / contando como se o enunciado fosse um questão completa
 
 split da questão está com problemas, pois na hora de fazer o split o texto Questão e o número não ficam dentro do corpo da questão, logo na hr de mapear as questões não fica interessantes
+
+ao menos a última alternativa precisa de um ponto final para ser capturada.
