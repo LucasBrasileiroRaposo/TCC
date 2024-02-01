@@ -3912,7 +3912,8 @@ defeituoso.
 6/100 ≤ P < 8/100 Ruim
 8/100 ≤ P ≤ 1 Péssimo
 O desempenho conjunto dessas máquinas, em setembro, 
-pode ser classificado comoA excelente.
+pode ser classificado como
+A excelente.
 B bom.
 C regular.
 D ruim.
