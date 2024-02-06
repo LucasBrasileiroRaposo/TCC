@@ -204,7 +204,7 @@ comunidade republicana que garanta formalmente
 a igualdade de direitos para todos, pode eclodir um 
 conflito cultural movido pelas minorias desprezadas 
 contra a cultura da maioria.
-A reivindicação dos direitos culturais das minorias, 
+a reivindicação dos direitos culturais das minorias, 
 como exposto por Habermas, encontra amparo nas 
 democracias contemporâneas, na medida em que 
 se alcança
@@ -1062,8 +1062,8 @@ substâncias. Além dessa informação, o rótulo traz, ainda,
 a inscrição “Não contém CFC”. As reações a seguir, que 
 ocorrem na estratosfera, justificam a não utilização de 
 CFC (clorofluorcarbono ou Freon) nesse desodorante:
- I) CF2Cℓ2 -UV-> CF2Cℓ  + Cℓ   
- • Leitura da equação química: CF2Cℓ2, na presença 
+I) CF2Cℓ2 -UV-> CF2Cℓ  + Cℓ   
+  • Leitura da equação química: CF2Cℓ2, na presença 
 de radiação ultravioleta, formando radical CF2Cℓ 
 mais radical Cℓ.
 II) Cℓ  + O3
@@ -1127,16 +1127,11 @@ manipulação do milho original, com a transferência,
 para este, de um gene de interesse retirado de outro 
 organismo de espécie diferente. A característica de interesse será manifestada em 
 decorrência
-A do incremento do DNA a partir da duplicação do gene 
-transferido.
-B da transcrição do RNA transportador a partir do gene 
-transferido.
-C da expressão de proteínas sintetizadas a partir do 
-DNA não hibridizado.
-D da síntese de carboidratos a partir da ativação do 
-DNA do milho original.
-E da tradução do RNA mensageiro sintetizado a partir 
-do DNA recombinante.
+A do incremento do DNA a partir da duplicação do gene transferido.
+B da transcrição do RNA transportador a partir do gene transferido.
+C da expressão de proteínas sintetizadas a partir do DNA não hibridizado.
+D da síntese de carboidratos a partir da ativação do DNA do milho original.
+E da tradução do RNA mensageiro sintetizado a partir do DNA recombinante.
 QUESTÃO 53 
 Os metais puros, assim como suas ligas, mostram 
 grande variedade de propriedades. Ligas são misturas 
@@ -1321,11 +1316,11 @@ quantidade total de luz visível emitida pela lâmpada,
 medido em lúmen (lm) no Sistema Internacional de 
 Unidades. A máxima redução na potência instalada na residência, 
 em watts, sem que o fluxo luminoso em cada cômodo iminua, é de
-A 546
-B 550
-C 554
-D 582
-E 586
+A 546.
+B 550.
+C 554.
+D 582.
+E 586.
 QUESTÃO 63 
 O menor tamanduá do mundo é solitário e tem 
 hábitos noturnos, passa o dia repousando, geralmente 
@@ -1513,11 +1508,11 @@ Supondo que as condições de trânsito sejam favoráveis
 para que o veículo da empresa ande continuamente 
 na velocidade máxima permitida, qual será o tempo 
 necessário, em horas, para a realização da entrega?
-A 0,7
-B 1,4
-C 1,5
-D 2,0
-E 3,0
+A 0,7.
+B 1,4.
+C 1,5.
+D 2,0.
+E 3,0.
 QUESTÃO 73 
 No Brasil, uma parte considerável da produção 
 agrícola se deteriora antes de chegar às prateleiras 
@@ -1796,11 +1791,11 @@ velocidade média de 300 km/h.
 Com base nas informações contidas no texto, a partir 
 de quantos quilômetros ainda seria mais vantajoso, em 
 relação ao tempo total gasto, viajar de avião?
-A 400
-B 605
-C 642
-D 1 210
-E 1 283
+A 400.
+B 605.
+C 642.
+D 1 210.
+E 1 283.
 *LEBR75SAB28*
 CN - 1º dia | Caderno 3 - BRANCO - Página 29
 QUESTÃO 87 
@@ -1813,18 +1808,11 @@ asteroide colidiu com a Terra, formando uma densa
 nuvem de poeira na atmosfera.
 De acordo com essa teoria, a extinção ocorreu em função 
 de modificações no planeta que
-A desestabilizaram o relógio biológico dos animais, 
-causando alterações no código genético.
+A desestabilizaram o relógio biológico dos animais, causando alterações no código genético.
 B reduziram a penetração da luz solar até a superfície da Terra, interferindo no fluxo energético das teias tróficas.
-C causaram uma série de intoxicações nos animais, 
-provocando a bioacumulação de partículas de poeira 
-nos organismos.
-D resultaram na sedimentação das partículas de poeira 
-levantada com o impacto do meteoro, provocando o 
-desaparecimento de rios e lagos.
-E evitaram a precipitação de água até a superfície da 
-Terra, causando uma grande seca que impediu a 
-retroalimentação do ciclo hidrológico.
+C causaram uma série de intoxicações nos animais, provocando a bioacumulação de partículas de poeira nos organismos.
+D resultaram na sedimentação das partículas de poeira levantada com o impacto do meteoro, provocando o desaparecimento de rios e lagos.
+E evitaram a precipitação de água até a superfície da Terra, causando uma grande seca que impediu a retroalimentação do ciclo hidrológico.
 QUESTÃO 88 
 O boato de que os lacres das latas de alumínio teriam 
 um alto valor comercial levou muitas pessoas a juntarem 
@@ -1986,14 +1974,10 @@ influência sobre seus fãs, o famoso músico Jimi Hendrix
 associa, em seu texto, os termos love, power e peace 
 para justificar sua opinião de que
 A a paz tem o poder de aumentar o amor entre os homens.
-B o amor pelo poder deve ser menor do que o poder 
-do amor.
-C o poder deve ser compartilhado entre aqueles que 
-se amam.
-D o amor pelo poder é capaz de desunir cada vez mais 
-as pessoas.
-E a paz será alcançada quando a busca pelo poder 
-deixar de existir.
+B o amor pelo poder deve ser menor do que o poder do amor.
+C o poder deve ser compartilhado entre aqueles que se amam.
+D o amor pelo poder é capaz de desunir cada vez mais as pessoas.
+E a paz será alcançada quando a busca pelo poder deixar de existir.
 QUESTÃO 95 
 Considere o cartum em que dois homem 
 conversam:
@@ -2258,13 +2242,10 @@ Um aspecto da composição estrutural que caracteriza o relato
 pessoal de A.P.S. (sexo feminino, 38 anos, nível de ensino 
 fundamental, participante do Projeto Fala Goiana) como 
 modalidade falada da língua é
-A predomínio de linguagem informal entrecortada 
-por pausas.
+A predomínio de linguagem informal entrecortada por pausas.
 B vocabulário regional desconhecido em outras variedades do português.
-C realização do plural conforme as regras da 
-tradição gramatical.
-D ausência de elementos promotores de coesão entre 
-os eventos narrados.
+C realização do plural conforme as regras da tradição gramatical.
+D ausência de elementos promotores de coesão entre os eventos narrados.
 E presença de frases incompreensíveis a um leitor iniciante.
 *LECZ25dom6*
 LC - 2º dia | Caderno 6 - CINZA - Página 7
@@ -3491,11 +3472,11 @@ receita bruta. A parte do lucro de cada sócio é diretamente
 proporcional à sua participação.
 a receita bruta da empresa no mês em que um sócio 
 lucrou R$ 75 600,00 a mais do que o outro foi
-A R$ 1 080 000,00
-B R$ 540 000,00
-C R$ 378 000,00
-D R$ 360 000,00
-E R$ 216 000,00
+A R$ 1 080 000,00.
+B R$ 540 000,00.
+C R$ 378 000,00.
+D R$ 360 000,00.
+E R$ 216 000,00.
 QUESTÃO 138 
 Jogar baralho é uma atividade que estimula o 
 raciocínio. Um jogo tradicional é a Paciência, que utiliza 
@@ -3558,11 +3539,11 @@ Outras atividades               |        3       |     3
 De acordo com esta pesquisa, quantas horas de seu tempo 
 gasta um jovem entre 12 e 18 anos, na semana inteira 
 (de segunda-feira a domingo), nas atividades escolares?
-A 20
-B 21
-C 24
-D 25
-E 27
+A 20.
+B 21.
+C 24.
+D 25.
+E 27.
 QUESTÃO 141 
 Certo vendedor tem seu salário mensal calculado 
 da seguinte maneira: ele ganha um valor fixo de 
@@ -3635,11 +3616,11 @@ A partir dessas equações, de oferta e de demanda, os
 economistas encontram o preço de equilíbrio de mercado, 
 ou seja, quando QO e QD se igualam.
 Para a situação descrita, qual o valor do preço de equilíbrio?
-A 5
-B 11
-C 13
-D 23
-E 33
+A 5.
+B 11.
+C 13.
+D 23.
+E 33.
 QUESTÃO 144 
 Nos shopping centers costumam existir parques com 
 vários brinquedos e jogos. Os usuários colocam créditos 
@@ -3696,11 +3677,11 @@ dados para cada árvore:
 • Árvore IV: escala = 1:300; altura = 4,5 lados do quadradinho da malha quadriculada;
 • Árvore V: escala = 2:300; altura = 4,5 lados do quadradinho da malha quadriculada.
 Qual é a árvore que apresenta a maior altura real?
-A I
-B II
-C III
-D IV
-E V
+A I.
+B II.
+C III.
+D IV.
+E V.
 QUESTÃO 147 
 Em um jogo há duas urnas com 10 bolas de mesmo 
 tamanho em cada urna. A tabela a seguir indica as 
@@ -3746,11 +3727,11 @@ primeira viagem ocorreu no dia primeiro de janeiro.
 Considere que o ano tem 365 dias.
 Se o maquinista quiser ganhar o máximo possível, 
 quantas viagens precisará fazer?
-A 37
-B 51
-C 88
-D 89
-E 91 
+A 37.
+B 51.
+C 88.
+D 89.
+E 91.
 QUESTÃO 150 
 Alguns objetos, durante a sua fabricação, necessitam 
 passar por um processo de resfriamento. Para que isso 
@@ -3830,11 +3811,11 @@ americano, desenhou na lousa uma pista reta de
 Se o percurso de Dean Karnazes fosse também em uma 
 pista reta, qual seria a escala entre a pista feita pelo 
 professor e a percorrida pelo atleta?
-A 1:700
-B 1:7 000
-C 1:70 000
-D 1:700 000
-E 1:7 000 000
+A 1:700.
+B 1:7 000.
+C 1:70 000.
+D 1:700 000.
+E 1:7 000 000.
 QUESTÃO 154 
 No estudo da Física relacionada à Acústica, 
 calculamos a intensidade I do som por meio de uma 
@@ -3870,11 +3851,11 @@ Sabendo-se que um deles levou 50 laranjas a mais no
 segundo trajeto, qual a quantidade de laranjas que José, 
 Carlos e Paulo, nessa ordem, transportaram na segunda 
 parte do trajeto?
-A 600, 550, 350
-B 300, 300, 150
-C 300, 250, 200
-D 200, 200, 100
-E 100, 100, 50
+A 600, 550, 350.
+B 300, 300, 150.
+C 300, 250, 200.
+D 200, 200, 100.
+E 100, 100, 50.
 QUESTÃO 156 
 Em um blog de variedades, músicas, mantras 
 e informações diversas, foram postados “Contos de 
@@ -3932,11 +3913,11 @@ podem estar associados aos símbolos que identificam
 cores, significando se estas são claras ou escuras.
 De acordo com o texto, quantas cores podem ser 
 representadas pelo sistema proposto?
-A 14
-B 18
-C 20
-D 21
-E 23
+A 14.
+B 18.
+C 20.
+D 21.
+E 23.
 QUESTÃO 159 
 José, Paulo e Antônio estão jogando dados não viciados, 
 nos quais, em cada uma das seis faces, há um número de 1 a 6. 
@@ -4020,11 +4001,11 @@ da medida L do lado da base da estátua.
 Qual relação entre R e L o auxiliar técnico deverá 
 apresentar de modo que a exigência de segurança 
 seja cumprida?
-A R ≥ L / 2
-B R ≥ 2L / π
-C R ≥ L / π
-D R ≥ L / 2
-E R ≥ L / (2 2)
+A R ≥ L / 2.
+B R ≥ 2L / π.
+C R ≥ L / π.
+D R ≥ L / 2.
+E R ≥ L / (2 2).
 QUESTÃO 163 
 O Supermercado Preço Bom e seu concorrente 
 mais próximo vendiam latas de óleo idênticas pelo 
@@ -4093,11 +4074,11 @@ constante positiva.
 Se no período que vai da infância até a maioridade de um 
 indivíduo sua massa é multiplicada por 8, por quanto será 
 multiplicada a área da superfície corporal?
-A 16^(1/3)
-B 4
-C 24^(1/2)
-D 8
-E 64
+A 16^(1/3).
+B 4.
+C 24^(1/2).
+D 8.
+E 64.
 QUESTÃO 166 
 Um aluno registrou as notas bimestrais de algumas 
 de suas disciplinas numa tabela. Ele observou que as 
@@ -4113,20 +4094,11 @@ Geografia   |     8,6     |     6,8     |     7,8     |     9,0
 História    |     6,2     |     5,6     |     5,9     |     7,7
 Para obter essas médias, ele multiplicou a matriz obtida a 
 partir da tabela por
-A[1/2 1/2 1/2 1/2]
-B[1/4 1/4 1/4 1/4]
-C[1
-  1
-  1
-  1]
-D[1/2
-  1/2
-  1/2
-  1/2]
-E[1/4
-  1/4
-  1/4
-  1/4]
+A [1/2 1/2 1/2 1/2].
+B [1/4 1/4 1/4 1/4].
+C [1 \n  1 \n  1 \n  1].
+D [1/2 \n  1/2 \n  1/2 \n  1/2].
+E [1/4 \n  1/4 \n  1/4 \n  1/4].
 QUESTÃO 167 
 Existem no mercado chuveiros elétricos de diferentes 
 potências, que representam consumos e custos diversos. 
@@ -4221,11 +4193,11 @@ de lados iguais a (5 – x) e y; o outro de lados iguais a
 x e y; e o terceiro de lados iguais a x e (3 – y).
 Nestas condições, a área perdida do forro, após a primeira 
 lavagem, será expressa por
-A 2xy
-B 15 – 3x
-C 15 – 5y
-D –5y – 3x
-E 5y + 3x – xy 
+A 2xy.
+B 15 – 3x.
+C 15 – 5y.
+D –5y – 3x.
+E 5y + 3x – xy .
 QUESTÃO 171 
 A capacidade mínima, em BTU/h, de um aparelho de 
 ar-condicionado, para ambientes sem exposição ao sol, 
@@ -4259,11 +4231,11 @@ forma de paralelepípedo de largura b, altura d e
 comprimento x.
 a expressão que traduz a resistência S dessa viga de 
 madeira é
-A S = k.b.d^2/x^2
-B S = k.b.d/x^2
-C S = k.b.d^2/x
-D S = k.b^2.d/x
-E S = k.b.2d/2x
+A S = k.b.d^2/x^2.
+B S = k.b.d/x^2.
+C S = k.b.d^2/x.
+D S = k.b^2.d/x.
+E S = k.b.2d/2x.
 *LECZ25dom28*
 MT - 2º dia | Caderno 6 - CINZA - Página 29
 QUESTÃO 173 
@@ -4298,11 +4270,11 @@ Qual será a economia diária de água obtida por meio da
 substituição de uma bacia sanitária não ecológica, que 
 gasta cerca de 60 litros por dia com a descarga, por uma 
 bacia sanitária ecológica?
-A 24 litros
-B 36 litros
-C 40 litros
-D 42 litros
-E 50 litros
+A 24 litros.
+B 36 litros.
+C 40 litros.
+D 42 litros.
+E 50 litros.
 QUESTÃO 175 
 A tabela a seguir mostra a evolução da receita bruta 
 anual nos três últimos anos de cinco microempresas (ME) 
@@ -4389,11 +4361,11 @@ Investidor  |   Hora da Compra   |  Hora da Venda
 5           |   16:00            |  17:00
 Com relação ao capital adquirido na compra e venda das 
 ações, qual investidor fez o melhor negócio?
-A 1
-B 2
-C 3
-D 4
-E 5
+A 1.
+B 2.
+C 3.
+D 4.
+E 5.
 QUESTÃO 179 
 A tabela a seguir apresenta informações sobre as 
 reclamações diárias recebidas e resolvidas pelo Setor de 
