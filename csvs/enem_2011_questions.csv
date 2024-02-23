@@ -1,5 +1,5 @@
-id,year,area,sp_area,day,body,alternatives,result,answer
-1,2011,CH - Ciências Humanas,,D1,"QUESTÃO 01   
+id,year,area,sp_area,day,body,alternatives,answer
+01,2011,CH - Ciências Humanas,,D1,"QUESTÃO 01   
 No mundo árabe, países governados há décadas por 
 regimes políticos centralizadores contabilizam metade 
 da população com menos de 30 anos; desses, 56% 
@@ -23,8 +23,8 @@ C manter o distanciamento necessário à sua segurança.
 D disseminar vírus capazes de destruir programas dos 
 computadores.
 E difundir ideias revolucionárias que mobilizaram a 
-população.",,
-2,2011,CH - Ciências Humanas,,D1,"QUESTÃO 02  
+população.",E
+02,2011,CH - Ciências Humanas,,D1,"QUESTÃO 02  
 O Movimento dos Caras-Pintadas, ocorrido no início 
 dos anos de 1990, arrebatou milhares de jovens no 
 Brasil. Nesse contexto, a juventude, movida por um forte 
@@ -38,8 +38,8 @@ internet para agendar suas manifestações.
 D espelhou-se no movimento estudantil de 1968 e 
 protagonizou ações revolucionárias armadas.
 E tornou-se porta-voz da sociedade e influenciou no 
-processo de impeachment do então presidente Collor.",,
-3,2011,CH - Ciências Humanas,,D1,"QUESTÃO 03  
+processo de impeachment do então presidente Collor.",E
+03,2011,CH - Ciências Humanas,,D1,"QUESTÃO 03  
 O brasileiro tem noção clara dos comportamentos 
 éticos e morais adequados, mas vive sob o espectro da 
 corrupção, revela pesquisa. Se o país fosse resultado dos 
@@ -56,8 +56,8 @@ B parâmetros idealizados, cujo cumprimento é destituído de obrigação.
 C amplas e vão além da capacidade de o indivíduo conseguir cumpri-las integralmente.
 D criadas pelo homem, que concede a si mesmo a lei 
 à qual deve se submeter.
-E cumpridas por aqueles que se dedicam inteiramente a observar as normas jurídicas.",,
-4,2011,CH - Ciências Humanas,,D1,QUESTÃO 04  ,"
+E cumpridas por aqueles que se dedicam inteiramente a observar as normas jurídicas.",D
+04,2011,CH - Ciências Humanas,,D1,QUESTÃO 04  ,"
 A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa 
 taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma 
 pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado.
@@ -66,8 +66,8 @@ A expansão do Projeto Grande Carajás, com incentivos à chegada de novas empre
 B difusão do cultivo da soja com a implantação de monoculturas mecanizadas.
 C construção da rodovia Transamazônica, com o objetivo de interligar a região Norte ao restante do país.
 D criação de áreas extrativistas do látex das seringueiras para os chamados povos da floresta.
-E ampliação do polo industrial da Zona Franca de Manaus, visando atrair empresas nacionais e estrangeiras.",,
-5,2011,CH - Ciências Humanas,,D1,"QUESTÃO 05  
+E ampliação do polo industrial da Zona Franca de Manaus, visando atrair empresas nacionais e estrangeiras.",B
+05,2011,CH - Ciências Humanas,,D1,"QUESTÃO 05  
 O café é tido como uma das maiores riquezas do país; entretanto, é uma das maiores pobrezas. Os proprietários 
 dos latifúndios vivem nas cidades, gastando à larga, levando vida de nababos e com fumaças de aristocratas. 
 Quando o café não lhes dá o bastante para as suas imponências e as da família, começam a clamar que o país vai 
@@ -85,8 +85,8 @@ juros privilegiados obtidos por elas junto aos bancos públicos.
 D importância econômica da cafeicultura, uma vez que a valorização do café garantiria a ampliação massiva do 
 número de empregos no país.
 E utilização da hegemonia política das elites cafeicultoras, que transferiam para a população o ônus, mantendo 
-os privilégios através da proposital manipulação do câmbio.",,
-6,2011,CH - Ciências Humanas,,D1,"QUESTÃO 06  
+os privilégios através da proposital manipulação do câmbio.",E
+06,2011,CH - Ciências Humanas,,D1,"QUESTÃO 06  
 O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era 
 praticamente virgem, não possuindo infraestrutura de monta, nem outros investimentos fixos vindos do passado. 
 Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna.
@@ -96,8 +96,8 @@ A industrialização voltada para o setor de base.
 B economia da borracha no sul da Amazônia. 
 C fronteira agropecuária que degradou parte do cerrado.
 D exploração mineral na Chapada dos Guimarães.
-E extrativismo na região pantaneira.",,
-7,2011,CH - Ciências Humanas,,D1,"QUESTÃO 07  
+E extrativismo na região pantaneira.",C
+07,2011,CH - Ciências Humanas,,D1,"QUESTÃO 07  
 Um dos principais objetivos de se dar continuidade às 
 pesquisas em erosão dos solos é o de procurar resolver 
 os problemas oriundos desse processo, que, em última 
@@ -118,8 +118,8 @@ A a aração.
 B o terraceamento. 
 C o pousio.
 D a drenagem.
-E o desmatamento.",,
-8,2011,CH - Ciências Humanas,,D1,"QUESTÃO 08  
+E o desmatamento.",E
+08,2011,CH - Ciências Humanas,,D1,"QUESTÃO 08  
 Uma empresa norte-americana de bioenergia está 
 expandindo suas operações para o Brasil para explorar 
 o mercado de pinhão manso. Com sede na Califórnia, 
@@ -138,8 +138,8 @@ petróleo em favor de fontes alternativas.
 D baratear cultivos alimentares substituídos pelas 
 culturas energéticas de valor econômico superior.
 E reduzir o impacto ambiental pela não emissão de 
-gases do efeito estufa para a atmosfera.",,
-9,2011,CH - Ciências Humanas,,D1,QUESTÃO 09  ,"
+gases do efeito estufa para a atmosfera.",A
+09,2011,CH - Ciências Humanas,,D1,QUESTÃO 09  ,"
 A araucária é uma árvore que faz parte de  um importante 
 bioma brasileiro que, no entanto, já foi bastante 
 degradado pela ocupação humana. Uma das formas de 
@@ -156,7 +156,7 @@ D o avanço da indústria de papel e celulose a partir da
 exploração da madeira, extraída principalmente no 
 Sul do Brasil.
 E o adensamento do processo de favelização sobre 
-áreas da Serra do Mar na região Sudeste.",,
+áreas da Serra do Mar na região Sudeste.",D
 10,2011,CH - Ciências Humanas,,D1,"QUESTÃO 10  
 SOBRADINHO
 O homem chega, já desfaz a natureza 
@@ -173,7 +173,7 @@ A a migração forçada da população ribeirinha.
 B o rebaixamento do nível do lençol freático local.
 C a preservação da memória histórica da região.
 D a ampliação das áreas de clima árido.
-E a redução das áreas de agricultura irrigada.",,
+E a redução das áreas de agricultura irrigada.",A
 11,2011,CH - Ciências Humanas,,D1,"QUESTÃO 11  
 Como os combustíveis energéticos, as tecnologias 
 da informação são, hoje em dia, indispensáveis em 
@@ -208,7 +208,7 @@ E possibilita a ampliação da quantidade de rejeitos
 que podem ser destinados a associações e 
 cooperativas de catadores de materiais recicláveis, 
 financiados por instituições da sociedade civil ou 
-pelo poder público.",,
+pelo poder público.",A
 12,2011,CH - Ciências Humanas,,D1,"QUESTÃO 12  
 O professor Paulo Saldiva pedala 6 km em 22 
 minutos de casa para o trabalho, todos os dias. Nunca 
@@ -226,7 +226,7 @@ A ampliação da taxa de fecundidade.
 B diminuição da expectativa de vida.
 C elevação do crescimento vegetativo.
 D aumento na participação relativa de idosos. 
-E redução na proporção de jovens na sociedade.",,
+E redução na proporção de jovens na sociedade.",B
 13,2011,CH - Ciências Humanas,,D1,"QUESTÃO 13  
 O fenômeno de ilha de calor é o exemplo mais 
 marcante da modificação das condições iniciais do 
@@ -245,7 +245,7 @@ reflexão no topo dos edifícios.
 D pelo processo de impermeabilização do solo nas 
 áreas centrais das cidades.
 E pela construção de vias expressas e gerenciamento 
-de tráfego terrestre.",,
+de tráfego terrestre.",D
 14,2011,CH - Ciências Humanas,,D1,"QUESTÃO 14  
 O espaço mundial sob a nova des-ordem é um 
 emaranhado de zonas, redes e “aglomerados”, espaços 
@@ -269,7 +269,7 @@ A a estagnação dos Estados com forte identidade cultural.
 B o alcance da racionalidade anticapitalista.
 C a influência das grandes potências econômicas.
 D a dissolução de blocos políticos regionais.
-E o alargamento da força econômica dos países islâmicos.",,
+E o alargamento da força econômica dos países islâmicos.",C
 15,2011,CH - Ciências Humanas,,D1,"QUESTÃO 15  
 As migrações transnacionais, intensificadas e 
 generalizadas nas últimas décadas do século XX, 
@@ -297,7 +297,7 @@ acautelamento dos bens dos imigrantes.
 D a expansão da fronteira agrícola e a expulsão dos 
 imigrantes qualificados.
 E a fuga decorrente de conflitos políticos e o 
-fortalecimento de políticas sociais.",,
+fortalecimento de políticas sociais.",A
 16,2011,CH - Ciências Humanas,,D1,"QUESTÃO 16  
 Estamos testemunhando o reverso da tendência 
 histórica da assalariação do trabalho e socialização 
@@ -330,7 +330,7 @@ computadores em substituição ao trabalho dos
 especialistas  técnicos e gestores.
 E o fortalecimento do diálogo entre operários, 
 gerentes, executivos e clientes com a garantia de 
-harmonização das relações de trabalho.",,
+harmonização das relações de trabalho.",C
 17,2011,CH - Ciências Humanas,,D1,"QUESTÃO 17  
 Na década de 1990, os movimentos sociais 
 camponeses e as ONGs tiveram destaque, ao lado de 
@@ -352,7 +352,7 @@ demandas da sociedade.
 D privilegiam determinadas parcelas da sociedade em 
 detrimento das demais.
 E propiciam a adoção de valores éticos pelos órgãos 
-do Estado.",,
+do Estado.",C
 18,2011,CH - Ciências Humanas,,D1,"QUESTÃO 18  
 Completamente analfabeto, ou quase, sem 
 assistência médica, não lendo jornais, nem revistas, nas 
@@ -378,7 +378,7 @@ engenhos como forma produtiva típica.
 D ditatorial, perturbada por um constante clima de 
 opressão mantido pelo exército e polícia.
 E agrária, marcada pela concentração da terra e do 
-poder político local e regional.",,
+poder político local e regional.",E
 19,2011,CH - Ciências Humanas,,D1,"QUESTÃO 19  
 Art. 92. São excluídos de votar nas Assembleias 
 Paroquiais:
@@ -404,7 +404,7 @@ café, o Sudeste brasileiro.
 D o controle do poder político nas mãos dos grandes 
 proprietários e comerciantes.
 E a diminuição da interferência da Igreja Católica nas 
-decisões político-administrativas.",,
+decisões político-administrativas.",D
 20,2011,CH - Ciências Humanas,,D1,"QUESTÃO 20  
 Considere os textos I e II a seguir.
 Texto I – extraído da obra História do Brasil, de B. Fausto
@@ -444,7 +444,7 @@ impedia a formação de uma aliança duradoura entre
 as oligarquias.
 E A diversificação da produção e a preocupação com 
 o mercado interno unificavam os interesses das 
-oligarquias.",,
+oligarquias.",C
 21,2011,CH - Ciências Humanas,,D1,"QUESTÃO 21  
 São os seguintes os percentuais aproximados do 
 eleitorado inscrito em relação à população, no 
@@ -460,7 +460,7 @@ A 1940-1950 – direito de voto para os ex-escravos.
 B 1950-1960 – fim do voto secreto.
 C 1960-1970 – direito de voto para as mulheres.
 D 1970-1980 – fim do voto obrigatório.
-E 1980-1996 – direito de voto para os analfabetos.",,
+E 1980-1996 – direito de voto para os analfabetos.",E
 22,2011,CH - Ciências Humanas,,D1,"QUESTÃO 22  
 É difícil encontrar um texto sobre a Proclamação 
 da República no Brasil que não cite a afirmação de 
@@ -489,7 +489,7 @@ República Velha.
 D legitimar a ordem política inaugurada com a chegada 
 desse grupo ao poder.
 E destacar a ampla participação popular obtida no 
-processo da Proclamação.",,
+processo da Proclamação.",D
 23,2011,CH - Ciências Humanas,,D1,"QUESTÃO 23  
 Embora o Brasil seja signatário de convenções 
 e tratados internacionais contra a tortura e tenha 
@@ -515,7 +515,7 @@ policiais, em razão do desconhecimento da tortura
 como crime, legitima a impunidade.
 E a justiça tem esbarrado na precária existência de 
 jurisprudência a respeito da tortura, o que a impede 
-de atuar nesses casos.",,
+de atuar nesses casos.",B
 24,2011,CH - Ciências Humanas,,D1,"QUESTÃO 24  
 TEXTO I – extraído da obra Ética e cidadania, de 
 S. Gallo.","
@@ -540,7 +540,7 @@ fatos.
 D propiciarem o entretenimento, aspecto relevante 
 para conscientização política.
 E promoverem a unidade cultural, por meio das 
-transmissões esportivas.",,
+transmissões esportivas.",B
 25,2011,CH - Ciências Humanas,,D1,"QUESTÃO 25  
 O acidente nuclear de Chernobyl revela brutalmente 
 os limites dos poderes técnico-científicos da humanidade 
@@ -560,7 +560,7 @@ da natureza.
 D promova a separação entre natureza e sociedade 
 tecnológica.
 E tenha gestão própria, com o objetivo de melhor 
-apropriação da natureza.",,
+apropriação da natureza.",A
 26,2011,CH - Ciências Humanas,,D1,QUESTÃO 26  ,"
 A introdução de novas tecnologias desencadeou uma 
 série de efeitos sociais que afetaram os trabalhadores 
@@ -583,7 +583,7 @@ trabalhadores no processo de qualificação laboral.
 D pelo aumento na oferta de vagas para trabalhadores 
 especializados em funções repetitivas.
 E pela manutenção de estoques de larga escala em 
-função da alta produtividade.",,
+função da alta produtividade.",C
 27,2011,CH - Ciências Humanas,,D1,"QUESTÃO 27  
 Um volume imenso de pesquisas tem sido produzido 
 para tentar avaliar os efeitos dos programas de televisão. ","
@@ -608,7 +608,7 @@ sociais com menor visão crítica.
 D observam formas de convivência social baseadas 
 na tolerância e no respeito. 
 E apreendem modelos de sociedade pautados na 
-observância das leis.",,
+observância das leis.",C
 28,2011,CH - Ciências Humanas,,D1,"QUESTÃO 28  
 Subindo morros, margeando córregos ou penduradas 
 em palafitas, as favelas fazem parte da paisagem de 
@@ -633,7 +633,7 @@ perdas materiais e humanas.
 E o isolamento socioeconômico dos moradores 
 ocupantes desses espaços com a resultante 
 multiplicação de políticas que tentam reverter 
-esse quadro.",,
+esse quadro.",D
 29,2011,CH - Ciências Humanas,,D1,QUESTÃO 29  ,"
 A Lei 10.639, de 9 de janeiro de 2003, inclui no 
 currículo dos estabelecimentos de ensino fundamental e 
@@ -657,7 +657,7 @@ sua cultura.
 D garante aos afrodescendentes a igualdade no 
 acesso à educação.
 E impulsiona o reconhecimento da pluralidade étnico-
-racial do país.",,
+racial do país.",E
 30,2011,CH - Ciências Humanas,,D1,"QUESTÃO 30  
 Considere a seguinte descrição da foto de um casal 
 de negros, produzida em 1879, em São Paulo: a mulher 
@@ -683,7 +683,7 @@ tentativa de assimilação de um estilo europeu como
 forma de distinção em relação aos brasileiros.
 E A adoção de roupas próprias para o trabalho 
 doméstico tinha como finalidade demarcar as 
-fronteiras da exclusão social naquele contexto.",,
+fronteiras da exclusão social naquele contexto.",C
 31,2011,CH - Ciências Humanas,,D1,"QUESTÃO 31  
 Os três tipos de poder representam três diversos 
 tipos de motivações: no poder tradicional, o motivo da 
@@ -702,7 +702,7 @@ A República Federalista Norte-Americana.
 B República Fascista Italiana no século XX.
 C Monarquia Teocrática do Egito Antigo.
 D Monarquia Absoluta Francesa no século XVII.
-E Monarquia Constitucional Brasileira no século XIX.",,
+E Monarquia Constitucional Brasileira no século XIX.",B
 32,2011,CH - Ciências Humanas,,D1,"QUESTÃO 32  
 Em geral, os nossos tupinambás ficam bem admirados 
 ao ver os franceses e os outros dos países longínquos 
@@ -723,7 +723,7 @@ C do interesse de ambas em uma exploração comercial
 mais lucrativa do pau-brasil.  
 D da curiosidade, reverência e abertura cultural recíprocas.
 E da preocupação com o armazenamento de madeira 
-para os períodos de inverno.",,
+para os períodos de inverno.",A
 33,2011,CH - Ciências Humanas,,D1,"QUESTÃO 33  
 O açúcar e suas técnicas de produção foram levados 
 à Europa pelos árabes no século VIII, durante a Idade 
@@ -746,7 +746,7 @@ insuficiente.
 D as feitorias africanas facilitarem a comercialização 
 desse produto.
 E os nativos da América dominarem uma técnica de 
-cultivo semelhante.",,
+cultivo semelhante.",A
 34,2011,CH - Ciências Humanas,,D1,"QUESTÃO 34  
 No clima das ideias que se seguiram à revolta de São 
 Domingos, o descobrimento de planos para um levante 
@@ -778,7 +778,7 @@ teor libertário, o que terminaria por prejudicar seus
 interesses e seu projeto de nação.
 E rebelar-se contra as representações metropolitanas, 
 isolando politicamente o Príncipe Regente, instalando 
-um governo conservador para controlar o povo.",,
+um governo conservador para controlar o povo.",D
 35,2011,CH - Ciências Humanas,,D1,"QUESTÃO 35  
 Se a mania de fechar, verdadeiro habitus da 
 mentalidade medieval nascido talvez de um profundo 
@@ -795,7 +795,7 @@ A o crescimento das atividades comerciais e urbanas.
 B a migração de camponeses e artesãos.
 C a expansão dos parques industriais e fabris.
 D o aumento do número de castelos e feudos.
-E a contenção das epidemias e doenças.",,
+E a contenção das epidemias e doenças.",A
 36,2011,CH - Ciências Humanas,,D1,"QUESTÃO 36  
 O café tem origem na região onde hoje se encontra 
 a Etiópia, mas seu cultivo e consumo se disseminaram 
@@ -816,7 +816,7 @@ A ateísmo.
 B judaísmo.
 C hinduísmo.
 D islamismo.
-E protestantismo.",,
+E protestantismo.",D
 37,2011,CH - Ciências Humanas,,D1,"QUESTÃO 37  
 Acompanhando a intenção da burguesia 
 renascentista de ampliar seu domínio sobre a natureza e 
@@ -832,7 +832,7 @@ A fé e misticismo.
 B ciência e arte.
 C cultura e comércio.
 D política e economia.
-E astronomia e religião.",,
+E astronomia e religião.",B
 38,2011,CH - Ciências Humanas,,D1,"QUESTÃO 38  
 O Atlas da situação mundial, de D. Smith, registra o 
 quadro das religiões no Brasil, em 2007. De acordo com 
@@ -869,7 +869,7 @@ B incorporação da ideia de liberdade religiosa na esfera
 pública.
 C permissão para o funcionamento de igrejas não cristãs.
 D relação de integração entre Estado e Igreja.
-E influência das religiões de origem africana.",,
+E influência das religiões de origem africana.",D
 39,2011,CH - Ciências Humanas,,D1,"QUESTÃO 39  
 Os chineses não atrelam nenhuma condição para 
 efetuar investimentos nos países africanos. Outro 
@@ -902,7 +902,7 @@ governos em favor dos grandes projetos.
 E Pela presença de um número cada vez maior de 
 diplomatas, o que pode levar à formação de um 
 Mercado Comum Sino-Africano, ameaçando os 
-interesses ocidentais.",,
+interesses ocidentais.",D
 40,2011,CH - Ciências Humanas,,D1,"QUESTÃO 40  
 No Estado de São Paulo, a mecanização da 
 colheita da cana-de-açúcar tem sido induzida também 
@@ -926,7 +926,7 @@ ambiente produtivo.
 D menor compactação do solo pelo uso de maquinário 
 agrícola de porte.
 E poluição do ar pelo consumo de combustíveis fósseis 
-pelas máquinas.",,
+pelas máquinas.",B
 41,2011,CH - Ciências Humanas,,D1,"QUESTÃO 41  
 Considere uma charge da revista “O Malho”, de 1904, 
 em que um grupo de pessoas portando diversos objetos, 
@@ -950,7 +950,7 @@ D o planejamento do governo republicano na área de
 saúde, que abrangia a população em geral.
 E o apoio ao governo republicano pela atitude de 
 vacinar toda a população em vez de privilegiar 
-a elite.",,
+a elite.",A
 42,2011,CH - Ciências Humanas,,D1,"QUESTÃO 42  
 Em meio às turbulências vividas na primeira 
 metade dos anos 1960, tinha-se a impressão de que 
@@ -980,7 +980,7 @@ brasileira, ao incentivar a participação política dos
 mais pobres.
 E diminuía a força dos operários urbanos, ao substituir 
 os sindicatos como instituição de pressão política 
-sobre o governo.",,
+sobre o governo.",A
 43,2011,CH - Ciências Humanas,,D1,"QUESTÃO 43  
 Considere o seguinte trecho da mensagem programática 
 da União Democrática Nacional (UDN), de 1957.","
@@ -1008,7 +1008,7 @@ A fim da intervenção estatal na economia.
 B crescimento do setor de bens de consumo.
 C controle do desenvolvimento industrial.
 D atração de investimentos estrangeiros.
-E limitação da propriedade privada.",,
+E limitação da propriedade privada.",E
 44,2011,CH - Ciências Humanas,,D1,"QUESTÃO 44  
 Em 1872, Robert Angus Smith criou o termo 
 “chuva ácida”, descrevendo precipitações ácidas em 
@@ -1039,7 +1039,7 @@ D as enchentes, que atrapalham a vida do cidadão
 urbano, corroendo, em curto prazo, automóveis e 
 fios de cobre da rede elétrica.
 E a degradação da terra nas regiões semiáridas, 
-localizadas, em sua maioria, no Nordeste do nosso país.",,
+localizadas, em sua maioria, no Nordeste do nosso país.",A
 45,2011,CH - Ciências Humanas,,D1,"QUESTÃO 45  
 Considere a seguinte descrição de uma cadeia 
 agroindustrial integrada ao supermercado: no topo 
@@ -1062,7 +1062,7 @@ A a autonomia do setor primário.
 B a importância do setor financeiro.
 C o distanciamento entre campo e cidade.
 D a subordinação da indústria à agricultura. 
-E a horizontalidade das relações produtivas.",,
+E a horizontalidade das relações produtivas.",B
 46,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 46  
 Um paciente deu entrada em um pronto-socorro 
 apresentando os seguintes sintomas: 
@@ -1093,7 +1093,7 @@ quantidade de glóbulos brancos,que são
 responsáveis pelo transporte de gases no sangue.
 E a dificuldade respiratória ocorreu pela quantidade de 
 plaquetas, que são responsáveis pelo transporte de 
-oxigênio no sangue.",,
+oxigênio no sangue.",A
 47,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 47  
 Considere uma situação hipotética em uma cadeia 
 alimentar, em que os personagens sejam um tigre, um 
@@ -1111,7 +1111,7 @@ A produtor e consumidor primário.
 B consumidor primário e consumidor secundário.
 C consumidor secundário e consumidor terciário.
 D consumidor terciário e produtor.
-E consumidor secundário e consumidor primário.",,
+E consumidor secundário e consumidor primário.",C
 48,2011,CN - Ciências da Natureza,,D1,QUESTÃO 48  ,"
 A produção de soro antiofídico é feita por meio da 
 extração da peçonha de serpentes que, após tratamento, 
@@ -1128,7 +1128,7 @@ A febre alta e constante.
 B redução de imunidade.
 C aumento da pressão arterial.
 D quadro de leucemia profunda.
-E problemas no transporte de oxigênio.",,
+E problemas no transporte de oxigênio.",E
 49,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 49  
 Um dos problemas dos combustíveis que contêm 
 carbono é que sua queima produz dióxido de carbono. 
@@ -1150,7 +1150,7 @@ A Benzeno.
 B Metano.
 C Glicose.
 D Octano.
-E Etanol.",,
+E Etanol.",C
 50,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 50  
 Para evitar o desmatamento da Mata Atlântica nos 
 arredores da cidade de Amargosa, no Recôncavo da 
@@ -1173,7 +1173,7 @@ D construção de biodigestores, para a produção de
 gás combustível a partir de resíduos orgânicos da 
 região.
 E coleta de carvão de regiões mais distantes, onde 
-existe menor intensidade de fiscalização do Ibama.",,
+existe menor intensidade de fiscalização do Ibama.",D
 51,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 51  
 Um barco feito com 12 500 garrafas plásticas 
 recicladas fez uma travessia de 4 meses no Oceano 
@@ -1189,7 +1189,7 @@ A seu casco de plástico.
 B sua forma achatada.
 C seu tamanho.
 D sua densidade. 
-E sua altura.",,
+E sua altura.",D
 52,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 52  
 O manual de funcionamento de um captador de 
 guitarra elétrica apresenta o seguinte texto:
@@ -1215,7 +1215,7 @@ ação do ímã permanente.
 D induz correntes elétricas na bobina mais intensas 
 que a capacidade do captador.
 E oscila com uma frequência menor do que a que pode 
-ser percebida pelo captador.",,
+ser percebida pelo captador.",C
 53,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 53  
 O controle biológico, técnica empregada no combate 
 a espécies que causam danos e prejuízos aos seres 
@@ -1240,7 +1240,7 @@ obtenção de recursos.
 D modificação do ambiente para selecionar indivíduos 
 melhor adaptados.
 E aplicação de inseticidas a fim de diminuir o número 
-de indivíduos que se deseja combater.",,
+de indivíduos que se deseja combater.",A
 54,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 54  
 Belém é cercada por 39 ilhas, e suas populações 
 convivem com ameaças de doenças. O motivo, apontado 
@@ -1257,7 +1257,7 @@ A filtração.
 B cloração.
 C coagulação.
 D fluoretação.
-E decantação.",,
+E decantação.",B
 55,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 55  
 O vírus do papiloma humano (HPV, na sigla em 
 inglês) causa o aparecimento de verrugas e infecção 
@@ -1281,7 +1281,7 @@ por vírus HPV.
 D rapidez na produção de altas concentrações de 
 linfócitos matadores. 
 E presença de células de memória que atuam na 
-resposta secundária.",,
+resposta secundária.",E
 56,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 56  
 Certas ligas estanho-chumbo com composição 
 específica formam um eutético simples, o que significa 
@@ -1312,7 +1312,7 @@ A I e II.
 B I e III. 
 C II e IV.
 D III e V. 
-E IV e V.",,
+E IV e V.",C
 57,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 57  
 No processo de industrialização da mamona, além 
 do óleo que contém vários ácidos graxos, é obtida uma 
@@ -1331,7 +1331,7 @@ A lipofilia.
 B hidrofilia.
 C hipocromia.
 D cromatofilia.
-E hiperpolarização.",,
+E hiperpolarização.",B
 58,2011,CN - Ciências da Natureza,,D1,QUESTÃO 58  ,"
 A pele humana, quando está bem hidratada, 
 adquire boa elasticidade e aspecto macio e suave. 
@@ -1353,7 +1353,7 @@ A ligações iônicas.
 B forças de London.
 C ligações covalentes.
 D forças dipolo-dipolo.
-E ligações de hidrogênio.",,
+E ligações de hidrogênio.",E
 59,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 59  
 Nos dias de hoje, podemos dizer que praticamente todos os seres humanos já ouviram em algum momento 
 falar sobre o DNA e seu papel na hereditariedade da maioria dos organismos. Porém, foi apenas em 1952, um 
@@ -1370,7 +1370,7 @@ B a replicação de DNA é dispersiva, isto é, as fitas filhas contêm DNA rec�
 das fitas.
 C a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita parental e uma recém-sintetizada.
 D a replicação do DNA é conservativa, isto é, as fitas filhas consistem de moléculas de DNA parental.
-E a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita molde e uma fita codificadora.",,
+E a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita molde e uma fita codificadora.",C
 60,2011,CN - Ciências da Natureza,,D1,QUESTÃO 60  ,"
 A eutrofização é um processo em que rios, lagos e mares adquirem níveis altos de nutrientes, especialmente 
 fosfatos e nitratos, provocando posterior acúmulo de matéria orgânica em decomposição. Os nutrientes são 
@@ -1396,7 +1396,7 @@ B N.
 C P.
 D CO2.
 E PO4
-3-.",,
+3-.",B
 61,2011,CN - Ciências da Natureza,,D1,QUESTÃO 61  ,"
 A cal (óxido de cálcio, CaO), cuja suspensão em 
 água é muito usada como uma tinta de baixo custo, dá 
@@ -1420,7 +1420,7 @@ tronco e aquece a cal, que mata os seres vivos do
 microambiente. 
 E vaporização, pois a cal facilita a volatilização da 
 água para a atmosfera, eliminando os seres vivos 
-do microambiente.",,
+do microambiente.",B
 62,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 62  
 Em um manual de um chuveiro elétrico, são 
 encontradas informações sobre algumas características 
@@ -1460,7 +1460,7 @@ A 0,3.
 B 0,6.
 C 0,8.
 D 1,7.
-E 3,0.",,
+E 3,0.",A
 63,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 63  
 Um motor só poderá realizar trabalho se receber 
 uma quantidade de energia de outro sistema. No caso, 
@@ -1477,7 +1477,7 @@ A liberação de calor dentro do motor ser impossível.
 B realização de trabalho pelo motor ser incontrolável.
 C conversão integral de calor em trabalho ser impossível.
 D transformação de energia térmica em cinética ser impossível.
-E utilização de energia potencial do combustível ser incontrolável.",,
+E utilização de energia potencial do combustível ser incontrolável.",C
 64,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 64  
 O padrão de atividade de animais como roedores, 
 cuícas e gambás, animais alvo de predação por outras 
@@ -1502,7 +1502,7 @@ A adaptações quanto à morfologia e ao comportamento das presas.
 B adaptações quanto aos hábitos alimentares dos predadores. 
 C incompatibilidades quanto ao comportamento reprodutivo das presas.
 D compatibilidades quanto ao comportamento reprodutivo dos predadores.
-E variações dos hábitos alimentares das presas.",,
+E variações dos hábitos alimentares das presas.",A
 65,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 65  
 Para que uma substância seja colorida ela deve 
 absorver luz na região do visível. Quando uma amostra 
@@ -1540,7 +1540,7 @@ A azul.
 B verde.
 C violeta.
 D laranja.
-E vermelho.",,
+E vermelho.",E
 66,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 66  
 Em 1999, a geneticista Emma Whitelaw desenvolveu 
 um experimento no qual ratas prenhes foram submetidas 
@@ -1562,7 +1562,7 @@ C mutação em genes autossômicos com expressão
 dominante.
 D substituição no gene da cadeia beta da hemoglobina.
 E inativação de genes por meio de modificações nas 
-bases nitrogenadas.",,
+bases nitrogenadas.",E
 67,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 67  
 O processo de interpretação de imagens capturadas 
 por sensores instalados a bordo de satélites que imageiam 
@@ -1617,7 +1617,7 @@ A 0,4 a 0,5.
 B 0,5 a 0,6.
 C 0,6 a 0,7.
 D 0,7 a 0,8.
-E 0,8 a 0,9.",,
+E 0,8 a 0,9.",E
 68,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 68  
 Um instituto de pesquisa norte-americano divulgou 
 recentemente ter criado uma “célula sintética”, 
@@ -1645,7 +1645,7 @@ microrganismos ou seres mais complexos para
 produzir medicamentos, vacinas e combustíveis.
 E capacidade da bactéria Mycoplasma capricolum 
 de expressar suas proteínas na bactéria sintética e 
-estas serem usadas na indústria.",,
+estas serem usadas na indústria.",D
 69,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 69  
 Os biocombustíveis de primeira geração são 
 derivados da soja, milho e cana-de-açúcar e sua produção 
@@ -1687,7 +1687,7 @@ e sociais, pois a substituição do uso de petróleo
 afeta negativamente toda uma cadeia produtiva na 
 medida em que exclui diversas fontes de emprego 
 nas refinarias, postos de gasolina e no transporte de 
-petróleo e gasolina.",,
+petróleo e gasolina.",A
 70,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 70  
 Em um experimento realizado para determinar a 
 densidade da água de um lago, foram utilizados um 
@@ -1708,7 +1708,7 @@ A 0,6.
 B 1,2.
 C 1,5.
 D 2,4.
-E 4,8.",,
+E 4,8.",B
 71,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 71  
 Uma equipe de cientistas lançará uma expedição ao 
 Titanic para criar um detalhado mapa 3D que “vai tirar, 
@@ -1733,7 +1733,7 @@ com uma intensidade menor que a do som.
 D atenuação da luz nos materiais analisados  é distinta 
 da atenuação de som nestes mesmos materiais. 
 E reflexão da luz nas camadas de sedimentos é menos 
-intensa do que a reflexão do som neste material.",,
+intensa do que a reflexão do som neste material.",D
 72,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 72  
 Os sintomas mais sérios da Gripe A, causada pelo 
 vírus H1N1, foram apresentados por pessoas mais 
@@ -1749,7 +1749,7 @@ A possui anticorpos contra o agente causador da doença.
 B possui proteínas que eliminam o agente causador da doença. 
 C estimula a produção de glóbulos vermelhos pela medula óssea.
 D possui linfócitos B e T que neutralizam o agente causador da doença.
-E estimula a produção de anticorpos contra o agente causador da doença.",,
+E estimula a produção de anticorpos contra o agente causador da doença.",E
 73,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 73  
 Um curioso estudante, empolgado com a aula 
 de circuito elétrico que assistiu na escola, resolve 
@@ -1800,7 +1800,7 @@ A (1), (3), (6)
 B (3), (4), (5)
 C (1), (3), (5) 
 D (1), (3), (7) 
-E (1), (2), (5) .",,
+E (1), (2), (5) .",D
 74,2011,CN - Ciências da Natureza,,D1,QUESTÃO 74  ,"
 A bile é produzida pelo fígado, armazenada na 
 vesícula biliar e tem papel fundamental na digestão de 
@@ -1825,7 +1825,7 @@ A carboxila do ácido cólico.
 B aldeído do ácido cólico.
 C hidroxila do ácido cólico.  
 D cetona do ácido cólico.
-E éster do ácido cólico.",,
+E éster do ácido cólico.",A
 75,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 75  
 Segundo dados do Balanço Energético Nacional 
 de 2008, do Ministério das Minas e Energia, a matriz 
@@ -1855,7 +1855,7 @@ D poluidora, colaborando com níveis altos de gases de
 efeito estufa em função de seu potencial de oferta. 
 E alternativa, tomando-se por referência a grande 
 emissão de gases de efeito estufa das demais 
-fontes geradoras.",,
+fontes geradoras.",D
 76,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 76  
 O peróxido de hidrogênio é comumente utilizado 
 como antisséptico e alvejante. Também pode ser 
@@ -1876,7 +1876,7 @@ A 2,0×10^0 mol.
 B 2,0×10^-3 mol.
 C 8,0×10^-1 mol.
 D 8,0×10^-4 mol.
-E 5,0×10^-3 mol.",,
+E 5,0×10^-3 mol.",D
 77,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 77  
 Um dos critérios utilizados pelos consumidores ao adquirir 
 um automóvel é a avaliação do  consumo de combustível, 
@@ -1895,7 +1895,7 @@ A aumento da emissão de poluentes.
 B aumento da resistência do ar. 
 C aumento  do atrito entre o asfalto e os pneus.
 D diminuição da temperatura do motor.
-E diminuição do rendimento do motor.",,
+E diminuição do rendimento do motor.",B
 78,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 78  
 Moradores sobreviventes da tragédia que destruiu 
 aproximadamente 60 casas no Morro do Bumba, na 
@@ -1908,7 +1908,7 @@ A como subproduto da respiração aeróbia bacteriana.
 B pela degradação anaeróbia de matéria orgânica por bactérias.
 C como produto da fotossíntese de organismos pluricelulares autotróficos.
 D pela transformação química do gás carbônico em condições anaeróbias.
-E pela conversão, por oxidação química, do gás carbônico sob condições aeróbias.",,
+E pela conversão, por oxidação química, do gás carbônico sob condições aeróbias.",B
 79,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 79  
 Diferente do que o senso comum acredita, as 
 lagartas de borboletas não possuem voracidade 
@@ -1936,7 +1936,7 @@ desses locais.
 D voracidade indiscriminada por todas as plantas 
 existentes nesses locais.
 E especificidade pelas plantas da família Solanaceae 
-existentes nesses locais.",,
+existentes nesses locais.",E
 80,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 80  
 Os refrigerantes têm-se tornado cada vez mais o alvo 
 de políticas públicas de saúde. Os de cola apresentam 
@@ -1970,7 +1970,7 @@ equilíbrio para a esquerda.
 D H+, que reage com as hidroxilas OH-, deslocando o 
 equilíbrio para a esquerda.
 E Ca2+, que reage com as hidroxilas OH-, deslocando 
-o equilíbrio para a esquerda.",,
+o equilíbrio para a esquerda.",B
 81,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 81  
 Para medir o tempo de reação de uma pessoa, 
 pode-se realizar a seguinte experiência: 
@@ -2003,7 +2003,7 @@ um movimento acelerado.
 D força peso da régua tem valor constante, o que gera 
 um movimento acelerado.
 E velocidade da régua é constante, o que provoca 
-uma passagem linear de tempo.",,
+uma passagem linear de tempo.",D
 82,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 82  
 Um dos processos usados no tratamento do lixo é a 
 incineração, que apresenta vantagens e desvantagens. 
@@ -2022,7 +2022,7 @@ operacionais relacionados ao processo.
 D fomentar a coleta seletiva de lixo nas cidades para 
 aumentar o volume de lixo incinerado.
 E diminuir a temperatura de incineração do lixo para 
-produzir maior quantidade de energia elétrica.",,
+produzir maior quantidade de energia elétrica.",B
 83,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 83  
 Uma das modalidades presentes nas olimpíadas é o 
 salto com vara. As etapas de um dos saltos de um atleta 
@@ -2056,7 +2056,7 @@ na etapa II, seja totalmente convertida em energia
 potencial elástica, representada na etapa IV.
 E a energia potencial gravitacional, representada 
 na etapa I, seja totalmente convertida em energia 
-potencial elástica, representada na etapa III.",,
+potencial elástica, representada na etapa III.",C
 84,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 84  
 Os Bichinhos e O Homem
 Arca de Noé
@@ -2084,7 +2084,7 @@ A o filo.
 B o reino.
 C a classe.
 D a família.
-E a espécie.",,
+E a espécie.",B
 85,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 85  
 Ao diminuir o tamanho de um orifício atravessado 
 por um feixe de luz, passa menos luz por intervalo de 
@@ -2124,7 +2124,7 @@ pessoa percebe o som mais agudo do que quando
 aquela se afasta.
 E Ao emitir uma nota musical muito aguda, uma 
 cantora de ópera faz com que uma taça de cristal 
-se despedace.",,
+se despedace.",A
 86,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 86  
 Os vaga-lumes machos e fêmeas emitem sinais 
 luminosos para se atraírem para o acasalamento. O 
@@ -2142,7 +2142,7 @@ A comensalismo.
 B inquilinismo.
 C cooperação.
 D predatismo.
-E mutualismo.",,
+E mutualismo.",D
 87,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 87  
 O etanol é considerado um biocombustível promissor, 
 pois, sob o ponto de vista do balanço de carbono, 
@@ -2166,7 +2166,7 @@ D a diminuição do pH do solo pela presença de NH3,
 que reage com a água, formando o NH4OH (aquoso).
 E a diminuição da oxigenação do solo, uma vez que 
 o nitrogênio ativo forma espécies químicas do tipo 
-NO2, NO3-, N2O.",,
+NO2, NO3-, N2O.",C
 88,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 88  
 Considere uma tirinha, formada de quatro 
 quadros, em que as personagens são duas 
@@ -2191,7 +2191,7 @@ A metano durante o processo de digestão.
 B óxido nitroso durante o processo de ruminação.
 C clorofluorcarbono durante o transporte de carne.
 D óxido nitroso durante o processo respiratório.
-E dióxido de enxofre durante o consumo de pastagens.",,
+E dióxido de enxofre durante o consumo de pastagens.",A
 89,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 89  
 Certas espécies de algas são capazes de absorver 
 rapidamente compostos inorgânicos presentes na 
@@ -2220,7 +2220,7 @@ durante a síntese de compostos orgânicos, liberam
 oxigênio para o ambiente. 
 E as algas aproveitam os resíduos do metabolismo dos 
 animais e, durante a quimiossíntese de compostos 
-orgânicos, liberam oxigênio para o ambiente.",,
+orgânicos, liberam oxigênio para o ambiente.",D
 90,2011,CN - Ciências da Natureza,,D1,"QUESTÃO 90  
 Durante as estações chuvosas, aumentam no 
 Brasil as campanhas de prevenção à dengue, que têm 
@@ -2237,8 +2237,8 @@ porque as larvas do mosquito se desenvolvem nesse meio.
 D Higienização adequada de alimentos, visto que 
 as larvas do mosquito se desenvolvem nesse tipo de substrato.
 E Colocação de filtros de água nas casas, visto 
-que a reprodução do mosquito acontece em águas contaminadas.",,
-91,2011,LC - Linguagens e Códigos,Língua estrangeira - Inglês,D2,"QuESTÃO 91  
+que a reprodução do mosquito acontece em águas contaminadas.",C
+91I,2011,LC - Linguagens e Códigos,Inglês,D2,"QuESTÃO 91  
 Going to university seems to reduce the risk of 
 dying from coronary heart disease. An American study 
 that involved 10 000 patients from around the world has 
@@ -2255,8 +2255,8 @@ acadêmico.
 D jovens americanos são alertados dos riscos de 
 doenças do coração.
 E maior nível de estudo reduz riscos de ataques do 
-coração.",,
-92,2011,LC - Linguagens e Códigos,Língua estrangeira - Inglês,D2,"QuESTÃO 92  
+coração.",E
+92I,2011,LC - Linguagens e Códigos,Inglês,D2,"QuESTÃO 92  
 How’s your mood?
 Considere uma figura em que, em um alto 
 e comprido muro de rua, esteja grafitada, com 
@@ -2286,8 +2286,8 @@ ao celular com seus familiares.
 D à relação entre o nível de felicidade das pessoas e o 
 ambiente no qual se encontram.
 E à influência das imagens grafitadas pelas ruas no 
-aumento do nível de felicidade das pessoas.",,
-93,2011,LC - Linguagens e Códigos,Língua estrangeira - Inglês,D2,"QuESTÃO 93   
+aumento do nível de felicidade das pessoas.",D
+93I,2011,LC - Linguagens e Códigos,Inglês,D2,"QuESTÃO 93   
 Considere uma charge em que uma aluna, 
 em frente a um quadro negro onde se lê a frase 
 “REPORTS DUE TODAY!”, diz à sua professora:
@@ -2300,8 +2300,8 @@ A discutir sobre o conteúdo do seu trabalho já entregue.
 B elogiar o tema proposto para o relatório solicitado.
 C sugerir temas para novas pesquisas e relatórios.
 D reclamar do curto prazo para entrega do trabalho.
-E convencer de que fez o relatório solicitado.",,
-94,2011,LC - Linguagens e Códigos,Língua estrangeira - Inglês,D2,"QuESTÃO 94  
+E convencer de que fez o relatório solicitado.",E
+94I,2011,LC - Linguagens e Códigos,Inglês,D2,"QuESTÃO 94  
 Considere uma tirinha, formada de três quadrinhos, em que Jon, dono do gato Garfield, 
 conversa com ele.
 Primeiro quadrinho – Jon, dono do gato Garfield, diz ao animal: “REMEMBER MY OLD GIRLFRIEND JODELL?”
@@ -2313,8 +2313,8 @@ A Jon pensa que sua ex-namorada é maluca e que Garfield não sabia disso.
 B Jodell é a única namorada maluca que Jon teve, e Garfield acha isso estranho.
 C Garfield tem certeza de que a ex-namorada de Jon é sensata, o maluco é o amigo.
 D Garfield conhece as ex-namoradas de Jon e considera mais de uma como maluca.
-E Jon caracteriza a ex-namorada como maluca e Garfield concorda.",,
-95,2011,LC - Linguagens e Códigos,Língua estrangeira - Inglês,D2,"QUESTÃO 95  
+E Jon caracteriza a ex-namorada como maluca e Garfield concorda.",D
+95I,2011,LC - Linguagens e Códigos,Inglês,D2,"QUESTÃO 95  
 War
 Until the philosophy which holds one race superior 
 And another inferior 
@@ -2345,8 +2345,8 @@ A a inércia do continente africano diante das injustiças sociais.
 B a persistência da guerra enquanto houver diferenças raciais e sociais.
 C as acentuadas diferenças culturais entre os países africanos.
 D as discrepâncias sociais entre moçambicanos e angolanos como causa de conflitos.
-E a fragilidade das diferenças raciais e sociais como justificativas para o início de uma guerra.",,
-96,2011,LC - Linguagens e Códigos,Língua estrangeira - Espanhol,D2,"QuESTÃO 91   
+E a fragilidade das diferenças raciais e sociais como justificativas para o início de uma guerra.",B
+91E,2011,LC - Linguagens e Códigos,Espanhol,D2,"QuESTÃO 91   
 ‘Desmachupizar’ el turismo
 Es ya un lugar común escuchar aquello de que 
 hay que desmachupizar el turismo en Perú y buscar 
@@ -2376,8 +2376,8 @@ A à escassez de turistas no país.
 B ao difícil acesso ao lago Titicaca.
 C à destruição da arqueologia no país.
 D ao excesso de turistas na terra dos incas.
-E à falta de atrativos turísticos em Arequipa.",,
-97,2011,LC - Linguagens e Códigos,Língua estrangeira - Espanhol,D2,"QuESTÃO 92  
+E à falta de atrativos turísticos em Arequipa.",D
+92E,2011,LC - Linguagens e Códigos,Espanhol,D2,"QuESTÃO 92  
 Bienvenido a Brasília
 El Gobierno de Brasil, por medio del Ministerio de la 
 Cultura y del Instituto del Patrimonio Histórico y Artístico 
@@ -2411,8 +2411,8 @@ Cultura brasileiro.
 D discussão sobre o estado de conservação dos bens 
 já declarados patrimônios mundiais.
 E estruturação da próxima reunião do Comitê do 
-Patrimônio Mundial.",,
-98,2011,LC - Linguagens e Códigos,Língua estrangeira - Espanhol,D2,"QuESTÃO 93  
+Patrimônio Mundial.",D
+93E,2011,LC - Linguagens e Códigos,Espanhol,D2,"QuESTÃO 93  
 Los fallos de software en aparatos médicos, como 
 marcapasos, van a ser una creciente amenaza para la 
 salud pública, según el informe de Software Freedom Law 
@@ -2441,8 +2441,8 @@ softwares em seres humanos.
 D divulgar novos softwares presentes em aparelhos 
 médicos lançados no mercado.
 E apresentar os defeitos mais comuns de softwares 
-em aparelhos médicos.",,
-99,2011,LC - Linguagens e Códigos,Língua estrangeira - Espanhol,D2,"QuESTÃO 94  
+em aparelhos médicos.",B
+94E,2011,LC - Linguagens e Códigos,Espanhol,D2,"QuESTÃO 94  
 Es posible reducir la basura
 En México se producen más de 10 millones de m3 
 de basura mensualmente, depositados en más de 50 mil 
@@ -2479,8 +2479,8 @@ D ensinar como economizar tempo, dinheiro e esforço
 a partir dos 50 mil depósitos de lixo legalizados.
 E alertar a população mexicana para os perigos 
 causados pelos consumidores de matéria-prima 
-reciclável.",,
-100,2011,LC - Linguagens e Códigos,Língua estrangeira - Espanhol,D2,"QUESTÃO 95  
+reciclável.",A
+95E,2011,LC - Linguagens e Códigos,Espanhol,D2,"QUESTÃO 95  
 El tango
 Ya sea como danza, música, poesía o cabal 
 expresión de una filosofía de vida, el tango posee una 
@@ -2517,8 +2517,8 @@ do país.
 D manifestar seu valor primitivo nas diferentes 
 camadas sociais. 
 E ignorar a influência de países europeus, como 
-Inglaterra e França.",,
-101,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 96  
+Inglaterra e França.",C
+96,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 96  
 Considere a seguinte descrição de um infográfico.
 Título: AMIZADE PÓS-MODERNA
 Subtítulo: A internet e as redes sociais se baseiam em dois tipos de relação
@@ -2540,8 +2540,8 @@ A reduz o número de amigos virtuais, ao limitar o acesso à rede.
 B parte do anonimato obrigatório para se difundir.
 C reforça a configuração de laços mais profundos de amizade.
 D facilita a interação entre pessoas em virtude de interesses comuns. 
-E tem a responsabilidade de promover a proximidade física.",,
-102,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 97  
+E tem a responsabilidade de promover a proximidade física.",D
+97,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 97  
 Na modernidade, o corpo foi descoberto, despido e modelado pelos exercícios físicos da moda. Novos espaços 
 e práticas esportivas e de ginástica passaram a convocar as pessoas a modelarem seus corpos. Multiplicaram-se 
 as academias de ginástica, as salas de musculação e o número de pessoas correndo pelas ruas. 
@@ -2555,8 +2555,8 @@ imunológica, integridade óssea e manutenção da capacidade funcional ao longo
 D exercícios de relaxamento, reeducação postural e alongamentos, que permitem um melhor funcionamento do 
 organismo como um todo, bem como uma dieta alimentar e hábitos saudáveis com base em produtos naturais. 
 E dietas que preconizam a ingestão excessiva ou restrita de um ou mais macronutrientes (carboidratos, gorduras 
-ou proteínas), bem como exercícios que permitem um aumento de massa muscular e/ou modelar o corpo.",,
-103,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 98  
+ou proteínas), bem como exercícios que permitem um aumento de massa muscular e/ou modelar o corpo.",E
+98,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 98  
 Em um anúncio publicitário, um par de pés 
 humanos é mostrado na posição vertical, com 
 suas plantas voltadas para a frente, aparentando 
@@ -2580,8 +2580,8 @@ aleatoriamente.
 D o reconhecimento do intertexto entre a publicidade e 
 um dito popular.
 E a percepção do sentido literal da expressão “noites 
-do terror”, equivalente à expressão “noites de terror”.",,
-104,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 99  
+do terror”, equivalente à expressão “noites de terror”.",D
+99,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 99  
 TExTO i
 O meu nome é Severino,
 não tenho outro de pia.
@@ -2625,8 +2625,8 @@ de outros Severinos que compartilham sua condição.
 D apresentação do personagem-narrador como uma 
 projeção do próprio poeta, em sua crise existencial.
 E descrição de Severino, que, apesar de humilde, 
-orgulha-se de ser descendente do coronel Zacarias.",,
-105,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 100  
+orgulha-se de ser descendente do coronel Zacarias.",C
+100,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 100  
 O hipertexto refere-se à escritura eletrônica não 
 sequencial e não linear, que se bifurca e permite ao leitor o 
 acesso a um número praticamente ilimitado de outros textos 
@@ -2665,8 +2665,8 @@ busca ou blog oferecidos na internet.
 E possibilita ao leitor escolher seu próprio percurso 
 de leitura, sem seguir sequência predeterminada, 
 constituindo-se em atividade mais coletiva e 
-colaborativa.",,
-106,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 101  
+colaborativa.",E
+101,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 101  
 Quem é pobre, pouco se apega, é um giro-o-giro no 
 vago dos gerais, que nem os pássaros de rios e lagoas. O 
 senhor vê: o Zé-Zim, o melhor meeiro meu aqui, risonho 
@@ -2702,8 +2702,8 @@ D mostra como a condição material da vida do
 sertanejo é dificultada pela sua dupla condição de 
 homem livre e, ao mesmo tempo, dependente.
 E mantém o distanciamento narrativo condizente com 
-sua posição social, de proprietário de terras.",,
-107,2011,LC - Linguagens e Códigos,,D2,QuESTÃO 102  ,"
+sua posição social, de proprietário de terras.",D
+102,2011,LC - Linguagens e Códigos,,D2,QuESTÃO 102  ,"
 A discussão sobre “o fim do livro de papel” com a 
 chegada da mídia eletrônica me lembra a discussão 
 idêntica sobre a obsolescência do folheto de cordel. Os 
@@ -2733,8 +2733,8 @@ reprodução em novas tecnologias, mesmo que os
 livros desapareçam.
 E os livros impressos desaparecerão e, com eles, 
 a possibilidade de se ler obras literárias dos mais 
-diversos gêneros.",,
-108,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 103  
+diversos gêneros.",D
+103,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 103  
 TExTO i
 Onde está a honestidade?
 Você tem palacete reluzente
@@ -2772,8 +2772,8 @@ B da crítica aos ricos que possuem joias, mas não têm
 herança. 
 C da maldade do povo a perguntar sobre a honestidade.
 D do privilégio de alguns em clamar pela honestidade.
-E da insistência em promover eventos beneficentes.",,
-109,2011,LC - Linguagens e Códigos,,D2,QuESTÃO 104  ,"
+E da insistência em promover eventos beneficentes.",A
+104,2011,LC - Linguagens e Códigos,,D2,QuESTÃO 104  ,"
 A dança é um importante componente cultural da 
 humanidade. O folclore brasileiro é rico em danças que 
 representam as tradições e a cultura de várias regiões 
@@ -2800,8 +2800,8 @@ manifestações rítmicas são classificadas em um
 ranking das mais originais.
 E lendas, que se sustentam em inverdades históricas, 
 uma vez que são inventadas, e servem apenas para 
-a vivência lúdica de um povo.",,
-110,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 105  
+a vivência lúdica de um povo.",A
+105,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 105  
 Cultivar um estilo de vida saudável é extremamente 
 importante para diminuir o risco de infarto, mas também 
 de problemas como morte súbita e derrame. Significa 
@@ -2825,8 +2825,8 @@ C o termo “como”, em “como morte súbita e derrame”,
 introduz uma generalização.
 D o termo “Também” exprime uma justificativa.  
 E o termo “fatores” retoma coesivamente “níveis de 
-colesterol e de glicose no sangue”.",,
-111,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 106  
+colesterol e de glicose no sangue”.",A
+106,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 106  
 Não tem tradução
 [...]
 Lá no morro, se eu fizer uma falseta","
@@ -2861,8 +2861,8 @@ advento do novo e quente ritmo da música popular
 brasileira. 
 E ironizar a malandragem carioca, aculturada pela 
 invasão de valores étnicos de sociedades mais 
-desenvolvidas.",,
-112,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 107  
+desenvolvidas.",C
+107,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 107  
 Conceitos e importância das lutas
 Antes de se tornarem esporte, as lutas ou as artes 
 marciais tiveram duas conotações principais: eram 
@@ -2891,8 +2891,8 @@ por meio de golpes agressivos sobre o adversário.
 D sofreram transformações em seus princípios filosóficos 
 em razão de sua disseminação pelo mundo.
 E se disseminaram pela necessidade de luta pela 
-sobrevivência ou como filosofia pessoal de vida.",,
-113,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 108  
+sobrevivência ou como filosofia pessoal de vida.",B
+108,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 108  
 O tema da velhice foi objeto de estudo de brilhantes 
 filósofos ao longo dos tempos. Um dos melhores livros 
 sobre o assunto foi escrito pelo pensador e orador 
@@ -2914,8 +2914,8 @@ C defender a ideia de que a velhice é desagradável.
 D influenciar o leitor para que lute contra o 
 envelhecimento.
 E mostrar às pessoas que é possível aceitar, sem 
-angústia, o envelhecimento.",,
-114,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 109  
+angústia, o envelhecimento.",E
+109,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 109  
 Considere as colunas do Palácio da 
 Alvorada, em Brasília, as quais aparentam 
 duas velas triangulares de uma embarcação, 
@@ -2939,8 +2939,8 @@ saliência e distorção à base.
 D a oposição de curvas em concreto, configurando 
 certo peso e rebuscamento. 
 E o excesso de linhas curvas, levando a um exagero 
-na ornamentação.",,
-115,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 110  
+na ornamentação.",B
+110,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 110  
 Estrada
 Esta estrada onde moro, entre duas voltas do caminho,
 Interessa mais que uma avenida urbana.
@@ -2973,8 +2973,8 @@ possibilidade de meditação sobre a sua juventude.
 D a visão negativa da passagem do tempo, visto que 
 esta gera insegurança.
 E a profunda sensação de medo gerada pela reflexão 
-acerca da morte.",,
-116,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 111  
+acerca da morte.",B
+111,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 111  
 No imaginário popular, nenhum “pecado” deixa 
 marcas mais visíveis do que a gula. Dependendo da 
 época ou da cultura, um corpo roliço pode significar 
@@ -2993,8 +2993,8 @@ beleza, e com a qualidade da alimentação.
 D  alimentação farta e balanceada, pois sua alimentação 
 à base de gordura era saudável.
 E fertilidade e desleixo, pois o consumo de gordura 
-aumentaria a probabilidade de gerar filhos varões.",,
-117,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 112  
+aumentaria a probabilidade de gerar filhos varões.",A
+112,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 112  
 No Brasil, a condição cidadã, embora dependa da 
 leitura e da escrita, não se basta pela enunciação do 
 direito, nem pelo domínio desses instrumentos, o que, 
@@ -3013,8 +3013,8 @@ comunidade.
 D faz uma avaliação crítica a respeito da condição 
 cidadã do brasileiro.
 E define instrumentos eficazes para elevar a condição 
-social da população do Brasil.",,
-118,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 113  
+social da população do Brasil.",D
+113,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 113  
 Considere uma escultura composta por uma 
 grande tora de madeira em seu estado natural, 
 à qual está presa uma cadeira de madeira, com 
@@ -3037,8 +3037,8 @@ A funcionais e de sofisticação decorativa.
 B futuristas e do abstrato geométrico. 
 C construtivistas e de estruturas modulares. 
 D abstracionistas e de releitura do objeto.
-E figurativas e de representação do cotidiano.",,
-119,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 114  
+E figurativas e de representação do cotidiano.",D
+114,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 114  
 No capricho
 O Adãozinho, meu cumpade, enquanto esperava 
 pelo delegado, olhava para um quadro, a pintura de 
@@ -3060,8 +3060,8 @@ B crônica, pela abordagem literária de fatos do cotidiano.
 C depoimento, pela apresentação de experiências 
 pessoais. 
 D relato, pela descrição minuciosa de fatos verídicos. 
-E reportagem, pelo registro impessoal de situações reais.",,
-120,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 115  
+E reportagem, pelo registro impessoal de situações reais.",A
+115,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 115  
 Quanto mais recuamos na história, mais definidas, 
 mas também mais estranhas, são as finalidades que se 
 crê serem servidas pela arte.[...] Entre esses primitivos 
@@ -3086,8 +3086,8 @@ desenvolvimento da aptidão artística e iniciavam a
 trajetória das bases da história da Arte.
 E simulavam uma caça em frente à pintura para 
 invocar dos deuses sorte e proteção na empreitada, 
-em um processo ritualístico e mágico.",,
-121,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 116  
+em um processo ritualístico e mágico.",C
+116,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 116  
 Abatidos pelo fadinho harmonioso e nostálgico dos 
 desterrados, iam todos, até mesmo os brasileiros, se 
 concentrando e caindo em tristeza; mas, de repente, 
@@ -3119,8 +3119,8 @@ cala o fado português.
 D destaca o sentimentalismo brasileiro, contrário à 
 tristeza dos portugueses. 
 E atribui aos brasileiros uma habilidade maior com 
-instrumentos musicais.",,
-122,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 117  
+instrumentos musicais.",C
+117,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 117  
 Lépida e leve
 Língua do meu Amor velosa e doce,
 que me convences de que sou frase, 
@@ -3150,8 +3150,8 @@ a construção do verso livre.
 D propõe um modelo novo de erotização na lírica 
 amorosa e propõe a simplificação verbal.
 E explora a construção da essência feminina, a partir 
-da polissemia de “língua”, e inova o léxico.",,
-123,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 118  
+da polissemia de “língua”, e inova o léxico.",E
+118,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 118  
 Guardar 
 Guardar uma coisa não é escondê-la ou trancá-la.
 Em cofre não se guarda coisa alguma.
@@ -3184,8 +3184,8 @@ subjetividade e os valores humanos.
 D destaca a importância de reservar o texto literário 
 àqueles que possuem maior repertório cultural.
 E revela a superioridade da escrita poética como forma 
-ideal de preservação da memória cultural.",,
-124,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 119  
+ideal de preservação da memória cultural.",C
+119,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 119  
 é água que não acaba mais
 Dados preliminares divulgados por pesquisadores 
 da Universidade Federal do Pará (UFPA) apontaram 
@@ -3211,8 +3211,8 @@ A as suas opiniões, baseadas em fatos.
 B os aspectos objetivos e precisos. 
 C os elementos de persuasão do leitor. 
 D os elementos estéticos na construção do texto. 
-E os aspectos subjetivos da mencionada pesquisa.",,
-125,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 120  
+E os aspectos subjetivos da mencionada pesquisa.",B
+120,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 120  
 Pequeno concerto que virou canção
 Não, não há por que mentir ou esconder","
 A dor que foi maior do que é capaz meu coração
@@ -3238,8 +3238,8 @@ certo comportamento.
 D procura explicar a própria linguagem que utiliza para 
 construir a canção. 
 E objetiva verificar ou fortalecer a eficiência da 
-mensagem veiculada.",,
-126,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 121  
+mensagem veiculada.",A
+121,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 121  
 Quando os portugueses se instalaram no Brasil, 
 o país era povoado de índios. Importaram, depois, da 
 África, grande número de escravos. O Português, o 
@@ -3270,8 +3270,8 @@ de língua portuguesa.
 D origem das diferenças entre a língua portuguesa e 
 as línguas tupi.   
 E interação pacífica no uso da língua portuguesa e da 
-língua tupi.",,
-127,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 122  
+língua tupi.",E
+122,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 122  
 Considere um anúncio publicitário em que 
 um grande saco de forma retangular encontra-se, 
 na posição vertical, sobre uma superfície lisa. 
@@ -3302,8 +3302,8 @@ de forma, sugerindo a substituição desse produto
 pelo adoçante. 
 E relacionar a imagem do saco de açúcar a um corpo 
 humano que não desenvolve atividades físicas, 
-incentivando a prática esportiva.",,
-128,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 123  
+incentivando a prática esportiva.",D
+123,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 123  
 TExTO i
 O Brasil sempre deu respostas rápidas através da 
 solidariedade do seu povo. Mas a mesma força que nos 
@@ -3339,8 +3339,8 @@ resolução das mazelas sociais.
 D urgência de se criarem novos órgãos públicos com 
 as mesmas características do SUS.
 E impossibilidade de o homem agir de forma eficaz ou 
-preventiva diante das ações da natureza.",,
-129,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 124  
+preventiva diante das ações da natureza.",C
+124,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 124  
 Entre ideia e tecnologia
 O grande conceito por trás do Museu da Língua é 
 apresentar o idioma como algo vivo e fundamental para 
@@ -3359,8 +3359,8 @@ através da língua.
 D relação entre o idioma e as políticas públicas na 
 área de cultura.
 E diversidade étnica e linguística existente no território 
-nacional.",,
-130,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 125  
+nacional.",B
+125,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 125  
 Na parte esquerda de um anúncio publicitário, 
 identificam-se duas frases, estando a segunda 
 tachada (riscada por um traço horizontal que 
@@ -3410,8 +3410,8 @@ geral para suas responsabilidades ao contratarem
 publicitários sem ética.
 E chamar a atenção de empresas para os efeitos 
 nocivos que elas podem causar à sociedade, se 
-compactuarem com propagandas enganosas.",,
-131,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 126  
+compactuarem com propagandas enganosas.",A
+126,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 126  
 Na parte esquerda de um anúncio publicitário, 
 identificam-se duas frases, estando a segunda 
 tachada (riscada por um traço horizontal que 
@@ -3458,8 +3458,8 @@ C contar a história da criação do órgão como argumento
 de autoridade.
 D subverter o fazer publicitário pelo uso de sua 
 metalinguagem.
-E impressionar o leitor pelo jogo de palavras no texto.",,
-132,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 127  
+E impressionar o leitor pelo jogo de palavras no texto.",D
+127,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 127  
 SE nO invERnO é DiFÍcil AcORDAR,              
 imAGinE DORmiR.
 Com a chegada do inverno, muitas pessoas 
@@ -3484,8 +3484,8 @@ responsável pela supervalorização das condições
 dos necessitados.
 E o jogo de palavras entre “acordar” e “dormir”, o que 
 relativiza o problema do leitor em relação ao dos 
-necessitados.",,
-133,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 128  
+necessitados.",E
+128,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 128  
 mAnDiOcA – mais um presente da Amazônia
 Aipim, castelinha, macaxeira, maniva, maniveira. As 
 designações da Manihot utilissima podem variar de região, 
@@ -3509,8 +3509,8 @@ planta da região amazônica.
 D os nomes designam espécies diferentes da planta, 
 conforme a região.
 E a planta é nomeada conforme as particularidades 
-que apresenta.",,
-134,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 129  
+que apresenta.",A
+129,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 129  
 Motivadas ou não historicamente, normas prestigiadas 
 ou estigmatizadas pela comunidade sobrepõem-se ao 
 longo do território, seja numa relação de oposição, seja de 
@@ -3541,8 +3541,8 @@ norma nacional do Brasil, distinta da de Portugal.
 D inexistência de normas cultas locais e populares ou 
 vernáculas em um determinado país.
 E necessidade de se rejeitar a ideia de que os usos 
-frequentes de uma língua devem ser aceitos.",,
-135,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 130  
+frequentes de uma língua devem ser aceitos.",C
+130,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 130  
 Há certos usos consagrados na fala, e até mesmo 
 na escrita, que, a depender do estrato social e do nível 
 de escolaridade do falante, são, sem dúvida, previsíveis. 
@@ -3581,8 +3581,8 @@ desconhecimento da norma padrão.
 E usuários que desvendam os mistérios e sutilezas da 
 língua portuguesa empregam  formas do verbo ter 
 quando, na verdade, deveriam usar formas do verbo 
-haver, contrariando as regras gramaticais.",,
-136,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 131  
+haver, contrariando as regras gramaticais.",B
+131,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 131  
 Considere uma tirinha, cujo título é As 
 cobras, formada de três quadrinhos. 
 Primeiro quadrinho – Duas cobras deslocam-se 
@@ -3607,8 +3607,8 @@ B contraria a marcação das funções sintáticas de
 sujeito e objeto.
 C gera inadequação na concordância com o verbo.
 D gera ambiguidade na leitura do texto.
-E apresenta dupla marcação de sujeito.",,
-137,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 132  
+E apresenta dupla marcação de sujeito.",B
+132,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 132  
 Palavra indígena","
 A história da tribo Sapucaí, que traduziu para o 
 idioma guarani os artefatos da era da computação que 
@@ -3663,8 +3663,8 @@ web, mesmo em ambiente inóspito.
 E a apropriação da nova tecnologia de forma gradual, 
 evidente quando os guaranis incorporaram a 
 novidade tecnológica ao seu estilo de vida com a 
-possibilidade de acesso à internet.",,
-138,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 133  
+possibilidade de acesso à internet.",C
+133,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 133  
 O que é possível dizer em 140 caracteres?
 Sucesso do Twitter no Brasil é oportunidade única 
 de compreender a importância da concisão nos gêneros 
@@ -3692,8 +3692,8 @@ significativos e, portanto, é pouco útil.
 D interfere negativamente no processo de escrita e 
 acaba por revelar uma cultura pouco reflexiva.
 E estimula a produção de frases com clareza e 
-objetividade, fatores que potencializam a comunicação interativa.",,
-139,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 134  
+objetividade, fatores que potencializam a comunicação interativa.",E
+134,2011,LC - Linguagens e Códigos,,D2,"QuESTÃO 134  
 Em uma figura com sete elementos, dispostos da esquerda para a direita, identifica-se uma representação 
 crítica do processo de evolução humana:
 • primeiro elemento (extrema esquerda do papel): chimpanzé caminhando com o apoio de um dos 
@@ -3718,8 +3718,8 @@ B a mudança do homem em razão dos novos inventos que destroem sua realidade.
 C a problemática social de grande exclusão digital a partir da interferência da máquina.
 D a invenção de equipamentos que dificultam o trabalho do homem, em sua esfera social. 
 E o retrocesso do desenvolvimento do homem em face da criação de ferramentas como lança, máquina e 
-computador.",,
-140,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 135  
+computador.",A
+135,2011,LC - Linguagens e Códigos,,D2,"QUESTÃO 135  
 Em uma figura com sete elementos, dispostos da esquerda para a direita, identifica-se uma representação 
 crítica do processo de evolução humana:
 • primeiro elemento (extrema esquerda do papel): chimpanzé caminhando com o apoio de um dos 
@@ -3746,8 +3746,8 @@ C a utilização demasiada do computador tem proporcionado o surgimento de cient
 esforço repetitivo.
 D o homem criou o computador, que evoluiu, e hoje opera várias ações antes feitas pelas pessoas, tornando-as 
 sedentárias ou obesas.
-E o uso contínuo do computador de forma inadequada tem ocasionado má postura corporal.",,
-141,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 136  
+E o uso contínuo do computador de forma inadequada tem ocasionado má postura corporal.",E
+136,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 136  
 O medidor de energia elétrica das residências, 
 conhecido por “relógio de luz”, é constituído de 
 quatro pequenos relógios, dispostos lado a lado, 
@@ -3775,8 +3775,8 @@ A 2 614.
 B 3 624.
 C 2 715.
 D 3 725.
-E 4 162.",,
-142,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 137  
+E 4 162.",A
+137,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 137  
 Um mecânico de uma equipe de corrida necessita 
 que as seguintes medidas realizadas em um carro sejam 
 obtidas em metros:
@@ -3788,8 +3788,8 @@ A 0,23 e 0,16.
 B 2,3 e 1,6.
 C 23 e 16.
 D 230 e 160.
-E 2 300 e 1 600.",,
-143,2011,MT - Matemática e Códigos,,D2,QuESTÃO 138  ,"
+E 2 300 e 1 600.",B
+138,2011,MT - Matemática e Códigos,,D2,QuESTÃO 138  ,"
 A Escala de Magnitude de Momento (abreviada 
 como MMS e denotada como Mw), introduzida em 1979 
 por Thomas Haks e Hiroo Kanamori, substituiu a Escala 
@@ -3815,8 +3815,8 @@ A 10^-5,10
 B 10^-0,73
 C 10^12,00
 D 10^21,65
-E 10^27,00.",,
-144,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 139  
+E 10^27,00.",E
+139,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 139  
 O dono de uma oficina mecânica precisa de um 
 pistão das partes de um motor, de 68 mm de diâmetro, 
 para o conserto de um carro. Para conseguir um, esse 
@@ -3832,8 +3832,8 @@ A 68,21 mm.
 B 68,102 mm.
 C 68,02 mm.
 D 68,012 mm.
-E 68,001 mm.",,
-145,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 140  
+E 68,001 mm.",E
+140,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 140  
 Café no Brasil
 O consumo de café atingiu o maior nível da história 
 no ano de 2009: os brasileiros beberam o equivalente a 
@@ -3848,8 +3848,8 @@ A 8 bilhões de litros.
 B 16 bilhões de litros.
 C 32 bilhões de litros.
 D 40 bilhões de litros.
-E 48 bilhões de litros.",,
-146,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 141  
+E 48 bilhões de litros.",E
+141,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 141  
 Você pode adaptar as atividades do seu dia a dia de 
 uma forma que possa queimar mais calorias do que as 
 gastas normalmente, conforme a relação seguinte: 
@@ -3867,8 +3867,8 @@ A 50 minutos.
 B 60 minutos.
 C 80 minutos.
 D 120 minutos.
-E 170 minutos.",,
-147,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 142  
+E 170 minutos.",B
+142,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 142  
 Em uma certa cidade, os moradores de um bairro 
 carente de espaços de lazer reivindicam à prefeitura 
 municipal a construção de uma praça. A prefeitura 
@@ -3891,8 +3891,8 @@ A 1.
 B 2.
 C 3.
 D 4.
-E 5.",,
-148,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 143  
+E 5.",C
+143,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 143  
 Sabe-se que a distância real, em linha reta, de 
 uma cidade A, localizada no estado de São Paulo, 
 a uma cidade B, localizada no estado de Alagoas, é 
@@ -3905,8 +3905,8 @@ A 1 : 250.
 B 1 : 2 500.
 C 1 : 25 000.
 D 1 : 250 000.
-E 1 : 25 000 000.",,
-149,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 144  
+E 1 : 25 000 000.",E
+144,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 144  
 Uma indústria fabrica brindes promocionais em 
 forma de pirâmide, que é obtida a partir de quatro cortes 
 feitos em um sólido que tem a forma de um cubo, cujos 
@@ -3928,8 +3928,8 @@ A todos iguais.
 B todos diferentes.
 C três iguais e um diferente.
 D apenas dois iguais.
-E iguais dois a dois.",,
-150,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 145  
+E iguais dois a dois.",E
+145,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 145  
 Uma equipe de especialistas do centro meteorológico 
 de uma cidade mediu a temperatura do ambiente, sempre 
 no mesmo horário, durante 15 dias intercalados, a partir 
@@ -3960,8 +3960,8 @@ A 17 °C, 17 °C e 13,5 °C.
 B 17 °C, 18 °C e 13,5 °C.
 C 17 °C, 13,5 °C e 18 °C.
 D 17 °C, 18 °C e 21,5 °C.
-E 17 °C, 13,5 °C e 21,5 °C.",,
-151,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 146  
+E 17 °C, 13,5 °C e 21,5 °C.",B
+146,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 146  
 Para uma atividade realizada no laboratório de 
 Matemática, um aluno precisa construir uma maquete de 
 uma quadra de esportes que tem 28 m de comprimento 
@@ -3973,8 +3973,8 @@ A 4,8 e 11,2
 B 7,0 e 3,0
 C 11,2 e 4,8
 D 28,0 e 12,0
-E 30,0 e 70,0.",,
-152,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 147  
+E 30,0 e 70,0.",C
+147,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 147  
 Um treinador de um time de basquete utilizou um 
 plano cartesiano, cuja origem coincide com o centro 
 da quadra de basquete e as cestas estão dispostas 
@@ -3993,8 +3993,8 @@ A (2, –4).
 B (4, –5).
 C (4, 1).
 D (–1, 0).
-E (5, 0).",,
-153,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 148  
+E (5, 0).",E
+148,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 148  
 Em 2010, um caos aéreo afetou o continente europeu, 
 devido à quantidade de fumaça expelida por um vulcão na 
 Islândia, o que levou ao cancelamento de inúmeros voos.
@@ -4011,8 +4011,8 @@ A 3 390 pés.
 B 9 390 pés.
 C 11 200 pés.
 D 19 800 pés.
-E 50 800 pés.",,
-154,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 149  
+E 50 800 pés.",C
+149,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 149  
 Um bairro de uma cidade foi planejado em uma 
 região plana. Em um plano de coordenadas cartesianas, 
 cujas distâncias nos eixos x e y são dadas em 
@@ -4032,8 +4032,8 @@ A (–5, 0).
 B (–3, 1).
 C (–2, 1).
 D (0, 4).
-E (2, 6).",,
-155,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 150  
+E (2, 6).",B
+150,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 150  
 O Índice de Massa Corporal (IMC) é largamente 
 utilizado há cerca de 200 anos, mas esse cálculo 
 representa muito mais a corpulência que a adiposidade, 
@@ -4064,16 +4064,16 @@ A reduzir seu excesso de gordura em cerca de 1%.
 B reduzir seu excesso de gordura em cerca de 27%.
 C manter seus níveis atuais de gordura.
 D aumentar seu nível de gordura em cerca de 1%.
-E aumentar seu nível de gordura em cerca de 27%.",,
-156,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 151  
+E aumentar seu nível de gordura em cerca de 27%.",A
+151,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 151  
 Um hexágono regular é invariante por rotações, em 
 torno de seu centro, de ","
 A 15º.
 B 30º.
 C 45º.
 D 60º.
-E 75º.",,
-157,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 152  
+E 75º.",D
+152,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 152  
 Observe as dicas para calcular a quantidade certa 
 de alimentos e bebidas para as festas de fim de ano: 
 • Para o prato principal, estime 250 gramas de carne 
@@ -4104,8 +4104,8 @@ de sopa de farofa, 5 garrafas de vinho, 30 de cerveja
 e 10 de espumante.
 E 7,5 kg de carne, 7 copos americanos e meio de 
 arroz, 120 colheres de sopa de farofa, 5 garrafas de 
-vinho, 15 de cerveja e 10 de espumante.",,
-158,2011,MT - Matemática e Códigos,,D2,QUESTÃO 153  ,"
+vinho, 15 de cerveja e 10 de espumante.",E
+153,2011,MT - Matemática e Códigos,,D2,QUESTÃO 153  ,"
 A participação dos estudantes na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) 
 aumenta a cada ano. O percentual de medalhistas de ouro, por região, nas edições da OBMEP de 2005 a 
 2009 foi o seguinte:
@@ -4126,8 +4126,8 @@ A 14,6%
 B 18,2%
 C 18,4%
 D 19,0%
-E 21,0%.",,
-159,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 154  
+E 21,0%.",C
+154,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 154  
 As frutas que antes se compravam por dúzias, 
 hoje em dia, podem ser compradas por quilogramas, 
 existindo também a variação dos preços de acordo com 
@@ -4141,8 +4141,8 @@ A m = 1,75 n^(1/2) .
 B m = 1,75 (n + 1).
 C m = 1,75 n^2.
 D m = 1,75 (n – 1).
-E m = 1,75 n.",,
-160,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 155  
+E m = 1,75 n.",E
+155,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 155  
 Um jovem investidor precisa escolher o investimento 
 que lhe trará maior retorno financeiro em uma aplicação 
 de R$ 500,00. Para isso, pesquisa o rendimento e o 
@@ -4160,8 +4160,8 @@ A a poupança, pois totalizará um montante de R$ 502,80.
 B a poupança, pois totalizará um montante de R$ 500,56.
 C o CDB, pois totalizará um montante de R$ 504,38.
 D o CDB, pois totalizará um montante de R$ 504,21. 
-E o CDB, pois totalizará um montante de R$ 500,87.",,
-161,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 156  
+E o CDB, pois totalizará um montante de R$ 500,87.",D
+156,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 156  
 Os dados a seguir descrevem o consumo mensal, 
 em kWh, dos consumidores residenciais e dos de baixa 
 renda, antes e depois da redução da tarifa de energia no 
@@ -4196,8 +4196,8 @@ A R$ 0,27.
 B R$ 0,29.
 C R$ 0,32. 
 D R$ 0,34. 
-E R$ 0,61.",,
-162,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 157  
+E R$ 0,61.",B
+157,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 157  
 Para forrar a mesa de jantar, uma senhora verificou 
 que só possuía uma toalha limpa, pois todas as outras 
 estavam na máquina de lavar. 
@@ -4211,8 +4211,8 @@ A 1,20 m
 B 1,70 m
 C 1,60 m
 D 0,80 m
-E 0,60 m.",,
-163,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 158  
+E 0,60 m.",B
+158,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 158  
 O saldo de contratações no mercado formal no 
 setor varejista da região metropolitana de São Paulo 
 registrou alta. Comparando as contratações deste setor 
@@ -4231,8 +4231,8 @@ A y = 4 300x
 B y = 884 905x
 C y = 872 005 + 4 300x
 D y = 876 305 + 4 300x
-E y = 880 605 + 4 300x.",,
-164,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 159  
+E y = 880 605 + 4 300x.",C
+159,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 159  
 O número mensal de passagens de uma determinada 
 empresa aérea aumentou no ano passado nas seguintes 
 condições: em janeiro foram vendidas 33 000 passagens; 
@@ -4244,8 +4244,8 @@ A 38 000
 B 40 500
 C 41 000
 D 42 000
-E 48 000.",,
-165,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 160  
+E 48 000.",D
+160,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 160  
 O prefeito de uma cidade deseja construir uma 
 rodovia para dar acesso a outro município. Para isso, foi 
 aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), 
@@ -4263,8 +4263,8 @@ A 100n + 350 = 120n + 150
 B 100n + 150 = 120n + 350   
 C 100(n + 350) = 120(n + 150) 
 D 100(n + 350 000) = 120(n + 150 000) 
-E 350(n + 100 000) = 150(n + 120 000).",,
-166,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 161  
+E 350(n + 100 000) = 150(n + 120 000).",A
+161,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 161  
 Uma pessoa aplicou certa quantia em ações. No 
 primeiro mês, ela perdeu 30% do total do investimento e, 
 no segundo mês, recuperou 20% do que havia perdido. 
@@ -4276,8 +4276,8 @@ A R$ 4 222,22.
 B R$ 4 523,80.
 C R$ 5 000,00.
 D R$ 13 300,00.
-E R$ 17 100,00.",,
-167,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 162  
+E R$ 17 100,00.",C
+162,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 162  
 Cerca de 20 milhões de brasileiros vivem na região 
 coberta pela caatinga, em quase 800 mil km2 de área. 
 Quando não chove, o homem do sertão e sua família 
@@ -4291,8 +4291,8 @@ A 250.
 B 25.
 C 2,5.
 D 0,25.
-E 0,025.",,
-168,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 163  
+E 0,025.",B
+163,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 163  
 Rafael mora no Centro de uma cidade e decidiu 
 se mudar, por recomendações médicas, para uma 
 das regiões: Rural, Comercial, Residencial Urbano ou 
@@ -4318,8 +4318,8 @@ A um quinto.
 B um quarto.
 C dois quintos.
 D três quintos.
-E três quartos.",,
-169,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 164  
+E três quartos.",E
+164,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 164  
 Muitas medidas podem ser tomadas em nossas 
 casas visando à utilização racional de energia elétrica. 
 Isso deve ser uma atitude diária de cidadania. Uma delas 
@@ -4331,8 +4331,8 @@ A 0,8
 B 1,6
 C 5,6
 D 11,2
-E 33,6.",,
-170,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 165  
+E 33,6.",D
+165,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 165  
 Duílio e Sandra querem alcançar seu peso ideal a 
 partir de atividades físicas (corrida). Atualmente, eles 
 apresentam o seguinte perfil biométrico:
@@ -4371,8 +4371,8 @@ sobrepeso, e Sandra tem o IMC 24,7, estando na
 categoria de peso normal.
 E Duílio tem o IMC 25,1, estando na categoria de 
 sobrepeso, e Sandra tem o IMC 22,6, estando na 
-categoria de peso normal.",,
-171,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 166  
+categoria de peso normal.",B
+166,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 166  
 O atletismo é um dos esportes que mais se identificam 
 com o espírito olímpico. Uma pista de atletismo é 
 composta por dois trechos retos, conectados por dois 
@@ -4387,8 +4387,8 @@ A 1.
 B 4.
 C 5.
 D 7.
-E 8.",,
-172,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 167  
+E 8.",A
+167,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 167  
 Nos últimos cinco anos, 32 mil mulheres de 20 a 24 
 anos foram internadas nos hospitais do SUS por causa 
 de AVC. Entre os homens da mesma faixa etária, houve 
@@ -4404,8 +4404,8 @@ A 4 mil.
 B 9 mil.
 C 21 mil.
 D 35 mil.
-E 39 mil.",,
-173,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 168  
+E 39 mil.",D
+168,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 168  
 Em um jogo disputado em uma mesa de sinuca, há 
 16 bolas: 1 branca e 15 coloridas, as quais, de acordo 
 com a coloração, valem de 1 a 15 pontos (um valor 
@@ -4432,8 +4432,8 @@ D Caio, pois há 10 possibilidades de compor a soma
 escolhida por ele, contra 5 possibilidades para a 
 escolha de Arthur e 8 possibilidades para a escolha 
 de Bernardo.
-E Caio, pois a soma que escolheu é a maior.",,
-174,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 169  
+E Caio, pois a soma que escolheu é a maior.",C
+169,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 169  
 É possível usar água ou comida para atrair as aves 
 e observá-las. Muitas pessoas costumam usar água 
 com açúcar, por exemplo, para atrair beija-flores. Mas 
@@ -4454,8 +4454,8 @@ A 20 mL.
 B 24 mL.
 C 100 mL.
 D 120 mL.
-E 600 mL.",,
-175,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 170  
+E 600 mL.",C
+170,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 170  
 Em pesquisa realizada pelo Comitê Gestor da 
 Internet, foram coletadas as informações seguintes, 
 relativas à velocidade de conexão à internet em 
@@ -4476,8 +4476,8 @@ A 0,45
 B 0,42
 C 0,30
 D 0,22
-E 0,15 .",,
-176,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 171  
+E 0,15 .",D
+171,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 171  
 Todo o país passa pela primeira fase de campanha 
 de vacinação contra a gripe suína (H1N1). Segundo um 
 médico infectologista do Instituto Emílio Ribas, de São 
@@ -4509,8 +4509,8 @@ A 8%.
 B 9%.
 C 11%.
 D 12%.
-E 22%.",,
-177,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 172  
+E 22%.",C
+172,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 172  
 Uma indústria fabrica um único tipo de produto e 
 sempre vende tudo o que produz. O custo total para 
 fabricar uma quantidade q de produtos é dado por uma 
@@ -4527,8 +4527,8 @@ A 0
 B 1 
 C 3
 D 4
-E 5 .",,
-178,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 173  
+E 5 .",D
+173,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 173  
 Uma empresa de telefonia fixa oferece dois planos 
 aos seus clientes: no plano K, o cliente paga R$ 29,90 por 
 200 minutos mensais e R$ 0,20 por minuto excedente;  
@@ -4582,8 +4582,8 @@ gráfico do plano Z: para x entre 0 e 300, segmento
 de reta horizontal de altura igual a R$ 49,90; para x 
 entre 300 e 500, segmento de reta com inclinação 
 positiva e inferior à inclinação do segmento de reta 
-K(x), para x entre 300 e 500.",,
-179,2011,MT - Matemática e Códigos,,D2,QuESTÃO 174  ,"
+K(x), para x entre 300 e 500.",D
+174,2011,MT - Matemática e Códigos,,D2,QuESTÃO 174  ,"
 A resistência das vigas de dado comprimento é 
 diretamente proporcional à largura (b) e ao quadrado da 
 altura (d). A constante de proporcionalidade k varia de 
@@ -4594,8 +4594,8 @@ A S = k vezes b vezes d
 B S = b vezes (d ao quadrado)
 C S = k vezes b vezes (d ao quadrado)
 D S = k vezes b dividido por (d ao quadrado)
-E S = k vezes (d ao quadrado) dividido por b .",,
-180,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 175   
+E S = k vezes (d ao quadrado) dividido por b .",C
+175,2011,MT - Matemática e Códigos,,D2,"QUESTÃO 175   
 Considere que uma pessoa decida investir uma 
 determinada quantia e que lhe sejam apresentadas três 
 possibilidades de investimento, com rentabilidades líquidas 
@@ -4626,8 +4626,8 @@ de 36% é maior que as rentabilidades de 3% do
 investimento A e de 18% do investimento C.
 E escolher o investimento C, pois sua rentabilidade de 
 39% ao ano é maior que a rentabilidade de 36% ao 
-ano dos investimentos A e B.",,
-181,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 176  
+ano dos investimentos A e B.",C
+176,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 176  
 O setor de recursos humanos de uma empresa 
 vai realizar uma entrevista com 120 candidatos a uma 
 vaga de contador. Por sorteio, eles pretendem atribuir a 
@@ -4642,8 +4642,8 @@ A 24.
 B 31.
 C 32.
 D 88.
-E 89.",,
-182,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 177  
+E 89.",E
+177,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 177  
 Uma enquete, realizada em março de 2010, perguntava 
 aos internautas se eles acreditavam que as atividades 
 humanas provocam o aquecimento global. Eram três as 
@@ -4656,8 +4656,8 @@ A Menos de 23.
 B Mais de 23 e menos de 25.
 C Mais de 50 e menos de 75.
 D Mais de 100 e menos de 190.
-E Mais de 200.",,
-183,2011,MT - Matemática e Códigos,,D2,QuESTÃO 178  ,"
+E Mais de 200.",C
+178,2011,MT - Matemática e Códigos,,D2,QuESTÃO 178  ,"
 A cor de uma estrela tem relação com a temperatura 
 em sua superfície. Estrelas não muito quentes (cerca 
 de 3 000 K) parecem avermelhadas. Já as estrelas 
@@ -4684,8 +4684,8 @@ A 20 000 vezes a luminosidade do Sol.
 B 28 000 vezes a luminosidade do Sol.
 C 28 850 vezes a luminosidade do Sol.
 D 30 000 vezes a luminosidade do Sol.
-E 50 000 vezes a luminosidade do Sol.",,
-184,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 179  
+E 50 000 vezes a luminosidade do Sol.",A
+179,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 179  
 Um técnico em refrigeração precisa revisar todos 
 os pontos de saída de uma central de ar condicionado, 
 que são interligadas por tubulações, de acordo com o 
@@ -4711,8 +4711,8 @@ A K, I e F.
 B K, J, I, G, L e F. 
 C K, L, G, I, J, H e F.
 D K, J, H, I, G, L e F.
-E K, L, G, I, H, J e F.",,
-185,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 180  
+E K, L, G, I, H, J e F.",C
+180,2011,MT - Matemática e Códigos,,D2,"QuESTÃO 180  
 O termo agronegócio não se refere apenas à agricultura 
 e à pecuária, pois as atividades ligadas a essa produção 
 incluem fornecedores de equipamentos, serviços para a 
@@ -4741,4 +4741,4 @@ A 1998 e 2001.
 B 2001 e 2003.
 C 2003 e 2006.
 D 2003 e 2007.
-E 2003 e 2008.",,
+E 2003 e 2008.",C
