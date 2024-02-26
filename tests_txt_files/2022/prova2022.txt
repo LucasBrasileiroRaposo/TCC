@@ -4703,7 +4703,7 @@ A Fração de numerador 1 e denominador 46 mais fração de numerador 1 e denomi
 B Fração de numerador 1 e denominador 46 mais fração  de  numerador  2  e  denominador,  abre parêntese, 46 vezes 45, fecha parêntese.
 C Fração de numerador 1 e denominador 46 mais fração  de  numerador  8  e  denominador,  abre parêntese, 46 vezes 45, fecha parêntese.
 D Fração de numerador 1 e denominador 46 mais fração  de  numerador  43  e  denominador,  abre parêntese, 46 vezes 45, fecha parêntese.
-E Fração de numerador 1 e denominador 46 mais fração  de  numerador  49  e  denominador,  abre parêntese, 46 vezes 45, fecha parêntese
+E Fração de numerador 1 e denominador 46 mais fração  de  numerador  49  e  denominador,  abre parêntese, 46 vezes 45, fecha parêntese.
 
 MT - 2° dia | Caderno 11 - LARANJA - 1ª Aplicação
 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022
@@ -4754,11 +4754,11 @@ com numerador 1 e denominador 2.
 Qual é a probabilidade de o time campeão ser aquele que 
 venceu a primeira partida da World Series?
 
-A trinta e cinco sessenta e quatro avos
-B quarenta sessenta e quatro avos
-C quarenta e dois sessenta e quatro avos
-D quarenta e quatro sessenta e quatro avos
-E cinquenta e dois sessenta e quatro avos
+A trinta e cinco sessenta e quatro avos.
+B quarenta sessenta e quatro avos.
+C quarenta e dois sessenta e quatro avos.
+D quarenta e quatro sessenta e quatro avos.
+E cinquenta e dois sessenta e quatro avos.
 
 QUESTÃO 180
 O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no decorrer 

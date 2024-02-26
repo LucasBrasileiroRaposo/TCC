@@ -3586,11 +3586,11 @@ obter 40 gramas de prata 950 para produção de uma joia.
 Nessas condições, quantos gramas de prata e de cobre, 
 respectivamente, devem ser fundidos com os 10 gramas 
 de prata 925?
-A 29,25 e 0,75
-B 28,75 e 1,25
-C 28,50 e 1,50
-D 27,75 e 2,25
-E 25,00 e 5,00
+A 29,25 e 0,75.
+B 28,75 e 1,25.
+C 28,50 e 1,50.
+D 27,75 e 2,25.
+E 25,00 e 5,00.
 QUESTÃO 153 
 Em um aeroporto, os passageiros devem submeter 
 suas bagagens a uma das cinco máquinas de raio-X 

@@ -2544,11 +2544,11 @@ a densidade 1 quilograma por litro.
 Se o sistema de aquecimento for desligado por 1 hora, 
 qual o valor mais próximo para a redução da temperatura 
 da água do aquário?
-A  4,0 graus Celsius
-B  3,6 graus Celsius
-C  0,9 grau Celsius
-D  0,6 grau Celsius
-E  0,3 grau Celsius
+A  4,0 graus Celsius.
+B  3,6 graus Celsius.
+C  0,9 grau Celsius.
+D  0,6 grau Celsius.
+E  0,3 grau Celsius.
 Questão 111        
 Uma mulher de 21 anos não tem filhos e apresenta 
 um ciclo menstrual regular. Sua primeira menstruação do 
