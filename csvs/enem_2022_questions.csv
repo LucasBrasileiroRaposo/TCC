@@ -2442,8 +2442,7 @@ segundo e no ar é de 340 metros por segundo.
 Descrição da ilustração: Uma embarcação com o 
 detector A, que está imerso em água e suspenso por 
 um cabo ligado ao barco, e o detector B, posicionado 
-sobre a parte da frente da embarcação. Os detectores ","
-A e B estão ao longo da mesma linha vertical, que é 
+sobre a parte da frente da embarcação. Os detectores A e B estão ao longo da mesma linha vertical, que é 
 perpendicular à linha que indica a distância L entre a 
 embarcação e o bloco de gelo.
 Os gráficos indicam, em tempo real, o sinal sonoro 
@@ -2465,7 +2464,7 @@ uma forma oscilante apresentando 5 picos e 5 vales
 no intervalo de tempo entre 220 e 238 segundos. O 
 terceiro vale corresponde ao tempo de 232 segundos.
  A distância L, em metro, entre o barco e a geleira é mais próxima de
-
+","
 A 339 000.
 B 78 900.
 C 14 400.
@@ -4551,8 +4550,8 @@ B 2.
 C 3.
 D 4.
 E 5.",E
-179,2022,MT - Matemática e Códigos,,D2,QUESTÃO 179  ,"
-A World Series é a decisão do campeonato  
+179,2022,MT - Matemática e Códigos,,D2,"QUESTÃO 179  
+ A World Series é a decisão do campeonato  
 norte-americano de beisebol. Os dois times que chegam 
 a essa fase jogam, entre si, até sete partidas. O primeiro 
 desses times que completar quatro vitórias é declarado 
@@ -4562,7 +4561,7 @@ de qualquer um dos dois times vencer é sempre fração
 com numerador 1 e denominador 2.
 Qual é a probabilidade de o time campeão ser aquele que 
 venceu a primeira partida da World Series?
-
+","
 A trinta e cinco sessenta e quatro avos.
 B quarenta sessenta e quatro avos.
 C quarenta e dois sessenta e quatro avos.

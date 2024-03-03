@@ -2537,8 +2537,7 @@ segundo e no ar é de 340 metros por segundo.
 Descrição da ilustração: Uma embarcação com o 
 detector A, que está imerso em água e suspenso por 
 um cabo ligado ao barco, e o detector B, posicionado 
-sobre a parte da frente da embarcação. Os detectores 
-A e B estão ao longo da mesma linha vertical, que é 
+sobre a parte da frente da embarcação. Os detectores A e B estão ao longo da mesma linha vertical, que é 
 perpendicular à linha que indica a distância L entre a 
 embarcação e o bloco de gelo.
 Os gráficos indicam, em tempo real, o sinal sonoro 
@@ -4743,7 +4742,7 @@ C 3.
 D 4.
 E 5.
 QUESTÃO 179 
-A World Series é a decisão do campeonato  
+ A World Series é a decisão do campeonato  
 norte-americano de beisebol. Os dois times que chegam 
 a essa fase jogam, entre si, até sete partidas. O primeiro 
 desses times que completar quatro vitórias é declarado 
