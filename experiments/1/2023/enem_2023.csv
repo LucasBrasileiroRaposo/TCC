@@ -1,4 +1,4 @@
-id,year,area,sp_area,day,body,alternatives,answer,GPT-3.5-turbo-answers,GEMINI_2023_answers
+id,year,area,sp_area,day,body,alternatives,answer,GPT-3.5-turbo-answers,GEMINI_2023_answers,Llama2_2023_answers
 01I,2023,LC - Linguagens e Códigos,Inglês,D1,"QUESTÃO 01  
 No man is an island,
 Entire of itself;
@@ -13,7 +13,7 @@ A medo da morte.
 B ideia de conexão.
 C conceito de solidão.
 D risco de devastação.
-E necessidade de empatia.",B,B,B
+E necessidade de empatia.",B,B,B,B
 02I,2023,LC - Linguagens e Códigos,Inglês,D1,"QUESTÃO 02  
 Things We Carry on the Sea
 We carry tears in our eyes: good-bye father, good-bye mother
@@ -37,7 +37,7 @@ A risco de choques culturais.
 B impacto do ensino de história.
 C importância da luta ambiental.
 D existência de experiências plurais.
-E necessidade de capacitação profissional.",D,D,D
+E necessidade de capacitação profissional.",D,D,D,D
 03I,2023,LC - Linguagens e Códigos,Inglês,D1,"QUESTÃO 03  
 Descrição do cartaz: Foto de parte de um lixão, com 
 a frase “Food for thought” escrita entre sacos de lixo 
@@ -56,7 +56,7 @@ A os lixões precisam de ampliação.
 B o desperdício degrada o ambiente.
 C os mercados doam alimentos perecíveis. 
 D a desnutrição compromete o raciocínio. 
-E as residências carecem de refrigeradores.",B,B,B
+E as residências carecem de refrigeradores.",B,B,B,B
 04I,2023,LC - Linguagens e Códigos,Inglês,D1,"QUESTÃO 04  
 Descrição do cartum: Em um escritório, dois homens 
 circulam segurando papéis e pastas, outros conversam 
@@ -74,7 +74,7 @@ A criticar um padrão de vestimenta.
 B destacar a falta de diversidade.
 C indicar um modo de interação.
 D elogiar um modelo de organização.
-E salientar o espírito de cooperação.",B,B,B
+E salientar o espírito de cooperação.",B,B,B,C
 05I,2023,LC - Linguagens e Códigos,Inglês,D1,"QUESTÃO 05  
 Spanglish (fragmento)
 Tato Laviera
@@ -103,7 +103,7 @@ A convergência linguístico-cultural.
 B característica histórico-cultural.
 C tendência estilístico-literária.
 D discriminação cultural.
-E censura musical.",A,A,A
+E censura musical.",A,A,A,A
 01E,2023,LC - Linguagens e Códigos,Espanhol,D1,"QUESTÃO 01  
 Técnicas de manipulación y el resultado
 Manipular es sembrar en la conciencia y en la mente 
@@ -132,7 +132,7 @@ A amadurece tardiamente.
 B busca mascarar a verdade.
 C rejeita questionamentos alheios.
 D aproxima-se de pessoas indefesas.
-E faz-se presente de forma controladora.",B,B,B
+E faz-se presente de forma controladora.",B,B,B,B
 02E,2023,LC - Linguagens e Códigos,Espanhol,D1,"QUESTÃO 02  
 TEXTO 1
 Descrição do cartaz: Foto de um homem com o 
@@ -167,7 +167,7 @@ A olhar diferenciado para com o outro gera mudanças.
 B estudante com dislexia apresenta um tom questionador.
 C abordagem para lidar com a dislexia é pautada na disciplina.
 D contato com os pais prejudica o acompanhamento da dislexia.
-E mudança de interesses ocorre na transição da infância para a vida adulta.",A,A,A
+E mudança de interesses ocorre na transição da infância para a vida adulta.",A,A,A,B
 03E,2023,LC - Linguagens e Códigos,Espanhol,D1,"QUESTÃO 03  
 Que quede claro
 Orishas 
@@ -201,7 +201,7 @@ A indignação diante do desrespeito à diversidade.
 B violência característica das grandes metrópoles.
 C preconceito da sociedade com relação ao misticismo.
 D descuido da população com os sonhos dos imigrantes.
-E falta de segurança existente no transporte público urbano.",A,A,A
+E falta de segurança existente no transporte público urbano.",A,A,A,A
 04E,2023,LC - Linguagens e Códigos,Espanhol,D1,"QUESTÃO 04  
 Shirley Campbell Barr
 Me niego rotundamente
@@ -237,7 +237,7 @@ A advérbios como “rotundamente” e “categóricamente”.
 B verbos reflexivos como “me niego” e “me acepto”.
 C adjetivos como “grande” e “hermosa”.
 D substantivos como “sangre” e “piel”.
-E adjetivos possessivos como “mi” e “mis”.",A,C,A
+E adjetivos possessivos como “mi” e “mis”.",A,C,A,B
 05E,2023,LC - Linguagens e Códigos,Espanhol,D1,"QUESTÃO 05  
 “Caramelos” en sus suelos
 Mágdalo Quiroz y López
@@ -263,7 +263,7 @@ A característica amistosa do povo espanhol.
 B beleza das paisagens naturais da Espanha.
 C variedade de pratos na gastronomia espanhola.
 D relação entre os sentidos do paladar e do olfato na gastronomia.
-E gastronomia como representação da identidade cultural de um povo.",E,E,E
+E gastronomia como representação da identidade cultural de um povo.",E,E,E,E
 06,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 06  
 Rui Barbosa
 Mestre e companheiro, disse eu que nos íamos despedir. 
@@ -294,7 +294,7 @@ A metáforas relacionadas à trajetória pessoal e criadora do homenageado.
 B recursos fonológicos empregados para a valorização do ritmo do texto.
 C frases curtas e diretas no relato da vida e da morte do homenageado.
 D contraposição de ideias presentes na obra do homenageado.
-E seleção vocabular representativa do sentimento de nostalgia.",A,A,A
+E seleção vocabular representativa do sentimento de nostalgia.",A,A,A,D
 07,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 07  
 Descrição da campanha publicitária: Foto de uma 
 mulher, com semblante satisfeito, amamentando seu 
@@ -312,7 +312,7 @@ A divulgar um conjunto de benefícios proporcionados pela amamentação.
 B apresentar tratamentos para infecções respiratórias em bebês.
 C defender o direito das mulheres de amamentar em público.
 D orientar sobre os exercícios para uma boa amamentação.
-E informar sobre o aumento de anticorpos nas mães.",A,A,A
+E informar sobre o aumento de anticorpos nas mães.",A,A,A,A
 08,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 08  
 Carta aberta à população brasileira
 Prezados Cidadãos e Cidadãs,
@@ -344,7 +344,7 @@ A sensibilizar o idoso a respeito dos cuidados com a saúde.
 B alertar os governantes sobre os cuidados requeridos pelo idoso.
 C divulgar o trabalho da Sociedade Brasileira de Geriatria e Gerontologia.
 D informar o setor público sobre o retrocesso da legislação destinada à população idosa.
-E chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso.",E,E,B
+E chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso.",E,E,B,B
 09,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 09  
  A petição on-line criada por um cidadão paulista 
 surtiu efeito: casado há três anos com seu companheiro, 
@@ -370,7 +370,7 @@ A inclusão de informações no verbete.
 B relevância social da instituição casamento.
 C utilização pública da petição pelos cidadãos.
 D rapidez na disseminação digital do verbete.
-E divulgação de plataformas para a criação de petição.",C,C,C
+E divulgação de plataformas para a criação de petição.",C,C,C,C
 10,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 10  
  A neozelandesa Laurel Hubbard fez história nos Jogos 
 Olímpicos. Apesar de ter ficado de fora da disputa por 
@@ -396,7 +396,7 @@ A dificuldade de conseguir bons resultados esportivos.
 B dependência de características biológicas padronizadas.
 C inexistência de uma categoria para pessoas transgênero.
 D necessidade de afastamento temporário das competições.
-E impossibilidade de uso controlado de substâncias exógenas.",B,B,B
+E impossibilidade de uso controlado de substâncias exógenas.",B,B,B,B
 11,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 11  
 “Ganhei 25 medalhas em mundiais, sete em Jogos 
 Olímpicos, e sou uma sobrevivente de abuso sexual.” 
@@ -424,7 +424,7 @@ A o desempenho atlético internacional.
 B a dimensão emocional dos atletas.
 C os comitês olímpicos nacionais.
 D as instituições de inteligência.
-E as federações esportivas.",B,B,B
+E as federações esportivas.",B,B,B,B
 12,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 12  
 O acesso às Práticas Corporais/Atividades Físicas 
 (PC/AF) é desigual no Brasil, à semelhança de outros 
@@ -448,7 +448,7 @@ A diferença entre homens e mulheres.
 B inexistência de políticas públicas.
 C diversidade de faixa etária.
 D variação de condição étnica.
-E desigualdade entre classes sociais.",E,E,E
+E desigualdade entre classes sociais.",E,E,E,E
 13,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 13  
  A indústria do esporte eletrônico é um mercado que 
 está crescendo em um ritmo mais rápido do que a economia 
@@ -477,7 +477,7 @@ A condição favorável à expansão dessa modalidade.
 B promoção dessa prática por jogadores profissionais.
 C impulsionamento de um processo de marketing.
 D favorecimento de fabricantes dos jogos.
-E modificação da audiência televisiva.",A,A,A
+E modificação da audiência televisiva.",A,A,A,A
 14,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 14  
 O Marabaixo é uma expressão artístico-cultural 
 formada nas tradições e na identificação cultural entre as 
@@ -494,7 +494,7 @@ A ressignificar episódios dramáticos em novas práticas culturais.
 B adaptar coreografias como imitação dos movimentos do mar.
 C lembrar dos mortos no passado escravista como forma de lamento.
 D perpetuar uma narrativa de apagamento dos fatos históricos traumáticos.
-E ritualizar a passagem de atos fúnebres nas produções coletivas com espírito festivo.",A,A,A
+E ritualizar a passagem de atos fúnebres nas produções coletivas com espírito festivo.",A,A,A,C
 15,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 15  
 O uso das redes sociais como forma de ampliar 
 universos foi uma descoberta recente para o artista Wolney 
@@ -511,7 +511,7 @@ A dar suporte à técnica de colagem em Artes Visuais, contornando dificuldades 
 B aproximar-se da estética visual própria da editoração de obras artísticas, como capas de livros.
 C oferecer uma vitrine internacional para sua produção artística, a fim de dar mais visibilidade a suas obras.
 D enfatizar o caráter original e inovador de suas criações artísticas, diferenciando-se das artes tradicionais.
-E trazer um sentido tecnológico às suas colagens, uma vez que as imagens artísticas são recorrentes nas redes sociais.",C,C,C
+E trazer um sentido tecnológico às suas colagens, uma vez que as imagens artísticas são recorrentes nas redes sociais.",C,C,C,C
 16,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 16  
 O mais antigo grupo de rap indígena do país, Brô MCs, 
 surgiu em 2009, na aldeia Jaguapiru, em Dourados, Mato 
@@ -534,7 +534,7 @@ A fusão de manifestações artísticas urbanas contemporâneas com a cultura in
 B contraposição das temáticas socioambientais indígenas às questões urbanas.
 C rejeição da indústria radiofônica às músicas indígenas.
 D distanciamento da realidade social indígena. 
-E estímulo ao estudo da poesia indígena.",A,A,A
+E estímulo ao estudo da poesia indígena.",A,A,A,A
 17,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 17  
 Sol se põe embalado pelo Bolero de Ravel
 O sol começa a descer por trás da vegetação da Ilha 
@@ -554,7 +554,7 @@ A inter-relação de referenciais estéticos aparentemente distanciados.
 B valorização de músicas que revelam mensagens de serenidade.
 C consagração do repertório erudito como cultura dominante.
 D iniciativa de estímulo à vocação turística da cidade.
-E divisão hierárquica entre gêneros e estilos musicais.",A,B,A
+E divisão hierárquica entre gêneros e estilos musicais.",A,B,A,A
 18,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 18  
 TEXTO 1
 Descrição da pintura: Obra em óleo sobre tela 
@@ -583,7 +583,7 @@ A representar uma estética tida como inconveniente para o ideário político vi
 B manifestar um posicionamento político-cultural concebido por grupos de oposição.
 C expressar a cultura artística por meio da representação parcial do corpo humano.
 D apresentar uma composição que antecipa o imaginário artístico germânico.
-E estimular discussões sobre o papel da arte na construção coletiva de cultura.",A,A,A
+E estimular discussões sobre o papel da arte na construção coletiva de cultura.",A,A,A,A
 19,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 19  
 TEXTO 1
 Logo no início de Gira, um grupo de sete bailarinas 
@@ -609,7 +609,7 @@ A crítica aos movimentos padronizados do balé clássico.
 B representação contemporânea de rituais ancestrais extintos.
 C reelaboração estética erudita de práticas religiosas populares.
 D releitura irônica da atmosfera mística presente no culto a entidades.
-E oposição entre o resgate de tradições e a efemeridade da vida humana.",C,D,C
+E oposição entre o resgate de tradições e a efemeridade da vida humana.",C,D,C,C
 20,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 20  
 Contos e novelas
 João Alphonsus 
@@ -642,7 +642,7 @@ A desenho imaginativo do casario colonial de Ouro Preto.
 B efeito de apagamento de limites entre ficção e realidade.
 C vínculo estabelecido entre animais urbanos e literatura.
 D questionamento sutil quanto à sanidade dos inconfidentes.
-E contraste entre austeridade pomposa e imagem repugnante.",E,B,B
+E contraste entre austeridade pomposa e imagem repugnante.",E,B,B,B
 21,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 21  
 Sombras de reis barbudos
 José J. Veiga
@@ -675,7 +675,7 @@ A culto ao medo, infiltrado em situações do cotidiano.
 B sentimento de dúvida quanto à veracidade das informações.
 C ambiente de sonho, delineado por imagens perturbadoras.
 D incentivo ao desenvolvimento econômico com a iniciativa privada. 
-E espaço urbano marcado por uma política de isolamento das crianças.",A,A,A
+E espaço urbano marcado por uma política de isolamento das crianças.",A,A,A,A
 22,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 22  
 Migalhas
 Ana Martins Marques
@@ -703,7 +703,7 @@ A invocar o interlocutor para uma tomada de posição.
 B questionar a validade do envolvimento romântico.
 C diluir em banalidade a comoção de um amor frustrado.
 D transformar em paz as emoções conflituosas do casal.
-E condicionar a existência da paixão a espaços idealizados.",C,E,C
+E condicionar a existência da paixão a espaços idealizados.",C,E,C,E
 23,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 23  
 Torto arado
  Itamar Vieira Junior 
@@ -728,7 +728,7 @@ A reflete o olhar do pai sobre as etapas do plantio.
 B metaforiza a linguagem como ferramenta de lavoura.
 C explicita, na busca pela palavra, o medo da solidão.
 D confirma a frustração da narradora com relação à terra. 
-E sugere, na ausência da linguagem, a estagnação do tempo.",B,B,B
+E sugere, na ausência da linguagem, a estagnação do tempo.",B,B,B,B
 24,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 24  
  A escravidão
 Olavo Bilac
@@ -756,7 +756,7 @@ A descrever de modo impessoal as consequências da exploração racial sobre as 
 B contrapor a infância privilegiada das crianças da época à infância violentada das crianças escravizadas.
 C antecipar o futuro apagamento das marcas da escravidão no contexto social.
 D criticar a atenuação da violência contra os povos escravizados nas memórias retratadas pelos museus.
-E imaginar a reação de indiferença de seus contemporâneos com os escravizados libertos.",C,D,B
+E imaginar a reação de indiferença de seus contemporâneos com os escravizados libertos.",C,D,B,B
 25,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 25  
 Rakushisha
 Adriana Lisboa
@@ -785,7 +785,7 @@ A repetição do pronome indefinido “todos”.
 B utilização do travessão na marcação do aposto.
 C retomada do antecedente pelo pronome “isso”.
 D contraposição de ideias marcada pela conjunção “mas”.
-E substantivação de expressões pela anteposição do artigo.",A,A,A
+E substantivação de expressões pela anteposição do artigo.",A,A,A,D
 26,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 26  
 Roberta Estrela D’Alva
 (fragmento)
@@ -802,7 +802,7 @@ A revelar as desilusões amorosas.
 B refletir sobre a censura à sua voz.
 C expressar a dificuldade de comunicação.
 D ressaltar a existência de pressões externas.
-E manifestar as dores do processo de criação.",C,C,C
+E manifestar as dores do processo de criação.",C,C,C,C
 27,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 27  
 Ponciá Vicêncio
 Conceição Evaristo
@@ -832,7 +832,7 @@ A representa a memória de uma língua africana extinta.
 B exalta a rotina executada por jovens afrodescendentes.
 C preserva a ancestralidade africana por meio da tradição oral.
 D resgata a musicalidade africana por meio de palavras inteligíveis.
-E remonta à tristeza dos negros mais velhos com saudade da África.",C,C,C
+E remonta à tristeza dos negros mais velhos com saudade da África.",C,C,C,C
 28,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 28  
 TEXTO 1
 Zapeei os canais, como há dezenas de anos faço, e 
@@ -875,7 +875,7 @@ A censura a formas de expressão femininas.
 B ausência da figura feminina na vida pública.
 C construções imaginárias cristalizadas na sociedade.
 D limitações inerentes às figuras femininas e masculinas.
-E dificuldade na atribuição de papéis masculinos e femininos.",C,C,C
+E dificuldade na atribuição de papéis masculinos e femininos.",C,C,C,B
 29,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 29  
 Descrição da peça publicitária: À esquerda da 
 imagem, há três mulheres: uma asiática, uma negra 
@@ -904,7 +904,7 @@ A divulgar o canal telefônico de atendimento a casos de violência contra a mul
 B informar sobre a atuação de uma entidade defensora da mulher vítima de violência.
 C evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.
 D alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.
-E incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento.",E,D,A
+E incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento.",E,D,D,D
 30,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 30  
 “São tantas formas de matar um preto
 Que para alguns sua morte é justificada
@@ -935,7 +935,7 @@ A ressaltar a importância da poesia para denunciar a morte de negros, que cresc
 B destacar o crescimento exponencial da temática do preconceito na produção literária no Brasil.
 C demonstrar o incremento no quantitativo de expressões artísticas na discussão de problemas sociais.
 D evidenciar argumentos que reforçam a ideia de que os negros são vítimas em potencial da violência.
-E salientar o aumento da participação de jovens nos movimentos de resistência na área da cultura.",D,D,A
+E salientar o aumento da participação de jovens nos movimentos de resistência na área da cultura.",D,D,B,D
 31,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 31  
 Eliane Brum
 No princípio era o verbo. A frase que abre o primeiro 
@@ -972,7 +972,7 @@ A revelar a origem religiosa da linguagem.
 B questionar o temor sobre o futuro da linguagem.
 C descrever a relação entre sociedade e linguagem.
 D apresentar as consequências do esfacelamento da linguagem.
-E criticar o obstáculo promovido pelos usos especializados da linguagem.",E,E,E
+E criticar o obstáculo promovido pelos usos especializados da linguagem.",E,E,E,E
 32,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 32  
 Um grupo de pesquisadores da Universidade Federal 
 do Ceará desenvolveu um dicionário para traduzir sintomas 
@@ -992,7 +992,7 @@ A apontaram erros motivados pelo desconhecimento da variedade linguística local
 B explicaram problemas provocados pela incapacidade de comunicação. 
 C descobriram novos sintomas de doenças existentes na comunidade.
 D propiciaram melhor compreensão dos sintomas dos pacientes.
-E divulgaram um novo rol de doenças características da localidade.",D,D,D
+E divulgaram um novo rol de doenças características da localidade.",D,D,D,D
 33,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 33  
 Mandioca, macaxeira, aipim e castelinha são nomes 
 diferentes da mesma planta. Semáforo, sinaleiro e farol 
@@ -1026,7 +1026,7 @@ A passa por fenômenos de variação linguística como qualquer outra língua.
 B apresenta variações regionais, assumindo novo sentido para algumas palavras.
 C sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.
 D diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.
-E é ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente.",A,A,A
+E é ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente.",A,A,A,B
 34,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 34  
 Como é bom reencontrar os leitores da Revista da 
 Cultura por meio de uma publicação com outro visual, 
@@ -1046,7 +1046,7 @@ A perfil de público-alvo, constituído por leitores exigentes e especializados 
 B propósito do editor, chamando a atenção para o rigor normativo nos textos da revista.
 C exclusividade na seleção temática, direcionada para a área das ciências humanas.
 D identidade da revista, voltada para a recepção e a promoção de ideias circulantes em livros. 
-E padrão editorial dos artigos, organizados em torno de uma proposta de design inovador.",D,D,D
+E padrão editorial dos artigos, organizados em torno de uma proposta de design inovador.",D,D,D,D
 35,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 35  
 TEXTO 1
 Alegria, alegria (fragmento)
@@ -1078,7 +1078,7 @@ A referência às cores como elemento de crítica a hábitos contemporâneos.
 B percepção da profusão de informações gerada pela tecnologia.
 C contraposição entre os vícios e as virtudes da vida moderna.
 D busca constante pela liberdade de expressão individual.
-E crítica à finalidade comercial das notícias.",B,B,B
+E crítica à finalidade comercial das notícias.",B,B,B,B
 36,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 36  
 Dão Lalalão
 João Guimarães Rosa
@@ -1112,7 +1112,7 @@ A qualidade do som do rádio.
 B estabilidade do enredo contado.
 C ineditismo do capítulo da novela.
 D jeito singular de falar aos ouvintes.
-E dificuldade de compreensão da história.",D,B,B
+E dificuldade de compreensão da história.",D,B,B,B
 37,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 37  
 As cinzas do Museu Nacional, no Rio de Janeiro, 
 consumido pelas chamas no mês de setembro de 2018, 
@@ -1142,7 +1142,7 @@ A exige a retomada das pesquisas por especialistas de diferentes áreas.
 B representa danos irreparáveis à memória e à identidade nacionais.
 C impossibilita o surgimento de novas pesquisas na área. 
 D resulta na extinção da cultura de povos originários.
-E inviabiliza o estudo da língua do povo Tikuna.",B,B,B
+E inviabiliza o estudo da língua do povo Tikuna.",B,B,B,B
 38,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 38  
 Na Idade Média, as notícias se propagavam com 
 surpreendente eficácia. Segundo uma emérita professora de 
@@ -1167,7 +1167,7 @@ A velocidade de circulação das notícias.
 B nível de letramento da população marginalizada.
 C poder de censura por parte dos serviços públicos.
 D legitimidade da voz dos representantes da nobreza.
-E diversidade dos meios disponíveis em uma época histórica.",E,A,E
+E diversidade dos meios disponíveis em uma época histórica.",E,A,A,E
 39,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 39  
 Se a interferência de contas falsas em discussões 
 políticas nas redes sociais já representava um perigo para os 
@@ -1197,7 +1197,7 @@ A controle da atuação dos profissionais de TI.
 B desenvolvimento de tecnologias como os “trolls”.
 C flexibilização dos turnos de trabalho dos controladores.
 D necessidade de regulamentação do funcionamento dos “bots”.
-E identificação de padrões de disseminação de informações inverídicas.",E,E,E
+E identificação de padrões de disseminação de informações inverídicas.",E,E,E,E
 40,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 40  
 Maio foi colorido de amarelo, e o foi porque 
 mundialmente amarelo é a cor convencionada para as 
@@ -1226,7 +1226,7 @@ A enumerar as causas determinantes da violência no trânsito.
 B contextualizar a campanha de advertência no cenário mundial.
 C divulgar dados numéricos alarmantes sobre acidentes de trânsito.
 D sensibilizar o público para a importância de uma direção responsável.
-E restringir os problemas da violência no trânsito a aspectos emocionais.",D,D,D
+E restringir os problemas da violência no trânsito a aspectos emocionais.",D,D,D,D
 41,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 41  
  A sessão do Comitê Olímpico Internacional (COI) 
 aprovou uma mudança histórica e inédita no lema 
@@ -1243,7 +1243,7 @@ A unificação do lema anterior ao atual.
 B aproximação entre o lema olímpico e o COI.
 C junção do lema olímpico com os princípios esportivos.
 D associação entre o lema olímpico e a cooperatividade.
-E vinculação entre o lema olímpico e os eventos atléticos.",D,D,D
+E vinculação entre o lema olímpico e os eventos atléticos.",D,D,D,D
 42,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 42  
 Mais iluminada que outras 
 Jarid Arraes
@@ -1270,7 +1270,7 @@ A revelam as marcas da violência de raça e de gênero na construção da ident
 B questionam o pioneirismo do estado do Ceará no enfrentamento à escravidão.
 C reproduzem padrões estéticos em busca da valorização da autoestima feminina.
 D sugerem uma atmosfera onírica alinhada ao desejo de resgate da espiritualidade.
-E mimetizam, na paisagem, os corpos transformados pela violência da escravidão.",A,C,A
+E mimetizam, na paisagem, os corpos transformados pela violência da escravidão.",A,C,A,E
 43,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 43  
 De quem é esta língua?
 José Eduardo Agualusa
@@ -1296,7 +1296,7 @@ A à dificuldade de consolidação da literatura brasileira em outros países.
 B aos diferentes graus de instrução formal entre os falantes de língua portuguesa.
 C à existência de uma língua ideal que alguns falantes lusitanos creem ser a falada em Portugal.
 D ao intercâmbio cultural que ocorre entre os povos dos diferentes países de língua portuguesa.
-E à distância territorial entre os falantes do português que vivem em Portugal e no Brasil.",C,C,C
+E à distância territorial entre os falantes do português que vivem em Portugal e no Brasil.",C,C,C,C
 44,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 44  
 Crônica da casa assassinada
 Lúcio Cardoso
@@ -1328,7 +1328,7 @@ A opção por termos e expressões de sentido ambíguo.
 B crítica social inspirada pelo convívio com os patrões.
 C descrição impressionista do fetiche do personagem.
 D presença de um foco narrativo de caráter impreciso.
-E ambiência de mistério das relações entre familiares.",C,C,C
+E ambiência de mistério das relações entre familiares.",C,C,C,C
 45,2023,LC - Linguagens e Códigos,,D1,"QUESTÃO 45  
 Girassol da madrugada (fragmento)
 Mário de Andrade
@@ -1348,7 +1348,7 @@ A vergonha das marcas provocadas pela passagem do tempo.
 B indecisão em face das possibilidades afetivas do presente.
 C serenidade sedimentada pela entrega pacífica ao desejo.
 D frustração causada pela vontade de retorno ao passado.
-E disponibilidade para a exploração do prazer efêmero.",C,C,C
+E disponibilidade para a exploração do prazer efêmero.",C,C,C,C
 46,2023,CH - Ciências Humanas,,D1,"QUESTÃO 46  
 TEXTO 1
 Quarto de despejo: diário de uma favelada
@@ -1374,7 +1374,7 @@ A recorrência da miséria.
 B planejamento da saúde.
 C superação da escassez.
 D constância da economia.
-E romantização da carência.",A,A,A
+E romantização da carência.",A,A,A,E
 47,2023,CH - Ciências Humanas,,D1,"QUESTÃO 47  
 No sul da Bahia, desde o século 18, tem-se registros 
 de um tipo de sistema agroflorestal. Até hoje, esse 
@@ -1393,7 +1393,7 @@ A difusão comercial de lavouras temporárias.
 B utilização sustentável dos recursos naturais.
 C ampliação tecnológica da pecuária intensiva.
 D padronização alimentar dos povos tradicionais.
-E modernização logística de plantios convencionais.",B,B,B
+E modernização logística de plantios convencionais.",B,B,B,B
 48,2023,CH - Ciências Humanas,,D1,"QUESTÃO 48  
 O moleque Ricardo
 José Lins do Rêgo
@@ -1413,7 +1413,7 @@ A conservação do meio rural.
 B crescimento da vegetação ciliar.
 C interferência do espaço geográfico.
 D equilíbrio do ambiente das cidades.
-E controle da proliferação dos animais.",C,C,C
+E controle da proliferação dos animais.",C,C,C,C
 49,2023,CH - Ciências Humanas,,D1,"QUESTÃO 49  
 Elas foram as pioneiras dos direitos das mulheres 
 no Afeganistão. Defensoras ferrenhas da lei, buscaram 
@@ -1436,7 +1436,7 @@ A afronta às estruturas sociais.
 B desprezo aos valores religiosos.
 C transgressão às normas morais.
 D desrespeito à dignidade humana.
-E oposição aos princípios hierárquicos.",D,D,D
+E oposição aos princípios hierárquicos.",D,D,D,D
 50,2023,CH - Ciências Humanas,,D1,"QUESTÃO 50  
 Enormes alto-falantes sul-coreanos instalados na 
 fronteira com o Norte costumavam transmitir desde 
@@ -1460,7 +1460,7 @@ A domínio cultural-identitário de atores sociais.
 B disputas étnico-raciais de povos tradicionais.
 C divergências político-ideológicas de agentes estatais.
 D imposição econômico-financeira de empresas privadas.
-E protestos ecológico-sustentáveis de entidades ambientais.",C,C,C
+E protestos ecológico-sustentáveis de entidades ambientais.",C,C,C,C
 51,2023,CH - Ciências Humanas,,D1,"QUESTÃO 51  
 Estudos interdisciplinares ampliam conhecimento 
 sobre chinesice no barroco mineiro
@@ -1485,7 +1485,7 @@ A representação arquitetônica.
 B intercâmbio transcontinental.
 C dependência econômica.
 D intervenção estatal.
-E padrão estético.",B,B,B
+E padrão estético.",B,B,B,B
 52,2023,CH - Ciências Humanas,,D1,"QUESTÃO 52  
 Txai Suruí, liderança da Juventude Indígena, 
 profere seu discurso na abertura da COP-26
@@ -1500,7 +1500,7 @@ A manejo tradicional.
 B reciclagem residual.
 C consumo consciente.
 D exploração predatória.
-E reaproveitamento energético.",D,D,D
+E reaproveitamento energético.",D,D,D,D
 53,2023,CH - Ciências Humanas,,D1,"QUESTÃO 53  
 Descrição da fotografia: Museu de Arte de São Paulo 
 (Masp) com imponente fachada de linhas retas no 
@@ -1528,7 +1528,7 @@ A equidade de gênero.
 B liberdade de expressão.
 C admissibilidade de voto.
 D igualdade de oportunidade. 
-E reciprocidade de tratamento.",A,A,A
+E reciprocidade de tratamento.",A,A,A,E
 54,2023,CH - Ciências Humanas,,D1,"QUESTÃO 54  
 Descrição da fotografia: Tecido bordado em linhas 
 coloridas com a estampa de uma senhora no centro da 
@@ -1543,7 +1543,7 @@ A percursos e roteiros turísticos.
 B trajetos e movimentos holísticos.
 C vivências e itinerários socioafetivos.
 D fronteiras e demarcações territoriais.
-E profissões e interesses econômicos.",C,C,C
+E profissões e interesses econômicos.",C,C,C,C
 55,2023,CH - Ciências Humanas,,D1,"QUESTÃO 55  
 Novo Correio de Modas, 1853
 Felizes tempos eram esses! As moças iam à missa de 
@@ -1559,7 +1559,7 @@ A Hábitos de leitura e mobilidade regional.
 B Circulação de impressos e trânsito religioso.
 C Valorização da língua e imigração estrangeira.
 D Práticas de letramento e transformação cultural.
-E Flexibilização do ensino e reformismo pedagógico.",D,D,D
+E Flexibilização do ensino e reformismo pedagógico.",D,D,D,D
 56,2023,CH - Ciências Humanas,,D1,"QUESTÃO 56  
 No Cerrado, o conhecimento local está sendo cada 
 vez mais subordinado à lógica do agronegócio. De um 
@@ -1580,7 +1580,7 @@ A cerco aos camponeses, inviabilizando a manutenção das condições para a vid
 B descaso aos latifundiários, impactando a plantação de alimentos para a exportação.
 C desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.
 D desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.
-E assédio ao empresariado, dificultando o investimento de maquinários para a produção.",A,A,A
+E assédio ao empresariado, dificultando o investimento de maquinários para a produção.",A,A,A,E
 57,2023,CH - Ciências Humanas,,D1,"QUESTÃO 57  
 TEXTO 1
 Com uma população de 25 milhões de habitantes (cerca 
@@ -1603,7 +1603,7 @@ A Promover a ocupação rural.
 B Favorecer a liberdade religiosa.
 C Descentralizar a gestão pública.
 D Incentivar a pluralidade cultural.
-E Assegurar a integridade territorial.",E,E,E
+E Assegurar a integridade territorial.",E,E,E,E
 58,2023,CH - Ciências Humanas,,D1,"QUESTÃO 58  
 Dialética do esclarecimento
 Theodor Adorno e Max Horkheimer
@@ -1618,7 +1618,7 @@ A consumo de produtos culturais elaborados no mesmo sistema produtivo do capital
 B forma de realizar as diversas potencialidades da natureza humana.
 C alternativa para equilibrar tensões psicológicas do dia a dia.
 D promoção da satisfação de necessidades artificiais.
-E mecanismo de organização do ócio e do prazer.",A,A,A
+E mecanismo de organização do ócio e do prazer.",A,A,A,D
 59,2023,CH - Ciências Humanas,,D1,"QUESTÃO 59  
 Descrição da charge: A charge, da artista Laerte, apresenta três quadrinhos de uma mulher sentada no chão 
 segurando uma lâmpada mágica do Gênio. No primeiro quadrinho, a mulher pede para a lâmpada: “Eu queria 
@@ -1631,7 +1631,7 @@ A situação de revolta individual.
 B satisfação de desejos pessoais.
 C participação em ações decisórias.
 D permanência em passividade social.
-E conivência em interesses partidários.",C,C,C
+E conivência em interesses partidários.",C,C,C,C
 60,2023,CH - Ciências Humanas,,D1,"QUESTÃO 60  
 Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na 
 atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta do imperdoável. Perdão pedido não é 
@@ -1642,7 +1642,7 @@ A rejeição particular amparada pelo desejo de poder.
 B decisão subjetiva determinada pela vontade divina.
 C liberdade mitigada pela predestinação do espírito.
 D escolhas humanas definidas pelo conhecimento empírico.
-E relações interpessoais mediadas pela autonomia dos indivíduos.",E,E,E
+E relações interpessoais mediadas pela autonomia dos indivíduos.",E,E,E,E
 61,2023,CH - Ciências Humanas,,D1,"QUESTÃO 61  
 Superar a história da escravidão como principal marca 
 da trajetória do negro no país tem sido uma tônica daqueles 
@@ -1662,7 +1662,7 @@ A recuperação do tradicionalismo.
 B estímulo ao antropocentrismo.
 C reforço do etnocentrismo.
 D resgate do teocentrismo.
-E crítica ao eurocentrismo.",E,E,E
+E crítica ao eurocentrismo.",E,E,E,E
 62,2023,CH - Ciências Humanas,,D1,"QUESTÃO 62  
  A Guerra da Palestina
 Escrito durante a Primeira Guerra Mundial, o seguinte 
@@ -1682,7 +1682,7 @@ A promover o bem-estar social.
 B negociar o apoio muçulmano.
 C mediar os conflitos territoriais. 
 D estimular a cooperação regional.
-E combater os governos autocráticos.",C,C,C
+E combater os governos autocráticos.",C,C,C,C
 63,2023,CH - Ciências Humanas,,D1,"QUESTÃO 63  
 TEXTO 1
 Pedagogia da autonomia
@@ -1707,7 +1707,7 @@ A participação sociopolítica.
 B definição estético-cultural.
 C competição econômica local.
 D manutenção do sistema escolar. 
-E capacitação de mobilidade individual.",A,A,A
+E capacitação de mobilidade individual.",A,A,A,E
 64,2023,CH - Ciências Humanas,,D1,"QUESTÃO 64  
  A Cordilheira do Himalaia tem mais de 50 milhões 
 de anos, sendo classificada como a maior cordilheira 
@@ -1726,7 +1726,7 @@ A Derrame de lava vulcânica.
 B Encontro de placas tectônicas.
 C Ação do intemperismo químico.
 D Sedimentação de erosão eólica.
-E Derretimento de geleiras glaciais.",B,B,B
+E Derretimento de geleiras glaciais.",B,B,B,B
 65,2023,CH - Ciências Humanas,,D1,"QUESTÃO 65  
 Quinta conversa: o homem visto de fora
 Maurice Merleau-Ponty
@@ -1746,7 +1746,7 @@ A apresentar uma visão dualista.
 B confirmar uma tese naturalista.
 C demonstrar uma premissa realista.
 D sustentar um argumento idealista.
-E defender uma posição intencionalista.",A,A,A
+E defender uma posição intencionalista.",A,A,A,B
 66,2023,CH - Ciências Humanas,,D1,"QUESTÃO 66  
 Descrição do infográfico: O infográfico representa simulações em duas sequências de mapas-múndi.
  A primeira sequência de mapas, intitulada Simulação de mudança da temperatura média anual em relação ao 
@@ -1766,7 +1766,7 @@ A Expandir o transporte marítimo.
 B Incentivar os fluxos migratórios.
 C Monitorar as atividades vulcânicas.
 D Controlar as emissões de carbono.
-E Priorizar a utilização de termoelétricas.",D,D,D
+E Priorizar a utilização de termoelétricas.",D,D,D,D
 67,2023,CH - Ciências Humanas,,D1,"QUESTÃO 67  
 Memórias póstumas de Brás Cubas
 Machado de Assis
@@ -1780,7 +1780,7 @@ A elaboração conceitual de entendimentos.
 B utilização persuasiva do discurso.
 C narração alegórica dos rapsodos.
 D investigação empírica da physis.
-E expressão pictográfica da pólis.",B,B,B
+E expressão pictográfica da pólis.",B,B,B,B
 68,2023,CH - Ciências Humanas,,D1,"QUESTÃO 68  
 Havia já muito tempo que a Europa desfrutava os 
 benefícios da vacina e arrancava à morte milhares de 
@@ -1800,7 +1800,7 @@ A As leis observáveis regem o mundo material.
 B O monarca racional promove a sociedade justa.
 C O direito natural justifica a liberdade dos homens.
 D A produção da terra garante a riqueza das nações.
-E A responsabilidade dos governantes assegura a saúde dos povos.",E,E,E
+E A responsabilidade dos governantes assegura a saúde dos povos.",E,E,E,C
 69,2023,CH - Ciências Humanas,,D1,"QUESTÃO 69  
 Os movimentos da agricultura urbana no Rio de 
 Janeiro vêm crescendo nos últimos vinte anos, tanto 
@@ -1821,7 +1821,7 @@ A ocupação de lugares ociosos.
 B densificação da área central.
 C valorização do mercado externo.
 D priorização de insumos químicos.
-E mecanização de técnicas de cultivo.",A,A,A
+E mecanização de técnicas de cultivo.",A,A,A,A
 70,2023,CH - Ciências Humanas,,D1,"QUESTÃO 70  
 TEXTO 1
 O pessimista
@@ -1857,7 +1857,7 @@ A evidencia a manifestação do inconsciente.
 B nega a possibilidade de transcendência.
 C contraria o conhecimento difuso.
 D sustenta a fugacidade da vida.
-E refuta a evolução biológica.",B,B,B
+E refuta a evolução biológica.",B,B,B,B
 71,2023,CH - Ciências Humanas,,D1,"QUESTÃO 71  
 O Golpe Militar de 1964 foi implacável no combate 
 ao que restava das Ligas Camponesas, generalizadas na 
@@ -1873,7 +1873,7 @@ A controlar as tensões políticas.
 B limitar a legislação trabalhista.
 C divulgar o programa populista.
 D regularizar a propriedade da terra.
-E estimular a oferta de mão de obra.",A,A,A
+E estimular a oferta de mão de obra.",A,A,A,B
 72,2023,CH - Ciências Humanas,,D1,"QUESTÃO 72  
 Produtores rurais europeus são antigos opositores 
 de um grande acordo com o Mercosul. Na visão deles, 
@@ -1895,7 +1895,7 @@ A restrição dos fluxos migratórios e a maior atuação de sindicatos.
 B ampliação das leis trabalhistas e a plena importação de manufaturados.
 C proteção das florestas nacionais e a ampla transferência de tecnologias.
 D manutenção das barreiras fitossanitárias e a livre circulação de mercadorias.
-E remoção dos entraves alfandegários e a melhor remuneração de empregados.",D,E,D
+E remoção dos entraves alfandegários e a melhor remuneração de empregados.",D,E,D,D
 73,2023,CH - Ciências Humanas,,D1,"QUESTÃO 73  
 Ilusões perdidas
 Honoré de Balzac
@@ -1921,7 +1921,7 @@ A abandono de laços afetivos.
 B negação da ideia de subjetividade.
 C aceitação da hierarquia de gênero.
 D consolidação da estratificação social.
-E ruptura de valores institucionalizados.",E,E,E
+E ruptura de valores institucionalizados.",E,E,E,E
 74,2023,CH - Ciências Humanas,,D1,"QUESTÃO 74  
 TEXTO 1
 Oriunda da Romênia, Genny Gleizer aportou no 
@@ -1951,7 +1951,7 @@ A preceitos teológicos e religiosos.
 B aspectos socioeconômicos e ideológicos.
 C regulamentações territoriais e alfandegárias.
 D orientações constitucionais e estatutárias.
-E decretos legislativos e internacionais.",B,B,E
+E decretos legislativos e internacionais.",B,B,E,B
 75,2023,CH - Ciências Humanas,,D1,"QUESTÃO 75  
 Concorrer e competir não são a mesma coisa. 
  A concorrência pode até ser saudável sempre que a 
@@ -1970,7 +1970,7 @@ A Adoção do dumping comercial.
 B Fusão da função administrativa.
 C Criação de holding empresarial.
 D Limitação do mercado monopolista.
-E Modernização da produção industrial.",A,A,A
+E Modernização da produção industrial.",A,A,A,D
 76,2023,CH - Ciências Humanas,,D1,"QUESTÃO 76  
 Vigiar e punir
 Michel Foucault
@@ -1996,7 +1996,7 @@ A gestão das ilicitudes pelo sistema judicial.
 B aplicação das sanções pelo modelo equânime.
 C supressão dos crimes pela penalização severa.
 D regulamentação dos privilégios pela justiça social.
-E repartição de vantagens pela hierarquização cultural.",A,E,A
+E repartição de vantagens pela hierarquização cultural.",A,E,A,D
 77,2023,CH - Ciências Humanas,,D1,"QUESTÃO 77  
 Os vapores cruzavam os mares transportando pessoas, 
 mercadorias e ideias, e ainda carregavam a mala postal, 
@@ -2019,7 +2019,7 @@ A disputa ideológica entre a comunidade de estrangeiros e a de nativos.
 B circularidade cultural entre a sociedade de partida e a de acolhimento.
 C controle doutrinário das narrativas do cotidiano de origem e de destino.
 D fiscalização política dos fluxos de populações do Novo e do Velho Mundo.
-E monitoramento social dos grupos de trabalhadores da cidade e do campo.",B,B,B
+E monitoramento social dos grupos de trabalhadores da cidade e do campo.",B,B,B,B
 78,2023,CH - Ciências Humanas,,D1,"QUESTÃO 78  
 Diversos são os fatores causadores da degradação 
 do solo, atuando de forma direta ou indireta, mas quase 
@@ -2040,7 +2040,7 @@ A elevação da biomassa.
 B redução da salinização.
 C diminuição da fertilidade.
 D ampliação da microfauna. 
-E decomposição do substrato.",C,C,C
+E decomposição do substrato.",C,C,C,E
 79,2023,CH - Ciências Humanas,,D1,"QUESTÃO 79  
  A partir da década de 1930, começam a ser discutidos 
 no Brasil os princípios de racionalização do trabalho. 
@@ -2065,7 +2065,7 @@ A controle do orçamento familiar.
 B libertação das tradições religiosas.
 C exercício da representatividade política.
 D ampliação dos momentos de socialização.
-E afastamento das atividades especializadas.",D,E,D
+E afastamento das atividades especializadas.",D,E,D,E
 80,2023,CH - Ciências Humanas,,D1,"QUESTÃO 80  
 No cemitério, a sociedade religiosa encarregada do 
 funeral, aterrorizada, apressou a cerimônia de tal forma que 
@@ -2090,7 +2090,7 @@ A Incorporação da estética popular para justificar o ideal de integração na
 B Afirmação da estratégia psicossocial para favorecer o objetivo de propaganda cívica. 
 C Institucionalização de mecanismos repressivos para eliminar os focos de resistência. 
 D Adoção de cerimoniais públicos para controlar as manifestações de grupos opositores. 
-E Estatização de meios de comunicação para selecionar a divulgação de atos governamentais.",C,C,D
+E Estatização de meios de comunicação para selecionar a divulgação de atos governamentais.",C,C,D,C
 81,2023,CH - Ciências Humanas,,D1,"QUESTÃO 81  
 Alternativas logísticas estão servindo de instrumentos 
 que ativam os mercados especuladores de terras 
@@ -2110,7 +2110,7 @@ A apropriação de áreas devolutas.
 B sonegação de impostos federais.
 C incorporação de exportação ilegal.
 D desoneração de setores produtivos.
-E flexibilização de legislação ambiental.",A,E,A
+E flexibilização de legislação ambiental.",A,E,A,E
 82,2023,CH - Ciências Humanas,,D1,"QUESTÃO 82  
 TEXTO 1
 Por hora, apenas os mais abastados poderão sonhar 
@@ -2139,7 +2139,7 @@ A Dependência e progresso.
 B Expectativa e desconfiança.
 C Angústia e adaptação.
 D Pioneirismo e retrocesso.
-E Receio e civilidade.",B,B,B
+E Receio e civilidade.",B,B,B,B
 83,2023,CH - Ciências Humanas,,D1,"QUESTÃO 83  
 Os séculos 15 e 16, quando se vão desmoronando 
 as estruturas socioeconômicas da Idade Média perante 
@@ -2159,7 +2159,7 @@ A O processo de expansão marítima.
 B A eclosão do renascimento cultural.
 C A concretização da centralização política.
 D O movimento de reformas religiosas.
-E A manutenção do sistema feudal.",A,A,A
+E A manutenção do sistema feudal.",A,A,A,C
 84,2023,CH - Ciências Humanas,,D1,"QUESTÃO 84  
 Tahuantinsuyu — nome do Império Inca em quéchua —  
 era dividido em quatro partes ou suyus: Chinchaysuyu 
@@ -2181,7 +2181,7 @@ A aceitável no que alude aos direitos humanos.
 B admissível no que remete às crenças coloniais.
 C tolerável no que se refere aos regimes tributários.
 D flexível no que diz respeito aos costumes religiosos.
-E compreensível no que concerne às normas laborais.",D,D,D
+E compreensível no que concerne às normas laborais.",D,D,D,D
 85,2023,CH - Ciências Humanas,,D1,"QUESTÃO 85  
  A torcida do Fluminense inicia um movimento para 
 mudar a letra de uma das músicas mais populares das 
@@ -2197,7 +2197,7 @@ A Rejeição de costumes elitistas.
 B Repulsão de condutas misóginas.
 C Condenação do preconceito racial.
 D Criminalização de práticas homofóbicas.
-E Contestação do comportamento machista.",C,C,C
+E Contestação do comportamento machista.",C,C,C,C
 86,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 86  
 Descrição do gráfico: Intitulado Taxa de fecundidade 
 no Brasil, o gráfico de barras verticais indica o número 
@@ -2212,7 +2212,7 @@ A Flexibilização legal da prática de aborto.
 B Envelhecimento da população brasileira.
 C Crescimento dos casos de gravidez precoce.
 D Participação feminina no mercado de trabalho.
-E Diminuição dos benefícios na licença-maternidade.",D,D,D
+E Diminuição dos benefícios na licença-maternidade.",D,D,D,B
 87,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 87  
  A Cavalgada de Sant’Ana é uma expressão da 
 devoção dos vaqueiros à padroeira de Caicó (RN). Nas 
@@ -2244,7 +2244,7 @@ A elementos tradicionais e modernos em torno de uma crença religiosa.
 B argumentos teológicos e históricos em consequência de uma ordem papal.
 C fundamentos estéticos e etnográficos em função de uma cerimônia clerical.
 D práticas corporais e esportivas em decorrência de uma imposição eclesiástica.
-E discursos filosóficos e antropológicos em resultado de uma determinação paroquial.",A,A,A
+E discursos filosóficos e antropológicos em resultado de uma determinação paroquial.",A,A,A,A
 88,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 88  
 Do século 16 em diante, pelo menos nas classes 
 mais altas, o garfo passou a ser usado como utensílio 
@@ -2266,7 +2266,7 @@ A distinção das classes sociais.
 B valorização de hábitos de higiene.
 C exaltação da cultura mediterrânea. 
 D consagração de tradições medievais.
-E disseminação de produtos manufaturados.",A,B,A
+E disseminação de produtos manufaturados.",A,B,A,A
 89,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 89  
 Negar o pedido por dinheiro indispensável para 
 necessidades pessoais ou comprar bens usando o nome 
@@ -2285,7 +2285,7 @@ A ação difamatória.
 B desvio comportamental.
 C expressão preconceituosa.
 D violência patrimonial.
-E desentendimento matrimonial.",D,D,D
+E desentendimento matrimonial.",D,D,D,D
 90,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 90  
 Por trás da “mágica” do Google Assistant de sua 
 capacidade de interpretar 26 idiomas está uma enorme 
@@ -2304,7 +2304,7 @@ A Diversificação da função.
 B Mobilidade da população.
 C Autonomia do empregado.
 D Concentração da produção. 
-E Invisibilidade do profissional.",E,E,E
+E Invisibilidade do profissional.",E,E,E,E
 91,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 91  
 É comum em viagens de avião sermos solicitados a 
 desligar aparelhos cujo funcionamento envolva a emissão 
@@ -2320,7 +2320,7 @@ A forem ambas audíveis.
 B tiverem a mesma potência.
 C tiverem a mesma frequência.
 D tiverem a mesma intensidade.
-E propagarem-se com velocidades diferentes.",C,C,C
+E propagarem-se com velocidades diferentes.",C,C,C,C
 92,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 92  
 Terpenos com atividade inseticida:  
 uma alternativa para o controle químico de insetos
@@ -2346,7 +2346,7 @@ A Saliva, por consequência da atividade de enzimas.
 B Sangue, em função das hemácias e leucócitos.
 C Lágrima, em razão da concentração de sais.
 D Urina, pela presença de moléculas de ureia.
-E Leite, por causa do alto teor de gorduras.",E,B,E
+E Leite, por causa do alto teor de gorduras.",E,B,E,B
 93,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 93  
 Cafeteria adota copo reutilizável 
 feito com casca de café
@@ -2368,7 +2368,7 @@ A Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.
 B Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.
 C Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.
 D Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.
-E Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente.",D,D,D
+E Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente.",D,D,D,D
 94,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 94  
 Um método simples para avaliar o teor 
 de sacarose e CO2 em refrigerantes
@@ -2387,7 +2387,7 @@ A maior densidade.
 B menor viscosidade.
 C maior volume de gás dissolvido.
 D menor massa de solutos dissolvidos.
-E maior temperatura de congelamento.",A,D,C
+E maior temperatura de congelamento.",A,D,C,D
 95,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 95  
 O descarte de detergentes comuns nos esgotos 
 domésticos ocasiona a formação de uma camada de 
@@ -2411,7 +2411,7 @@ A Retirar a parte polar da molécula.
 B Eliminar as insaturações do anel aromático.
 C Trocar o grupo aniônico por um grupo neutro.
 D Alterar o grupo aniônico por um grupo catiônico.
-E Modificar a cadeia carbônica para cadeia normal.",E,E,E
+E Modificar a cadeia carbônica para cadeia normal.",E,E,E,C
 96,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 96  
 Avaliação de substâncias genotóxicas
 Micronúcleos em células tumorais: biologia e implicações para a tumorigênese
@@ -2427,7 +2427,7 @@ A nucléolos.
 B lisossomos.
 C ribossomos.
 D mitocôndrias.
-E cromossomos.",E,E,E
+E cromossomos.",E,E,E,E
 97,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 97  
 O petróleo é uma matéria-prima muito valiosa 
 e métodos geofísicos são úteis na sua prospecção. 
@@ -2459,7 +2459,7 @@ A 270.
 B 540.
 C 818.
 D 1 500.
-E 1 800.",D,D,B
+E 1 800.",D,D,B,C
 98,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 98  
 O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. 
 Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento 
@@ -2474,7 +2474,7 @@ A Descrição do gráfico: A pressão permanece constante com a diminuição da 
 B Descrição do gráfico: A pressão permanece constante com a diminuição da temperatura entre T zero e T.
 C Descrição do gráfico: A pressão aumenta como um arco de parábola para cima com a diminuição da temperatura entre T zero e T.
 D Descrição do gráfico: A pressão aumenta linearmente com a diminuição da temperatura entre T zero e T.
-E Descrição do gráfico: A pressão diminui linearmente com a diminuição da temperatura entre T zero e T.",E,E,B
+E Descrição do gráfico: A pressão diminui linearmente com a diminuição da temperatura entre T zero e T.",E,E,B,B
 99,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 99  
 Pais com síndrome de Down
 Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia. A síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui 
@@ -2489,7 +2489,7 @@ A todos normais.
 B todos tetrassômicos.
 C apenas normais ou tetrassômicos.
 D apenas trissômicos ou tetrassômicos.
-E normais, trissômicos ou tetrassômicos.",E,E,E
+E normais, trissômicos ou tetrassômicos.",E,E,C,C
 100,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 100  
 Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade 
 farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago 
@@ -2506,7 +2506,7 @@ A basicidade.
 B lipofilicidade.
 C caráter iônico.
 D cadeia carbônica.
-E estado de oxidação.",C,C,C
+E estado de oxidação.",C,C,C,C
 101,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 101  
 Toxicidade do cianeto
 Biologia molecular da célula
@@ -2529,7 +2529,7 @@ A ATP.
 B água.
 C NADH.
 D dióxido de carbono.
-E citocromo c oxidase.",C,C,C
+E citocromo c oxidase.",C,C,C,B
 102,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 102  
 Os cientistas conseguem determinar a idade de um fóssil com menos de 40 000 anos de idade utilizando 
 o método do carbono-14 ou carbono radioativo. Isso é feito a partir da relação existente entre a quantidade de 
@@ -2547,7 +2547,7 @@ A a meia-vida do carbono-14.
 B se o fóssil é animal ou vegetal.
 C se o fóssil tem mais de 5 730 anos.
 D a quantidade de carbono-14 presente no fóssil.
-E a relação entre as quantidades de carbono-14 em uma parte do fóssil e no fóssil todo.",D,E,D
+E a relação entre as quantidades de carbono-14 em uma parte do fóssil e no fóssil todo.",D,E,D,D
 103,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 103  
 Uma concessionária é responsável por um trecho 
 de 480 quilômetros de uma rodovia. Nesse trecho foram 
@@ -2572,7 +2572,7 @@ A 30.
 B 42.
 C 72.
 D 288.
-E 360.",B,B,B
+E 360.",B,B,C,C
 104,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 104  
 Ancient Soil Chemists of the Amazon
 Os solos amazônicos, ricos em silicato, não são 
@@ -2619,7 +2619,7 @@ A potássio.
 B cálcio.
 C magnésio.
 D zinco.
-E ferro.",A,E,A
+E ferro.",A,E,A,E
 105,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 105  
 Em uma indústria alimentícia, para produção de 
 doce de leite, utiliza-se um tacho de parede oca com 
@@ -2636,7 +2636,7 @@ A somente do calor latente de vaporização.
 B somente do calor latente de condensação.
 C do calor sensível e do calor latente de vaporização.
 D do calor sensível e do calor latente de condensação.
-E do calor latente de condensação e do calor latente de vaporização.",D,E,D
+E do calor latente de condensação e do calor latente de vaporização.",D,E,D,C
 106,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 106  
  A gasolina é uma mistura de hidrocarbonetos 
 de cadeias saturadas contendo de 8 a 12 átomos de 
@@ -2660,7 +2660,7 @@ A 1.
 B 2.
 C 3.
 D 4.
-E 5.",C,E,C
+E 5.",C,E,C,C
 107,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 107  
 Cartilha de limpeza urbana
 De acordo com a Constituição Federal, é competência 
@@ -2686,7 +2686,7 @@ A 756.
 B 533.
 C 76.
 D 53.
-E 13.",C,C,A
+E 13.",C,C,A,B
 108,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 108  
 O circuito com três lâmpadas incandescentes idênticas, 
 representado na figura, consiste em uma associação mista 
@@ -2709,7 +2709,7 @@ A os mesmos.
 B mais intensos.
 C menos intensos.
 D menos intenso para L1 e o mesmo para L3.
-E mais intenso para L1 e menos intenso para L3.",C,C,D
+E mais intenso para L1 e menos intenso para L3.",C,C,C,C
 109,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 109  
 Uma equipe de segurança do transporte de uma 
 empresa avalia o comportamento das tensões que 
@@ -2738,7 +2738,7 @@ A aceleração: T1 é igual a 0 e T2 é igual a 200; frenagem: T1 é igual a 600
 B aceleração: T1 é igual a 0 e T2 é igual a 200; frenagem: T1 é igual a 1 400 e T2 é igual a 0.
 C aceleração: T1 é igual a 0 e T2 é igual a 600; frenagem: T1 é igual a 600 e T2 é igual a 0.
 D aceleração: T1 é igual a 560 e T2 é igual a 0; frenagem: T1 é igual a 0 e T2 é igual a 960.
-E aceleração: T1 é igual a 640 e T2 é igual a 0; frenagem: T1 é igual a 0 e T2 é igual a 1 040.",A,C,E
+E aceleração: T1 é igual a 640 e T2 é igual a 0; frenagem: T1 é igual a 0 e T2 é igual a 1 040.",A,C,C,B
 110,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 110  
  A biorremediação designa tratamentos que usam 
 organismos para reduzir a quantidade de substâncias tóxicas 
@@ -2753,7 +2753,7 @@ A digeridos por enzimas.
 B acumulados nos tecidos.
 C eliminados pelos estômatos.
 D metabolizados por glândulas.
-E utilizados como fonte energética.",B,B,B
+E utilizados como fonte energética.",B,B,B,B
 111,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 111  
 O ciclo do nitrogênio é composto por várias etapas, 
 conforme a figura, sendo cada uma desempenhada por 
@@ -2772,7 +2772,7 @@ A 1.
 B 2.
 C 3.
 D 4.
-E 5.",B,B,B
+E 5.",B,B,B,E
 112,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 112  
 O tripulante de aeronaves e a radiação ionizante
 Os raios cósmicos são fontes de radiação ionizante 
@@ -2802,7 +2802,7 @@ A 8.
 B 10.
 C 80.
 D 100.
-E 1 000.",A,B,C
+E 1 000.",A,B,C,C
 113,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 113  
 Estima-se que entre 1 por cento e 5 por cento da energia solar que atinge a atmosfera terrestre é assimilada pelos 
 vegetais. Por meio da fotossíntese, os vegetais sintetizam compostos de alto teor energético, como a glicose (C6H12O6) 
@@ -2818,7 +2818,7 @@ A é fundamental para a redução da biomassa nos vegetais.
 B ocorre nos vegetais, mas também em outros organismos, tais como fungos e cianobactérias.
 C produz o ATP usado pelas células animais.
 D contribui para a retirada de CO2 atmosférico, amenizando os efeitos do lançamento de gases estufa.
-E mostra como a maioria da energia solar que incide sobre a Terra é utilizada pelos seres vivos na produção de açúcares.",D,D,D
+E mostra como a maioria da energia solar que incide sobre a Terra é utilizada pelos seres vivos na produção de açúcares.",D,D,D,D
 114,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 114  
 Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas 
 e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento 
@@ -2832,7 +2832,7 @@ A Altura.
 B Período.
 C Amplitude.
 D Velocidade.
-E Comprimento de onda.",C,E,E
+E Comprimento de onda.",C,E,E,C
 115,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 115  
 Informações digitais — dados — são gravadas em 
 discos ópticos, como CD e DVD, na forma de cavidades 
@@ -2855,7 +2855,7 @@ A Violeta.
 B Azul.
 C Verde.
 D Vermelho.
-E Infravermelho.",A,B,A
+E Infravermelho.",A,B,A,E
 116,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 116  
 O bluetooth é uma tecnologia de comunicação sem 
 fio, de curto alcance, presente em diferentes dispositivos 
@@ -2877,7 +2877,7 @@ A 2,0 vezes 10 elevado a menos 6.
 B 2,0 vezes 10 elevado a menos 5.
 C 2,4 vezes 10 elevado a menos 5.
 D 2,4 vezes 10 elevado a menos 3.
-E 2,4 vezes 10 elevado a menos 1.",A,A,A
+E 2,4 vezes 10 elevado a menos 1.",A,A,A,B
 117,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 117  
  A tecnologia de vacinas de RNA mensageiro (RNAm) 
 é investigada há anos. Avanços científicos em genética 
@@ -2895,7 +2895,7 @@ A estimulação de leucócitos induzida pela capa lipídica contendo RNAm.
 B atuação do RNAm como sequestrador do vírus para o meio extracelular.
 C tradução do RNAm em proteína viral, desencadeando a resposta antigênica.
 D competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.
-E incorporação do RNAm viral ao genoma do hospedeiro, gerando novo fenótipo.",C,C,C
+E incorporação do RNAm viral ao genoma do hospedeiro, gerando novo fenótipo.",C,C,C,C
 118,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 118  
 Na fertilização in vitro, espermatozoides são 
 adicionados aos gametas femininos retirados de uma 
@@ -2912,7 +2912,7 @@ A formação do pronúcleo masculino.
 B início da divisão mitótica do zigoto.
 C término da segunda divisão meiótica do ovócito.
 D passagem do espermatozoide pela corona radiata e zona pelúcida.
-E fusão das membranas plasmáticas do ovócito e do espermatozoide.",D,E,A
+E fusão das membranas plasmáticas do ovócito e do espermatozoide.",D,E,D,E
 119,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 119  
 O fogão por indução funciona a partir do surgimento 
 de uma corrente elétrica induzida no fundo da panela, com 
@@ -2926,7 +2926,7 @@ A radiação.
 B condução.
 C campo elétrico variável.
 D campo magnético variável.
-E ressonância eletromagnética.",D,D,D
+E ressonância eletromagnética.",D,D,D,C
 120,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 120  
 Uma academia decide trocar gradualmente seus 
 aparelhos de musculação. Agora, os frequentadores 
@@ -2967,7 +2967,7 @@ A Um quarto.
 B Um meio. 
 C 1.
 D 2.
-E 4.",D,B,B
+E 4.",D,B,C,C
 121,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 121  
 Efficacy of Selective Serotonin-Reuptake 
 Inhibitors in Premenstrual Syndrome
@@ -2986,7 +2986,7 @@ A regressão do corpo lúteo ovariano.
 B diminuição na produção de ocitocina.
 C liberação do gameta feminino na ovulação.
 D aumento nos níveis dos hormônios LH e FSH.
-E elevação nos níveis sorológicos de adrenalina.",A,A,A
+E elevação nos níveis sorológicos de adrenalina.",A,A,A,D
 122,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 122  
 As cetonas fazem parte de famílias olfativas encontradas 
 em muitos alimentos. A molécula de hexan-3-ona é um 
@@ -3000,7 +3000,7 @@ A hexanal.
 B hexan-1-ol.
 C hexan-3-ol.
 D hex-1-en-1-ol. 
-E ácido hexanoico.",C,A,A
+E ácido hexanoico.",C,A,A,C
 123,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 123  
 Durante a evolução das plantas, ocorreu uma transição 
 do ambiente aquático para o ambiente terrestre graças ao 
@@ -3014,7 +3014,7 @@ A Fruto.
 B Esporo.
 C Semente.
 D Tubo polínico.
-E Vaso condutor.",D,D,D
+E Vaso condutor.",D,D,D,C
 124,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 124  
 Atualização da recomendação da Sociedade 
 Portuguesa de Neonatologia
@@ -3036,7 +3036,7 @@ A vidro do frasco for translúcido.
 B concentração de gluconato de cálcio for alta.
 C frasco de vidro apresentar uma maior espessura.
 D vidro for previamente esterilizado em altas temperaturas.
-E reação do alumínio com gluconato de cálcio for endotérmica.",B,B,B
+E reação do alumínio com gluconato de cálcio for endotérmica.",B,B,B,E
 125,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 125  
 Barbatimão é o nome popular de uma árvore cuja 
 casca é utilizada para fins medicinais. Essa casca é 
@@ -3052,7 +3052,7 @@ A fotossíntese.
 B transpiração.
 C troca de gases.
 D formação de brotos.
-E nutrição das raízes.",E,B,C
+E nutrição das raízes.",E,B,C,B
 126,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 126  
 Um garoto comprou vários abacates na feira, mas 
 descobriu que eles não estavam maduros o suficiente 
@@ -3069,7 +3069,7 @@ A acúmulo de gás etileno.
 B redução da umidade do ar.
 C aumento da concentração de CO2.
 D diminuição da intensidade luminosa.
-E isolamento do contato com O2 atmosférico.",A,A,A
+E isolamento do contato com O2 atmosférico.",A,A,A,A
 127,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 127  
 Há muito tempo são conhecidas espécies de 
 lesmas-do-mar com uma capacidade ímpar: guardar parte 
@@ -3085,7 +3085,7 @@ A ácidos nucleicos.
 B carboidratos.
 C proteínas.
 D vitaminas. 
-E lipídios.",B,B,B
+E lipídios.",B,B,B,C
 128,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 128  
  A leishmaniose visceral é uma zoonose causada por 
 um protozoário do gênero Leishmania que é encontrado em 
@@ -3105,7 +3105,7 @@ A Urina.
 B Saliva.
 C Fezes.
 D Sangue.
-E Secreção ocular.",D,D,D
+E Secreção ocular.",D,D,D,D
 129,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 129  
 Um professor lança uma esfera verticalmente para 
 cima, a qual retorna, depois de alguns segundos, ao ponto 
@@ -3130,7 +3130,7 @@ A v é igual a zero e a é diferente de zero para cima.
 B v é diferente de zero para cima e a é igual a zero.
 C v é igual a zero e a é diferente de zero para baixo.
 D v é diferente de zero para cima e a é diferente de zero para cima.
-E v é diferente de zero para baixo e a é diferente de zero para baixo.",C,A,A
+E v é diferente de zero para baixo e a é diferente de zero para baixo.",C,A,A,D
 130,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 130  
 O número de abelhas encontra-se em declínio em 
 várias regiões do mundo, inclusive no Brasil, sendo 
@@ -3147,7 +3147,7 @@ A reduz sua predação.
 B reduz o uso de pesticidas.
 C reduz a competição por abrigo.
 D aumenta a oferta de alimento.
-E aumenta os locais de reprodução.",D,D,D
+E aumenta os locais de reprodução.",D,D,D,D
 131,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 131  
 Os mais antigos cozinhavam o feijão na panela de ferro a 
 fim de acabar com a palidez de seus filhos. Alguns chegavam 
@@ -3161,7 +3161,7 @@ A tratar a diarreia.
 B prevenir a anemia.
 C evitar as verminoses.
 D remediar o raquitismo.
-E combater a febre amarela.",B,B,B
+E combater a febre amarela.",B,B,B,B
 132,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 132  
  A utilização de tecnologia nuclear é um tema bastante 
 controverso, por causa do risco de acidentes graves, 
@@ -3178,7 +3178,7 @@ A Formar resíduos facilmente recicláveis.
 B Promover o aumento do desmatamento.
 C Contribuir para a produção de chuva ácida.
 D Emitir gases tóxicos que são lançados no ambiente.
-E Produzir calor sem o consumo de combustíveis fósseis.",E,E,E
+E Produzir calor sem o consumo de combustíveis fósseis.",E,E,E,E
 133,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 133  
 Em uma indústria, o controle da dureza da água é 
 importante quando ela é utilizada em caldeiras, uma vez 
@@ -3201,7 +3201,7 @@ A 1.
 B 2.
 C 3.
 D 4.
-E 5.",A,A,A
+E 5.",A,A,A,C
 134,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 134  
 As aves apresentam dois tipos de músculos em seus 
 corpos: vermelhos e brancos. Aves migratórias como 
@@ -3215,7 +3215,7 @@ A execução de manobras.
 B metabolismo corpóreo elevado.
 C manutenção da aerodinâmica.
 D deslocamento a grandes velocidades.
-E capacidade de voo em grandes altitudes.",B,B,B
+E capacidade de voo em grandes altitudes.",B,B,B,D
 135,2023,CN - Ciências da Natureza,,D2,"QUESTÃO 135  
 Existe no comércio um produto antimofo constituído por 
 uma embalagem com tampa perfurada contendo cloreto de 
@@ -3231,7 +3231,7 @@ A 14 por cento.
 B 16 por cento.
 C 24 por cento.
 D 32 por cento. 
-E 75 por cento.",D,D,A
+E 75 por cento.",D,D,A,C
 136,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 136  
 Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação 
 bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou 
@@ -3255,7 +3255,7 @@ A A6.
 B H1.
 C H6.
 D I1.
-E I6.",E,C,C
+E I6.",E,C,C,C
 137,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 137  
 O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos 
 em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e 
@@ -3267,7 +3267,7 @@ A 4,68.
 B 6,30.
 C 9,30.
 D 10,50.
-E 10,65.",B,B,E
+E 10,65.",B,B,B,C
 138,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 138  
 O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, 
 uma já está completamente imunizada, a dos trabalhadores da saúde.
@@ -3285,7 +3285,7 @@ A indígenas.
 B gestantes.
 C doentes crônicos.
 D adultos entre 20 e 29 anos.
-E crianças de 6 meses a 2 anos.",Anulado,A,D
+E crianças de 6 meses a 2 anos.",Anulado,A,D,C
 139,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 139  
  A figura representa uma escada com três degraus, 
 construída em concreto maciço, com suas medidas 
@@ -3310,7 +3310,7 @@ A 1,20.
 B 1,35.
 C 1,65.
 D 1,80.
-E 1,95.",E,B,D
+E 1,95.",E,B,B,B
 140,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 140  
 Um supermercado conta com cinco caixas disponíveis 
 para pagamento. Foram instaladas telas que apresentam 
@@ -3332,7 +3332,7 @@ A 1.
 B 2.
 C 3.
 D 4.
-E 5.",E,B,C
+E 5.",E,B,C,C
 141,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 141  
 As figuras pintadas no quadro da sala de estar de 
 uma residência representam as silhuetas de parte das 
@@ -3357,7 +3357,7 @@ A cone.
 B setor circular.
 C segmento circular.
 D triângulo isósceles.
-E arco de circunferência.",B,C,C
+E arco de circunferência.",B,C,B,C
 142,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 142  
 Na planta baixa de um clube, a piscina é representada 
 por um quadrado cuja área real mede 400 metros 
@@ -3373,7 +3373,7 @@ A 1 000.
 B 900.
 C 600.
 D 500.
-E 400.",D,D,B
+E 400.",D,D,B,B
 143,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 143  
 Uma pessoa caminha por 30 minutos e utiliza um 
 aplicativo instalado em seu celular para monitorar a 
@@ -3406,7 +3406,7 @@ A 6.
 B 8.
 C 10.
 D 14.
-E 24.",A,B,A
+E 24.",A,B,B,C
 144,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 144  
 Uma loja vende seus produtos de duas formas: à vista 
 ou financiado em três parcelas mensais iguais. Para definir o 
@@ -3422,7 +3422,7 @@ A 6,7 por cento.
 B 10 por cento.
 C 20 por cento.
 D 21,5 por cento.
-E 23,3 por cento.",D,A,C
+E 23,3 por cento.",D,A,A,C
 145,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 145  
 Para concretar a laje de sua residência, uma pessoa 
 contratou uma construtora. Tal empresa informa que o 
@@ -3436,7 +3436,7 @@ A y é igual a 250 vezes x.
 B y é igual a 500 vezes x.
 C y é igual a 750 vezes x.
 D y é igual a 250 vezes x mais 500.
-E y é igual a 500 vezes x mais 250.",D,E,D
+E y é igual a 500 vezes x mais 250.",D,E,D,D
 146,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 146  
 Lucas precisa estacionar o carro pelo período de 
 40 minutos, e sua irmã Clara também precisa estacionar o 
@@ -3451,7 +3451,7 @@ A Verde e Preto.
 B Verde e Amarelo.
 C Amarelo e Amarelo.
 D Preto e Preto.
-E Verde e Verde.",A,B,B
+E Verde e Verde.",A,B,B,B
 147,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 147  
 Estudantes trabalhando com robótica criaram uma 
 “torneira inteligente” que automatiza sua abertura e seu 
@@ -3478,7 +3478,7 @@ A  O gráfico é formado por três segmentos de reta: o primeiro liga os pontos 
 B  O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 2) e (8 ; 2) e o terceiro liga os pontos (8 ; 2) e (11 ; 4).
 C  O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 2) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 2) e (11 ; 2).
 D  O gráfico é formado por um segmento de reta que liga os pontos (0 ; 0) e (11 ; 4).
-E  O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 0) e (11 ; 4).",B,B,B
+E  O gráfico é formado por três segmentos de reta: o primeiro liga os pontos (0 ; 0) e (3 ; 2); o segundo liga os pontos (3 ; 0) e (8 ; 0) e o terceiro liga os pontos (8 ; 0) e (11 ; 4).",B,B,B,B
 148,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 148  
 As características culturais variam de povo para povo. 
 Há notícias de um povo que possuía formas de contar 
@@ -3504,7 +3504,7 @@ A okosa urapum urapum urapum e okosa okosa urapum urapum urapum.
 B okosa okosa urapum e okosa okosa okosa okosa urapum.
 C okosa okosa urapum e okosa okosa okosa urapum.
 D okosa urapum urapum e okosa urapum okosa urapum urapum.
-E okosa okosa urapum e okosa okosa okosa okosa.",C,B,C
+E okosa okosa urapum e okosa okosa okosa okosa.",C,B,C,C
 149,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 149  
 Um tipo de semente necessita de bastante água nos 
 dois primeiros meses após o plantio. Um produtor pretende 
@@ -3527,7 +3527,7 @@ A Outubro.
 B Novembro.
 C Dezembro. 
 D Janeiro.
-E Fevereiro.",C,C,D
+E Fevereiro.",C,C,D,D
 150,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 150  
 Um artista plástico esculpe uma escultura a partir 
 de um bloco de madeira de lei, em etapas. Inicialmente, 
@@ -3561,7 +3561,7 @@ A 1 198,8.
 B 1 296,0.
 C 1 360,8.
 D 4 665,6.
-E 4 860,0.",B,B,A
+E 4 860,0.",B,B,C,C
 151,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 151  
 Os 100 funcionários de uma empresa estão 
 distribuídos em dois setores: Produção e Administração. 
@@ -3578,7 +3578,7 @@ A 2 000,00.
 B 2 500,00.
 C 3 250,00.
 D 4 500,00.
-E 9 000,00.",C,C,C
+E 9 000,00.",C,C,C,C
 152,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 152  
 Visando atrair mais clientes, o gerente de uma loja 
 anunciou uma promoção em que cada cliente que realizar 
@@ -3605,7 +3605,7 @@ A 20.
 B 60.
 C 64.
 D 68.
-E 80.",C,E,B
+E 80.",C,E,D,C
 153,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 153  
 Dirigir após ingerir bebidas alcoólicas é uma atitude 
 extremamente perigosa, uma vez que, a partir da primeira 
@@ -3624,7 +3624,7 @@ A C é igual a 0,9 vezes q.
 B C é igual a 0,1 vezes q.
 C C é igual a 1 menos 0,1 vezes q.
 D C é igual a 1 menos 0,9 vezes q.
-E C é igual a q menos 10.",A,A,A
+E C é igual a q menos 10.",A,A,A,D
 154,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 154  
 Um investidor iniciante observou o gráfico que 
 apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.
@@ -3655,7 +3655,7 @@ A 3.
 B 4.
 C 6.
 D 7.
-E 9.",B,A,C
+E 9.",B,A,C,C
 155,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 155  
  A exposição a alguns níveis sonoros pode causar 
 lesões auditivas. Por isso, em uma indústria, são adotadas 
@@ -3687,7 +3687,7 @@ A 1.
 B 2. 
 C 3.
 D 4.
-E 5.",B,E,C
+E 5.",B,E,B,C
 156,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 156  
 Em um colégio público, a admissão no primeiro ano se 
 dá por sorteio. Neste ano há 55 candidatos, cujas inscrições 
@@ -3708,7 +3708,7 @@ A um cinquenta avos e um sessenta avos.
 B um cinquenta avos e um cinquenta avos.
 C um cinquenta avos e um décimo.
 D um cinquenta e cinco avos e um cinquenta e quatro avos.
-E um centésimo e um centésimo.",A,D,B
+E um centésimo e um centésimo.",A,D,B,B
 157,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 157  
 O esquema mostra como a intensidade luminosa 
 decresce com o aumento da profundidade em um rio, 
@@ -3727,7 +3727,7 @@ A um nono de L índice 0.
 B fração de numerador 16 e denominador 27 vezes L índice 0.
 C fração de numerador 32 e denominador 243 vezes L índice 0.
 D fração de numerador 64 e denominador 729 vezes L índice 0.
-E fração de numerador 128 e denominador 2 187 vezes L índice 0.",D,D,D
+E fração de numerador 128 e denominador 2 187 vezes L índice 0.",D,D,E,C
 158,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 158  
 Analisando as vendas de uma empresa, o gerente 
 concluiu que o montante diário arrecadado, em milhar 
@@ -3750,7 +3750,7 @@ A Ótimo.
 B Bom.
 C Normal.
 D Ruim.
-E Péssimo.",D,B,C
+E Péssimo.",D,B,A,E
 159,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 159  
 Um professor, para promover a aprendizagem dos 
 estudantes em estatística, propôs uma atividade. O objetivo 
@@ -3784,7 +3784,7 @@ A 10.
 B 20.
 C 30.
 D 50.
-E 70.",B,B,C
+E 70.",B,B,C,C
 160,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 160  
 Um pescador tem um custo fixo diário de 900 reais 
 com combustível, iscas, manutenção de seu barco e 
@@ -3807,7 +3807,7 @@ A 1.
 B 2.
 C 3.
 D 4.
-E 5.",D,D,D
+E 5.",D,D,B,C
 161,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 161  
 Um agricultor é informado sobre um método de 
 proteção para sua lavoura que consiste em inserir larvas 
@@ -3826,7 +3826,7 @@ A 2.
 B 4.
 C 6.
 D 12.
-E 18.",D,D,C
+E 18.",D,D,B,C
 162,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 162  
 Ao realizar o cadastro em um aplicativo de 
 investimentos, foi solicitado ao usuário que criasse uma 
@@ -3851,7 +3851,7 @@ A tipo 1, pois p índice 1 menor que p índice 2 menor que p índice 3.
 B tipo 1, pois tem menor quantidade de caracteres.
 C tipo 2, pois tem maior quantidade de letras.
 D tipo 3, pois p índice 3 menor que p índice 2 menor que p índice 1.
-E tipo 3, pois tem maior quantidade de caracteres.",A,D,A
+E tipo 3, pois tem maior quantidade de caracteres.",A,D,A,D
 163,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 163  
 Em primeiro de junho, um canil que cria 98 cães tem, 
 em estoque, a quantidade exata de ração para fornecer, 
@@ -3869,7 +3869,7 @@ A 306.
 B 500.
 C 510.
 D 653.
-E 980.",E,E,B
+E 980.",E,E,B,C
 164,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 164  
  A figura ilustra uma roda-gigante no exato instante em 
 que a cadeira onde se encontra a pessoa P está no ponto 
@@ -3899,7 +3899,7 @@ A  O gráfico é representado por uma cossenoide.
 B  O gráfico é representado por uma linha poligonal formada por 4 segmentos de reta de mesmo comprimento, decrescentes e crescentes alternadamente.
 C  O gráfico é representado por uma linha poligonal formada por 7 segmentos de reta, 4 deles decrescentes e crescentes alternadamente e de mesmo comprimento, interligados por 3 segmentos de reta horizontais de mesmo comprimento.
 D  O gráfico é representado por 3 arcos de parábolas com concavidades para baixo, formando uma única curva contínua.
-E  O gráfico é representado por  2 arcos de parábolas com concavidades para cima, formando uma única curva contínua.",A,A,A
+E  O gráfico é representado por  2 arcos de parábolas com concavidades para cima, formando uma única curva contínua.",A,A,A,C
 165,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 165  
 No alojamento de uma universidade, há alguns quartos 
 com o padrão superior ao dos demais. Um desses quartos 
@@ -3920,7 +3920,7 @@ A Um meio.
 B Um terço.
 C Um oitavo.
 D Dois nonos.
-E Três oitavos.",E,C,D
+E Três oitavos.",E,C,E,C
 166,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 166  
  A água utilizada pelos 75 moradores de um vilarejo 
 provém de um reservatório de formato cilíndrico circular 
@@ -3943,7 +3943,7 @@ A 50.
 B 60.
 C 80.
 D 140.
-E 150.",A,D,E
+E 150.",A,D,A,C
 167,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 167  
 Em janeiro do ano passado, a direção de uma fábrica 
 abriu uma creche para os filhos de seus funcionários, 
@@ -3966,7 +3966,7 @@ A 10.
 B 11.
 C 13.
 D 30.
-E 33.",B,C,D
+E 33.",B,C,B,C
 168,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 168  
  A foto mostra a construção de uma cisterna destinada 
 ao armazenamento de água. Uma cisterna como essa, na 
@@ -3988,7 +3988,7 @@ A 0,3.
 B 0,5.
 C 0,9.
 D 1,8.
-E 2,7.",C,C,A
+E 2,7.",C,C,B,C
 169,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 169  
 Num certo momento de um jogo digital, a tela 
 apresenta a imagem representada na figura. O ponto 
@@ -4025,7 +4025,7 @@ A Q índice 2.
 B Q índice 3.
 C Q índice 4.
 D Q índice 5.
-E Q índice 6.",B,B,C
+E Q índice 6.",B,B,B,C
 170,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 170  
 O triângulo da figura é denominado triângulo mágico. 
 Nos círculos, escrevem-se os números de 1 a 6, sem 
@@ -4042,7 +4042,7 @@ A Há somente uma solução possível, e as somas em cada lado do triângulo sã
 B Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9. 
 C Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9. 
 D Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.
-E Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.",E,C,B
+E Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.",E,C,B,B
 171,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 171  
 O gerente de uma fábrica pretende comparar a 
 evolução das vendas de dois produtos similares (1 e 2). 
@@ -4066,7 +4066,7 @@ A Junho.
 B Julho.
 C Agosto.
 D Setembro.
-E Outubro.",D,C,B
+E Outubro.",D,C,B,B
 172,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 172  
 Uma empresa de transporte faz regularmente um 
 levantamento do número de viagens realizadas durante 
@@ -4093,7 +4093,7 @@ A mediana igual a média menor que moda.
 B mediana igual a moda menor que média. 
 C mediana menor que média menor que moda.
 D moda menor que média menor que mediana. 
-E moda menor que mediana menor que média.",E,D,A
+E moda menor que mediana menor que média.",E,D,B,C
 173,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 173  
 Uma pessoa pratica quatro atividades físicas — 
 caminhar, correr, andar de bicicleta e jogar futebol — como 
@@ -4126,7 +4126,7 @@ A segunda-feira.
 B terça-feira.
 C quarta-feira.
 D quinta-feira.
-E sexta-feira.",C,E,B
+E sexta-feira.",C,E,C,D
 174,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 174  
  A cada bimestre, a diretora de uma escola compra 
 uma quantidade de folhas de papel ofício proporcional ao 
@@ -4146,7 +4146,7 @@ A (5,0 ; 5,5).
 B (8,0 ; 8,5).
 C (11,5 ; 12,5).
 D (19,5 ; 20,5). 
-E (3,5 ; 4,0).",A,D,D
+E (3,5 ; 4,0).",A,D,C,C
 175,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 175  
 Alguns estudos comprovam que os carboidratos 
 fornecem energia ao corpo, preservam as proteínas 
@@ -4168,7 +4168,7 @@ A 1.
 B 4.
 C 6.
 D 7.
-E 8.",D,D,D
+E 8.",D,D,B,C
 176,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 176  
 O mastro de uma bandeira foi instalado 
 perpendicularmente ao solo em uma região plana. 
@@ -4201,7 +4201,7 @@ A Fração com numerador 22 vezes raiz quadrada de 3 e denominador 3.
 B 11 vezes raiz quadrada de 2.
 C 12 vezes raiz quadrada de 2.
 D 12 vezes raiz quadrada de 3.
-E 22.",C,B,D
+E 22.",C,B,D,B
 177,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 177  
 Um controlador de voo dispõe de um instrumento que 
 descreve a altitude de uma aeronave em voo, em função 
@@ -4235,7 +4235,7 @@ A 1 para 5.
 B 1 para 11.
 C 1 para 55.
 D 1 para 5 000.
-E 1 para 500 000.",E,A,C
+E 1 para 500 000.",E,A,A,D
 178,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 178  
 O calendário maia apresenta duas contagens 
 simultâneas de anos, o chamado ano Tzolkim, composto 
@@ -4252,7 +4252,7 @@ A 741.
 B 1 040.
 C 1 460.
 D 2 100.
-E 5 200.",C,C,B
+E 5 200.",C,C,B,B
 179,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 179  
 Sejam a, b e c as medidas dos lados de um triângulo 
 retângulo, tendo a como medida da hipotenusa. Esses 
@@ -4293,7 +4293,7 @@ A zero grau menor que alfa menor que 90 graus.
 B alfa igual a 90 graus. 
 C 90 graus menor que alfa menor que 180 graus. 
 D alfa igual a 180 graus. 
-E 180 graus menor que alfa menor que 360 graus.",C,C,A
+E 180 graus menor que alfa menor que 360 graus.",C,C,A,C
 180,2023,MT - Matemática e Códigos,,D2,"QUESTÃO 180  
 Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado 
 pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta 
@@ -4305,4 +4305,4 @@ A fração com numerador min e denominador abre parêntese mL vezes kg fecha par
 B fração com numerador mL e denominador abre parêntese min vezes kg fecha parêntese.
 C fração com numerador abre parêntese min vezes mL fecha parêntese e denominador kg.
 D fração com numerador abre parêntese min vezes kg fecha parêntese e denominador mL. 
-E fração com numerador abre parêntese mL vezes kg fecha parêntese e denominador min.",B,E,C
+E fração com numerador abre parêntese mL vezes kg fecha parêntese e denominador min.",B,E,A,B

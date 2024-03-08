@@ -65,9 +65,9 @@ C preserva a ancestralidade africana por meio da tradição oral.
 28
 C construções imaginárias cristalizadas na sociedade.
 29
-
+CONTEUDO SENSÍVEL VIOLENCIA CONTRA MULHER **D .
 30
-
+CONTEUDO SENSÍVEL RACISMO **B .
 31
 E criticar o obstáculo promovido pelos usos especializados da linguagem.
 32
@@ -368,6 +368,3 @@ B 1 040
 A - zero grau menor que alfa menor que 90 graus.
 180
 A fração com numerador min e denominador abre parêntese mL vezes kg fecha parêntese.
-
-Questões problemáticas: ['07', '14', '15', '18', '21', '23', '29', '30', '61', '74', '80']
-Saídas problemáticas: ['136']

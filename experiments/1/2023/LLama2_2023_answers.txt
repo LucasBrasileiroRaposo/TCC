@@ -259,7 +259,7 @@ A resposta correta é: E reação do alumínio com gluconato de cálcio for endo
 125
 A alternativa correta é B: transpiração. A retirada do anel completo da casca pode interromper a trans
 126
-
+A resposta correta é: A acúmulo de gás etileno.
 127
 A resposta correta é: C proteínas.
 128
@@ -369,5 +369,3 @@ A resposta correta é C. 90 graus menor que alfa menor que 180 graus.
 180
 A resposta correta é: B) Fração com numerador mL e denominador abre parêntese min vezes kg
 
-Questões problemáticas: ['126']
-Saídas problemáticas: []
