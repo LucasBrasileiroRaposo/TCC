@@ -37,7 +37,7 @@ C superficialidade das interações.
 19
 E essencial na estrutura do que existe no mundo, sem deixar de contribuir para o movimento.
 20
-
+A Deslumbramento do homem branco diante do comportamento exótico das tribos autóctones.
 21
 A Liberal, em defesa da liberdade e da propriedade privada — Conflituosa, exemplificada pela luta de classes.
 22
@@ -156,7 +156,7 @@ B diminui a energia de ativação da reação.
 75
 D não é absorvida pelos elétrons e continua seu caminho em trajetórias regulares.
 77
-
+E criação de um meio de cultura de células que imita o cérebro pela utilização de vitaminas e sais minerais.
 78
 B A amplitude da onda sonora.
 79
@@ -380,6 +380,3 @@ E (50 ; 30)
 C 4 500.
 180
 C Israel.
-
-Questões problemáticas: ['20', '56', '77', '110', '113']
-Saídas problemáticas: []

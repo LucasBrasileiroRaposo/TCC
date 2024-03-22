@@ -23,7 +23,7 @@ B sobrevivência de gerações futuras.
 12
 B cristianizar a população afro-brasileira.
 13
-
+E simpatia de membros da burocracia pelo projeto totalitário alemão.
 14
 C Defender a indiferença e a impossibilidade de obter alguma certeza.
 15
@@ -213,7 +213,7 @@ D O uso de rubricas para construir a ação dramática.
 102
 A contraste entre o local de nascimento e a escolha pelo gênero samba.
 103
-
+B uma informação implícita.
 104
 C transposição de limites impostos à mulher num espaço de predomínio masculino.
 105
@@ -368,6 +368,3 @@ D aumentar em 4 unidades.
 B Fração de numerador 500 vezes A e denominador D elevado ao quadrado.
 180
 A 23,5 por cento.
-
-Questões problemáticas: ['13', '21', '46', '103']
-Saídas problemáticas: ['163']

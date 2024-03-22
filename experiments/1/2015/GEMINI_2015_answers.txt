@@ -81,7 +81,7 @@ B restrição dos direitos políticos.
 41
 B controle do conteúdo da informação por meio de uma orientação política e ideológica.
 42
-
+D esse mito camuflou formas de exclusão em relação aos afrodescendentes.
 43
 E aquecimento global.
 44
@@ -199,8 +199,7 @@ B desconectar as crianças dos aparelhos tecnológicos e brincar com elas.
 95E
 D possui marcas autorais.
 96
-C promove o distanciamento nos relacionamentos, 
-mesmo entre pessoas próximas fisicamente.
+C promove o distanciamento nos relacionamentos, mesmo entre pessoas próximas fisicamente.
 97
 D anúncio publicitário, pois busca persuadir o público-alvo a visitar um determinado local.
 98
@@ -264,9 +263,7 @@ E cuidado com a própria segurança.
 127
 B atribui ao texto um caráter humorístico.
 128
-B “As pesquisas mostram que quem tem menos de três 
-pessoas em sua rede de contatos próxima [...] tem 
-mais chances de desenvolver uma doença mental.”
+B “As pesquisas mostram que quem tem menos de três pessoas em sua rede de contatos próxima [...] tem mais chances de desenvolver uma doença mental.”
 129
 D “Somando uma coisa e outra, o sabor de fumar se tornará muito mais ácido.”
 130
@@ -371,6 +368,3 @@ A 80 por cento.
 A 70,0.
 180
 D setembro.
-
-Questões problemáticas: ['06', '22', '42', '98', '126']
-Saídas problemáticas: ['72']

@@ -368,6 +368,3 @@ A resposta correta é: C aumentar em 2 unidades
 A resposta correta é: BExplanation:
 180
 A resposta correta é C. 19,0 por cent
-
-Questões problemáticas: []
-Saídas problemáticas: []

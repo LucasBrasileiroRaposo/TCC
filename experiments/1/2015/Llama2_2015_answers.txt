@@ -233,7 +233,7 @@ A resposta correta é E. Pesar e reação de l
 112
 A resposta correta é: E à quebra de regras
 113
-
+A resposta correta é: D corpo e espírito.
 114
 A resposta correta é A. Desconstroem os estere
 115
@@ -368,6 +368,3 @@ A resposta correta é: C 0,8 por cento
 A resposta correta é B 52,5.
 180
 A alternativa correta é C julho.Explanation
-
-Questões problemáticas: ['113']
-Saídas problemáticas: []

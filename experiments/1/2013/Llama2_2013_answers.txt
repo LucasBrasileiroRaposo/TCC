@@ -45,7 +45,7 @@ A resposta correta é: D) intensificação das tens
 23
 A resposta correta é D Êxodo rural.
 24
-
+A resposta correta é: A está sujeito a mud
 25
 A resposta correta é: A crítico do regime político recém
 26
@@ -368,5 +368,3 @@ A alternativa correta é C (45 ; 35).
 A resposta correta é C) 4 500.
 180
 A resposta correta é: B Holanda.Ex
-
-Questões problemáticas: ['24']

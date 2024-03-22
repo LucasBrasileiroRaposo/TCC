@@ -13,7 +13,7 @@ E  evidencia a extrema devoção do carpinteiro ao seu ofício.
 02E
 D  combatido por vacinas que devem ser aplicadas tanto em mulheres quanto em homens.
 03E
-
+B  distanciamento dos ﬁlhos, gerado pela apropriação da língua e da cultura do outro.
 04E
 E  tenham melhores condições de vida.
 05E
@@ -375,5 +375,3 @@ D Fração: no numerador 2 e no denominador 15.
 A P de t é igual a 99 mais 21 vezes cosseno abre parêntese 3 vezes pi vezes t fecha parêntese.
 180
 A 5 menos fração com numerador raiz quadrada de 91 sobre denominador 2.
-
-Questões problemáticas: ['03E', '32', '47']
