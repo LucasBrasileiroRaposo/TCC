@@ -1,8 +1,8 @@
 # TCC
 ## Crie uma venv:
-    python -m venv venv<br>
+    python -m venv venv
 ## Acesse a venv:
-    ./venv/Scripts/activate<br>
+    ./venv/Scripts/activate
 ## Dentro da venv, instale as dependências presentes no requirements.txt com o comando:
     pip install -r requirements.txt<br>
 ## E execute os arquivos dentro da venv, acessando pelo passo 2<br>
