@@ -1,5 +1,5 @@
 # TCC
-Repositório tuilizados para armazenar código do experimento do meu Trabalho de Conclusão de Curso em Ciências da Computação na UFCG (08/05/24)
+Repositório utilizado para armazenar código do experimento do meu Trabalho de Conclusão de Curso em Ciências da Computação na UFCG (08/05/24)
 ## Crie uma venv:
     python -m venv venv
 ## Acesse a venv:
